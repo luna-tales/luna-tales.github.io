@@ -1,0 +1,4112 @@
+[
+  {
+    "decoyId": 136816,
+    "nameKr": "꽃기사 지렁이",
+    "hidden": true,
+    "items": [
+      {
+        "itemId": 136805,
+        "nameKr": "요정의 흔적 1개",
+        "probability": 0.2
+      },
+      {
+        "itemId": 136787,
+        "nameKr": "적월의 요정 날개 내구도",
+        "probability": 0.005
+      },
+      {
+        "itemId": 136785,
+        "nameKr": "백월의 요정 날개 내구도",
+        "probability": 0.005
+      },
+      {
+        "itemId": 136783,
+        "nameKr": "적월의 요정 얼굴 장식 내구도",
+        "probability": 0.005
+      },
+      {
+        "itemId": 136781,
+        "nameKr": "백월의 요정 얼굴 장식 내구도",
+        "probability": 0.005
+      },
+      {
+        "itemId": 81541,
+        "nameKr": "요리사 블루탱",
+        "nameTh": "บลูแทงค์เชฟ",
+        "probability": 30.0
+      },
+      {
+        "itemId": 81539,
+        "nameKr": "애교쟁이 키싱구라미",
+        "nameTh": "ปลาโกรามิแอ๊บแบ๊ว",
+        "probability": 9.0
+      },
+      {
+        "itemId": 81537,
+        "nameKr": "무리쉬 아이돌 스타",
+        "nameTh": "ปลาไอดอลโนรีครีบยาว",
+        "probability": 8.0
+      },
+      {
+        "itemId": 81535,
+        "nameKr": "박치기왕 플라워 혼",
+        "nameTh": "ปลาหมอสีหัวปูด",
+        "probability": 10.0
+      },
+      {
+        "itemId": 81533,
+        "nameKr": "점박이 트리커 피쉬",
+        "nameTh": "ปลาวัวไททันหลายจุด",
+        "probability": 38.78
+      },
+      {
+        "itemId": 81531,
+        "nameKr": "무지갯빛 베타",
+        "nameTh": "ปลากัดหลากสี",
+        "probability": 4.0
+      }
+    ]
+  },
+  {
+    "decoyId": 135252,
+    "nameKr": "VIP 갯지렁이",
+    "hidden": true,
+    "items": [
+      {
+        "itemId": 135312,
+        "nameKr": "VIP 히든 티켓 1개",
+        "probability": 0.01
+      },
+      {
+        "itemId": 135300,
+        "nameKr": "VIP 교환 티켓 II 1개",
+        "probability": 0.05
+      },
+      {
+        "itemId": 116499,
+        "nameKr": "비기너 러닝 포션 1개",
+        "nameTh": "น้ำยาบีกินเนอร์รันนิ่ง 1 ชิ้น",
+        "probability": 0.5
+      },
+      {
+        "itemId": 116497,
+        "nameKr": "주니어 러닝 포션 1개",
+        "nameTh": "น้ำยาจูเนียร์รันนิ่ง 1 ชิ้น",
+        "probability": 0.1
+      },
+      {
+        "itemId": 116495,
+        "nameKr": "시니어 러닝 포션 1개",
+        "nameTh": "น้ำยาซีเนียร์รันนิ่ง 1 ชิ้น",
+        "probability": 0.05
+      },
+      {
+        "itemId": 116493,
+        "nameKr": "마스터 러닝 포션 1개",
+        "nameTh": "น้ำยามาสเตอร์รันนิ่ง 1 ชิ้น",
+        "probability": 0.01
+      },
+      {
+        "itemId": 81539,
+        "nameKr": "애교쟁이 키싱구라미",
+        "nameTh": "ปลาโกรามิแอ๊บแบ๊ว",
+        "probability": 26.64
+      },
+      {
+        "itemId": 81537,
+        "nameKr": "무리쉬 아이돌 스타",
+        "nameTh": "ปลาไอดอลโนรีครีบยาว",
+        "probability": 15.0
+      },
+      {
+        "itemId": 81531,
+        "nameKr": "무지갯빛 베타",
+        "nameTh": "ปลากัดหลากสี",
+        "probability": 8.0
+      },
+      {
+        "itemId": 77748,
+        "nameKr": "엔젤 다랑어",
+        "nameTh": "แองเจิลทูน่า",
+        "probability": 8.0
+      },
+      {
+        "itemId": 77746,
+        "nameKr": "꿀벌 갈치",
+        "nameTh": "ปลาดาบผึ้งมิ้ม",
+        "probability": 15.0
+      },
+      {
+        "itemId": 77744,
+        "nameKr": "하트 두동가리돔",
+        "nameTh": "ปลาโนรีเกล็ดครีบยาวหัวใจ",
+        "probability": 26.64
+      }
+    ]
+  },
+  {
+    "decoyId": 133371,
+    "nameKr": "도슨트 지렁이",
+    "hidden": true,
+    "items": [
+      {
+        "itemId": 133390,
+        "nameKr": "고요한 밤의 슈룹 팩 1개",
+        "probability": 0.03
+      },
+      {
+        "itemId": 133388,
+        "nameKr": "화창한 낮의 슈룹 팩 1개",
+        "probability": 0.03
+      },
+      {
+        "itemId": 133378,
+        "nameKr": "분홍빛 연꽃 금붕어 1개",
+        "probability": 0.25
+      },
+      {
+        "itemId": 133099,
+        "nameKr": "아틀리에 코인 100개",
+        "probability": 1.5
+      },
+      {
+        "itemId": 133093,
+        "nameKr": "아틀리에 코인 50개",
+        "probability": 3.0
+      },
+      {
+        "itemId": 133091,
+        "nameKr": "아틀리에 코인 30개",
+        "probability": 7.0
+      },
+      {
+        "itemId": 132529,
+        "nameKr": "미스틱 다이얼 파편 1개",
+        "probability": 0.31
+      },
+      {
+        "itemId": 132523,
+        "nameKr": "미스틱 다이얼 열쇠 1개",
+        "probability": 0.1
+      },
+      {
+        "itemId": 132517,
+        "nameKr": "봉인된 미스틱 다이얼 상자 1개",
+        "probability": 0.2
+      },
+      {
+        "itemId": 132511,
+        "nameKr": "미스틱 다이얼 상자 1개",
+        "probability": 0.1
+      },
+      {
+        "itemId": 132329,
+        "nameKr": "아틀리에 상자 5개",
+        "probability": 2.5
+      },
+      {
+        "itemId": 132328,
+        "nameKr": "아틀리에 상자 3개",
+        "probability": 5.5
+      },
+      {
+        "itemId": 132327,
+        "nameKr": "아틀리에 상자 2개",
+        "probability": 10.0
+      },
+      {
+        "itemId": 132326,
+        "nameKr": "아틀리에 상자 1개",
+        "probability": 18.0
+      },
+      {
+        "itemId": 132301,
+        "nameKr": "아틀리에 열쇠 5개",
+        "probability": 2.5
+      },
+      {
+        "itemId": 132300,
+        "nameKr": "아틀리에 열쇠 3개",
+        "probability": 5.5
+      },
+      {
+        "itemId": 132299,
+        "nameKr": "아틀리에 열쇠 2개",
+        "probability": 10.0
+      },
+      {
+        "itemId": 132298,
+        "nameKr": "아틀리에 열쇠 1개",
+        "probability": 17.48
+      },
+      {
+        "itemId": 131081,
+        "nameKr": "아틀리에 코인 15개",
+        "probability": 16.0
+      }
+    ]
+  },
+  {
+    "decoyId": 131478,
+    "nameKr": "황금 갯갯갯지렁이",
+    "hidden": true,
+    "items": [
+      {
+        "itemId": 131615,
+        "nameKr": "물먹은 깡통 3개",
+        "probability": 10.0
+      },
+      {
+        "itemId": 131614,
+        "nameKr": "찢어진 그물 3개",
+        "probability": 10.0
+      },
+      {
+        "itemId": 131613,
+        "nameKr": "구멍난 양말 3개",
+        "probability": 10.0
+      },
+      {
+        "itemId": 131612,
+        "nameKr": "비닐 봉투 3개",
+        "probability": 10.0
+      },
+      {
+        "itemId": 131510,
+        "nameKr": "트리플 황금 왕꽃아귀",
+        "probability": 3.0
+      },
+      {
+        "itemId": 131508,
+        "nameKr": "트리플 황금 하트 연어",
+        "probability": 25.64
+      },
+      {
+        "itemId": 131506,
+        "nameKr": "트리플 황금 핑크 해마",
+        "probability": 15.0
+      },
+      {
+        "itemId": 131504,
+        "nameKr": "트리플 황금 블루 해파리",
+        "probability": 10.0
+      },
+      {
+        "itemId": 131502,
+        "nameKr": "트리플 황금 옐로우탱 쉐프",
+        "probability": 5.0
+      },
+      {
+        "itemId": 131500,
+        "nameKr": "트리플 황금 구름 청새치",
+        "probability": 1.0
+      },
+      {
+        "itemId": 112712,
+        "nameKr": "2nd 브론즈 체스트 1개",
+        "nameTh": "กล่องทองแดง 2nd 1 ชิ้น",
+        "probability": 0.2
+      },
+      {
+        "itemId": 112706,
+        "nameKr": "2nd 실버 체스트 1개",
+        "nameTh": "กล่องเงิน 2nd 1 ชิ้น",
+        "probability": 0.1
+      },
+      {
+        "itemId": 112700,
+        "nameKr": "2nd 골드 체스트 1개",
+        "nameTh": "กล่องทอง 2nd 1 ชิ้น",
+        "probability": 0.05
+      },
+      {
+        "itemId": 112694,
+        "nameKr": "2nd 다이아 체스트 1개",
+        "nameTh": "กล่องเพชร 2nd 1 ชิ้น",
+        "probability": 0.01
+      }
+    ]
+  },
+  {
+    "decoyId": 131472,
+    "nameKr": "다이아 갯갯갯지렁이",
+    "hidden": true,
+    "items": [
+      {
+        "itemId": 131615,
+        "nameKr": "물먹은 깡통 3개",
+        "probability": 12.3001
+      },
+      {
+        "itemId": 131614,
+        "nameKr": "찢어진 그물 3개",
+        "probability": 12.3001
+      },
+      {
+        "itemId": 131613,
+        "nameKr": "구멍난 양말 3개",
+        "probability": 12.3001
+      },
+      {
+        "itemId": 131612,
+        "nameKr": "비닐 봉투 3개",
+        "probability": 12.3001
+      },
+      {
+        "itemId": 131498,
+        "nameKr": "트리플 점박이 트리커 피쉬",
+        "probability": 18.4502
+      },
+      {
+        "itemId": 131496,
+        "nameKr": "트리플 요리사 블루탱",
+        "probability": 12.3001
+      },
+      {
+        "itemId": 131494,
+        "nameKr": "트리플 박치기왕 플라워 혼",
+        "probability": 9.8401
+      },
+      {
+        "itemId": 131492,
+        "nameKr": "트리플 애교쟁이 키싱구라미",
+        "probability": 4.92
+      },
+      {
+        "itemId": 131490,
+        "nameKr": "트리플 무리쉬 아이돌 스타",
+        "probability": 3.69
+      },
+      {
+        "itemId": 131488,
+        "nameKr": "트리플 무지갯빛 베타",
+        "probability": 1.23
+      },
+      {
+        "itemId": 112712,
+        "nameKr": "2nd 브론즈 체스트 1개",
+        "nameTh": "กล่องทองแดง 2nd 1 ชิ้น",
+        "probability": 0.2091
+      },
+      {
+        "itemId": 112706,
+        "nameKr": "2nd 실버 체스트 1개",
+        "nameTh": "กล่องเงิน 2nd 1 ชิ้น",
+        "probability": 0.0984
+      },
+      {
+        "itemId": 112700,
+        "nameKr": "2nd 골드 체스트 1개",
+        "nameTh": "กล่องทอง 2nd 1 ชิ้น",
+        "probability": 0.0492
+      },
+      {
+        "itemId": 112694,
+        "nameKr": "2nd 다이아 체스트 1개",
+        "nameTh": "กล่องเพชร 2nd 1 ชิ้น",
+        "probability": 0.0123
+      }
+    ]
+  },
+  {
+    "decoyId": 130870,
+    "nameKr": "달나라 지렁이",
+    "hidden": true,
+    "items": [
+      {
+        "itemId": 119415,
+        "nameKr": "달나라 베타",
+        "nameTh": "ปลากัดดินแดนจันทรา",
+        "probability": 4.0
+      },
+      {
+        "itemId": 119413,
+        "nameKr": "달나라 트리커 피쉬",
+        "nameTh": "ปลาวัวไททันดินแดนจันทรา",
+        "probability": 24.0
+      },
+      {
+        "itemId": 119411,
+        "nameKr": "달나라 플라워 혼",
+        "nameTh": "ปลาหมอสีดินแดนจันทรา",
+        "probability": 31.6
+      },
+      {
+        "itemId": 119409,
+        "nameKr": "달나라 무리쉬",
+        "nameTh": "ปลาโนรีดินแดนจันทรา",
+        "probability": 8.0
+      },
+      {
+        "itemId": 119407,
+        "nameKr": "달나라 키싱구라미",
+        "nameTh": "ปลาโกรามิดินแดนจันทรา",
+        "probability": 12.0
+      },
+      {
+        "itemId": 119405,
+        "nameKr": "달나라 블루탱",
+        "nameTh": "บลูแทงค์ดินแดนจันทรา",
+        "probability": 20.0
+      },
+      {
+        "itemId": 119322,
+        "nameKr": "까만콩 펫 내구도",
+        "nameTh": "ถั่วดำ (ซ่อมแซม)",
+        "probability": 0.06
+      },
+      {
+        "itemId": 112712,
+        "nameKr": "2nd 브론즈 체스트 1개",
+        "nameTh": "กล่องทองแดง 2nd 1 ชิ้น",
+        "probability": 0.2
+      },
+      {
+        "itemId": 112706,
+        "nameKr": "2nd 실버 체스트 1개",
+        "nameTh": "กล่องเงิน 2nd 1 ชิ้น",
+        "probability": 0.08
+      },
+      {
+        "itemId": 112700,
+        "nameKr": "2nd 골드 체스트 1개",
+        "nameTh": "กล่องทอง 2nd 1 ชิ้น",
+        "probability": 0.04
+      },
+      {
+        "itemId": 112694,
+        "nameKr": "2nd 다이아 체스트 1개",
+        "nameTh": "กล่องเพชร 2nd 1 ชิ้น",
+        "probability": 0.02
+      }
+    ]
+  },
+  {
+    "decoyId": 130861,
+    "nameKr": "추석 대박 지렁이",
+    "hidden": true,
+    "items": [
+      {
+        "itemId": 130444,
+        "nameKr": "고급 지렁이 선택권 1개",
+        "probability": 0.09
+      },
+      {
+        "itemId": 130334,
+        "nameKr": "빛바랜 루미안 상자 1개",
+        "probability": 0.15
+      },
+      {
+        "itemId": 130328,
+        "nameKr": "일곱빛깔 루미안 상자 1개",
+        "probability": 0.0025
+      },
+      {
+        "itemId": 129286,
+        "nameKr": "다이아 갯지렁이 50개",
+        "probability": 5.0
+      },
+      {
+        "itemId": 128923,
+        "nameKr": "다이아 갯지렁이 100개",
+        "probability": 2.5
+      },
+      {
+        "itemId": 128868,
+        "nameKr": "마스터 코인 3개",
+        "probability": 5.0
+      },
+      {
+        "itemId": 128035,
+        "nameKr": "New.2 스페셜 변경권 상자 1개",
+        "probability": 0.005
+      },
+      {
+        "itemId": 128029,
+        "nameKr": "New.2 변경권 상자 1개",
+        "probability": 0.025
+      },
+      {
+        "itemId": 127938,
+        "nameKr": "New.2 레전더리 변경권 1개",
+        "probability": 0.0025
+      },
+      {
+        "itemId": 127932,
+        "nameKr": "New.2 펫 히든 변경권 1개",
+        "probability": 0.005
+      },
+      {
+        "itemId": 127920,
+        "nameKr": "New.2 프레스티지 변경권 1개",
+        "probability": 0.001
+      },
+      {
+        "itemId": 127914,
+        "nameKr": "평범한 박스 티켓 1개",
+        "probability": 1.5
+      },
+      {
+        "itemId": 127908,
+        "nameKr": "빛나는 박스 티켓 1개",
+        "probability": 1.25
+      },
+      {
+        "itemId": 127902,
+        "nameKr": "화려한 박스 티켓 1개",
+        "probability": 1.0
+      },
+      {
+        "itemId": 127531,
+        "nameKr": "무지개 왕관 지렁이 100개",
+        "probability": 0.25
+      },
+      {
+        "itemId": 127527,
+        "nameKr": "무지개 왕관 지렁이 50개",
+        "probability": 0.5
+      },
+      {
+        "itemId": 126566,
+        "nameKr": "올스타 채널 캡슐 주머니 1개",
+        "probability": 5.0
+      },
+      {
+        "itemId": 126560,
+        "nameKr": "미스터리 체스트 II 1개",
+        "probability": 5.0
+      },
+      {
+        "itemId": 124385,
+        "nameKr": "휴몽의 보드판 III 리셋 쿠폰 1개",
+        "nameTh": "ตั๋วรีเซ็ตกระดานบอร์ดฮูมง III 1 ชิ้น",
+        "probability": 7.5
+      },
+      {
+        "itemId": 124381,
+        "nameKr": "휴몽의 보드판 III 쿠폰 3개",
+        "nameTh": "ตั๋วกระดานบอร์ดฮูมง III 3 ชิ้น",
+        "probability": 7.5
+      },
+      {
+        "itemId": 121683,
+        "nameKr": "만능 프레스티지 박스 1개",
+        "nameTh": "กล่องเพรสทิจีอเนกประสงค์ 1 ชิ้น",
+        "probability": 0.01
+      },
+      {
+        "itemId": 119294,
+        "nameKr": "프레스티지 재료 교환권 1개",
+        "nameTh": "ตั๋วแลกวัตถุดิบเพรสทิจี 1 ชิ้น",
+        "probability": 0.01
+      },
+      {
+        "itemId": 119288,
+        "nameKr": "프레스티지 재료 주머니 1개",
+        "nameTh": "ถุงวัตถุดิบเพรสทิจี 1 ชิ้น",
+        "probability": 0.1
+      },
+      {
+        "itemId": 119285,
+        "nameKr": "해왕강림 지렁이 100개",
+        "nameTh": "ไส้เดือนราชาท้องทะเลจุติ 100 ชิ้น",
+        "probability": 0.25
+      },
+      {
+        "itemId": 119284,
+        "nameKr": "해왕강림 지렁이 50개",
+        "nameTh": "ไส้เดือนราชาท้องทะเลจุติ 50 ชิ้น",
+        "probability": 0.5
+      },
+      {
+        "itemId": 119240,
+        "nameKr": "해원의 수호 상자 1개",
+        "nameTh": "กล่องพิทักษ์การเดินเรือ 1 ชิ้น",
+        "probability": 0.0005
+      },
+      {
+        "itemId": 118596,
+        "nameKr": "EXP 랜덤 박스 10개",
+        "nameTh": "กล่องสุ่ม EXP 10 ชิ้น",
+        "probability": 8.0
+      },
+      {
+        "itemId": 118595,
+        "nameKr": "EXP 랜덤 박스 5개",
+        "nameTh": "กล่องสุ่ม EXP 5 ชิ้น",
+        "probability": 14.0
+      },
+      {
+        "itemId": 117667,
+        "nameKr": "오르비스의 구체 1개",
+        "nameTh": "แก้วออร์บิส 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 117607,
+        "nameKr": "불길한 꿈의 주머니 1개",
+        "nameTh": "ถุงความฝันลางร้าย 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 117473,
+        "nameKr": "TR 복주머니 (대) 1개",
+        "nameTh": "ถุงนำโชค TR (ใหญ่) 1 ชิ้น",
+        "probability": 0.2
+      },
+      {
+        "itemId": 117467,
+        "nameKr": "TR 복주머니 (중) 1개",
+        "nameTh": "ถุงนำโชค TR (กลาง) 1 ชิ้น",
+        "probability": 1.0
+      },
+      {
+        "itemId": 117463,
+        "nameKr": "TR 복주머니 (소) 3개",
+        "nameTh": "ถุงนำโชค TR (เล็ก) 3 ชิ้น",
+        "probability": 3.0
+      },
+      {
+        "itemId": 117462,
+        "nameKr": "TR 복주머니 (소) 2개",
+        "nameTh": "ถุงนำโชค TR (เล็ก) 2 ชิ้น",
+        "probability": 5.0
+      },
+      {
+        "itemId": 117461,
+        "nameKr": "TR 복주머니 (소) 1개",
+        "nameTh": "ถุงนำโชค TR (เล็ก) 1 ชิ้น",
+        "probability": 10.0
+      },
+      {
+        "itemId": 116499,
+        "nameKr": "비기너 러닝 포션 1개",
+        "nameTh": "น้ำยาบีกินเนอร์รันนิ่ง 1 ชิ้น",
+        "probability": 0.5
+      },
+      {
+        "itemId": 116497,
+        "nameKr": "주니어 러닝 포션 1개",
+        "nameTh": "น้ำยาจูเนียร์รันนิ่ง 1 ชิ้น",
+        "probability": 0.1
+      },
+      {
+        "itemId": 116495,
+        "nameKr": "시니어 러닝 포션 1개",
+        "nameTh": "น้ำยาซีเนียร์รันนิ่ง 1 ชิ้น",
+        "probability": 0.05
+      },
+      {
+        "itemId": 116493,
+        "nameKr": "마스터 러닝 포션 1개",
+        "nameTh": "น้ำยามาสเตอร์รันนิ่ง 1 ชิ้น",
+        "probability": 0.02
+      },
+      {
+        "itemId": 115945,
+        "nameKr": "황금 갯지렁이 50개",
+        "nameTh": "ไส้เดือนสีทอง 50 ชิ้น",
+        "probability": 7.5
+      },
+      {
+        "itemId": 115336,
+        "nameKr": "황금 갯지렁이 100개",
+        "nameTh": "ไส้เดือนสีทอง 100 ชิ้น",
+        "probability": 3.5
+      },
+      {
+        "itemId": 115277,
+        "nameKr": "축복받은 기운 주머니 1개",
+        "nameTh": "ถุงพลังที่ได้รับพร 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 113415,
+        "nameKr": "불타는 업화의 성배 1개",
+        "nameTh": "จอกศักดิ์สิทธิ์เปลวไฟแผดเผา 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 113302,
+        "nameKr": "왕족의 권위 상자 1개",
+        "nameTh": "กล่องอิทธิพลโอเซียส 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 113120,
+        "nameKr": "라트리크 소환서 1개",
+        "nameTh": "ม้วนอัญเชิญลาทริก 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 112736,
+        "nameKr": "2nd 브론즈 티켓 1개",
+        "nameTh": "ตั๋วทองแดง 2nd 1 ชิ้น",
+        "probability": 0.15
+      },
+      {
+        "itemId": 112730,
+        "nameKr": "2nd 실버 티켓 1개",
+        "nameTh": "ตั๋วเงิน 2nd 1 ชิ้น",
+        "probability": 0.1
+      },
+      {
+        "itemId": 112724,
+        "nameKr": "2nd 골드 티켓 1개",
+        "nameTh": "ตั๋วทอง 2nd 1 ชิ้น",
+        "probability": 0.075
+      },
+      {
+        "itemId": 112718,
+        "nameKr": "2nd 다이아 티켓 1개",
+        "nameTh": "ตั๋วเพชร 2nd 1 ชิ้น",
+        "probability": 0.05
+      },
+      {
+        "itemId": 112712,
+        "nameKr": "2nd 브론즈 체스트 1개",
+        "nameTh": "กล่องทองแดง 2nd 1 ชิ้น",
+        "probability": 0.5
+      },
+      {
+        "itemId": 112706,
+        "nameKr": "2nd 실버 체스트 1개",
+        "nameTh": "กล่องเงิน 2nd 1 ชิ้น",
+        "probability": 0.25
+      },
+      {
+        "itemId": 112700,
+        "nameKr": "2nd 골드 체스트 1개",
+        "nameTh": "กล่องทอง 2nd 1 ชิ้น",
+        "probability": 0.15
+      },
+      {
+        "itemId": 112694,
+        "nameKr": "2nd 다이아 체스트 1개",
+        "nameTh": "กล่องเพชร 2nd 1 ชิ้น",
+        "probability": 0.1
+      },
+      {
+        "itemId": 111490,
+        "nameKr": "황운룡의 패물함 1개",
+        "nameTh": "หีบเพชรพลอยมังกรฮวังอุน 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 111434,
+        "nameKr": "여명의 보주함 1개",
+        "nameTh": "หีบมณีรุ่งอรุณ 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 111355,
+        "nameKr": "여명서가 의복함 1개",
+        "nameTh": "กล่องชุดเซียนรุ่งอรุณ 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 111353,
+        "nameKr": "황혼백가 의복함 1개",
+        "nameTh": "กล่องชุดเซียนอัสดง 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 111135,
+        "nameKr": "알록달록 소라 주머니 1개",
+        "nameTh": "ถุงหอยสังข์หลากสี 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 109769,
+        "nameKr": "7대 주선 기운 교환권 2개",
+        "nameTh": "ตั๋วแลกพลังคุณธรรม 7 ประการ 2 ชิ้น",
+        "probability": 0.0025
+      },
+      {
+        "itemId": 109762,
+        "nameKr": "7대 죄악 영혼 교환권 1개",
+        "nameTh": "ตั๋วแลกวิญญาณบาป 7 ประการ 1 ชิ้น",
+        "probability": 0.0025
+      },
+      {
+        "itemId": 109134,
+        "nameKr": "수룡의 계보 1개",
+        "nameTh": "ลูกหลานมังกรวารี 1 ชิ้น",
+        "probability": 0.0015
+      },
+      {
+        "itemId": 109076,
+        "nameKr": "7대 주선의 상자 1개",
+        "nameTh": "กล่องคุณธรรม 7 ประการ 1 ชิ้น",
+        "probability": 0.001
+      },
+      {
+        "itemId": 108923,
+        "nameKr": "도리스의 심연 상자 1개",
+        "nameTh": "กล่องห้วงลึกดอริส 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 108857,
+        "nameKr": "알록달록 산호 주머니 1개",
+        "nameTh": "ถุงปะการังหลากสี 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 108758,
+        "nameKr": "데이스타 상자 1개",
+        "nameTh": "กล่องเดย์สตาร์ 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 107128,
+        "nameKr": "선샤인 지렁이 100개",
+        "nameTh": "ไส้เดือนแสงแดด 100 ชิ้น",
+        "probability": 0.25
+      },
+      {
+        "itemId": 107127,
+        "nameKr": "선샤인 지렁이 50개",
+        "nameTh": "ไส้เดือนแสงแดด 50 ชิ้น",
+        "probability": 0.5
+      },
+      {
+        "itemId": 105895,
+        "nameKr": "마벨러스 청염 상자 1개",
+        "nameTh": "กล่องมาร์เวลลัสไฟสีฟ้า 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 105863,
+        "nameKr": "클라르테 차원 상자 1개",
+        "nameTh": "กล่องมิติคลาร์เต 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 103606,
+        "nameKr": "스페이스 쥬얼 상자 1개",
+        "nameTh": "กล่องอัญมณีสเปซ 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 103266,
+        "nameKr": "신시아의 달빛 상자 1개",
+        "nameTh": "กล่องแสงจันทร์ซินเธีย 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 103135,
+        "nameKr": "미지의 차원 주머니 1개",
+        "nameTh": "ถุงมิติที่ไม่มีใครรู้จัก 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 102956,
+        "nameKr": "관리국 요원 상자 1개",
+        "nameTh": "กล่องเจ้าหน้าที่ฝ่ายดูแล 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 100246,
+        "nameKr": "지옥의 불꽃 상자 1개",
+        "nameTh": "กล่องเปลวไฟนรก 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 100189,
+        "nameKr": "차사의 영혼 주머니 1개",
+        "nameTh": "ถุงวิญญาณยมทูต 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 99754,
+        "nameKr": "염라의 신줏단지 1개",
+        "nameTh": "กล่องสมบัติแห่งความตาย 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 99487,
+        "nameKr": "7대 주선 기운 주머니 2개",
+        "nameTh": "ถุงพลังคุณธรรม 7 ประการ 2 ชิ้น",
+        "probability": 0.01
+      },
+      {
+        "itemId": 99012,
+        "nameKr": "7대 죄악 영혼 주머니 1개",
+        "nameTh": "ถุงวิญญาณบาป 7 ประการ 1 ชิ้น",
+        "probability": 0.005
+      },
+      {
+        "itemId": 99006,
+        "nameKr": "별빛 지렁이 50개",
+        "nameTh": "ไส้เดือนแสงดาว 50 ชิ้น",
+        "probability": 0.5
+      },
+      {
+        "itemId": 98280,
+        "nameKr": "별빛 지렁이 100개",
+        "nameTh": "ไส้เดือนแสงดาว 100 ชิ้น",
+        "probability": 0.25
+      },
+      {
+        "itemId": 98002,
+        "nameKr": "반짝이는 여우별 상자 1개",
+        "nameTh": "กล่องดาวจิ้งจองส่องแสง 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 98000,
+        "nameKr": "레미니스 삐에로 상자 1개",
+        "nameTh": "กล่องปิเอโร่เรมินิส 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 96259,
+        "nameKr": "타락한 자의 영혼석 1개",
+        "nameTh": "หินวิญญาณผู้เสื่อมโทรม 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 96225,
+        "nameKr": "타락한 동화 주머니 1개",
+        "nameTh": "ถุงนิทานเสื่อมโทรม 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 96220,
+        "nameKr": "테일즈 가디언 주머니 1개",
+        "nameTh": "ถุงเทลส์การ์เดียน 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 96210,
+        "nameKr": "앙리 2세의 전리품 1개",
+        "nameTh": "ของเชลยกษัตริย์เฮนรี่ที่ 2 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 95991,
+        "nameKr": "승리의 지렁이 100개",
+        "nameTh": "ไส้เดือนแห่งชัยชนะ 100 ชิ้น",
+        "probability": 0.25
+      },
+      {
+        "itemId": 95665,
+        "nameKr": "승리의 지렁이 50개",
+        "nameTh": "ไส้เดือนแห่งชัยชนะ 50 ชิ้น",
+        "probability": 0.5
+      },
+      {
+        "itemId": 94110,
+        "nameKr": "감정의 주머니 1개",
+        "nameTh": "ถุงความรู้สึก 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 94105,
+        "nameKr": "심해의 유물상자 1개",
+        "nameTh": "กล่องสมบัติโบราณทะเลลึก 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 94057,
+        "nameKr": "감정의 제도 히든 상자 1개",
+        "nameTh": "กล่องลับหมู่เกาะความรู้สึก 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 92203,
+        "nameKr": "찬란한 꿈의 상자 1개",
+        "nameTh": "กล่องความฝันเจิดจ้า 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 92137,
+        "nameKr": "빛나는 황금 미믹 1개",
+        "nameTh": "มีมิกสีทองส่องแสง 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 91203,
+        "nameKr": "사신의 루비 1개",
+        "nameTh": "รูบี้ยมทูต 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 90803,
+        "nameKr": "어둠의 주머니 1개",
+        "nameTh": "ถุงมืดมน 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 90788,
+        "nameKr": "루시드 크리스탈 1개",
+        "nameTh": "คริสตัลใส 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 90518,
+        "nameKr": "던전 크리스탈 상자 1개",
+        "nameTh": "กล่องคริสตัลดันเจี้ยน 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 88794,
+        "nameKr": "7대 죄악의 상자 1개",
+        "nameTh": "กล่องบาป 7 ประการ 1 ชิ้น",
+        "probability": 0.001
+      },
+      {
+        "itemId": 88545,
+        "nameKr": "나이아스 물방울 1개",
+        "nameTh": "หยดน้ำเนียส 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 88095,
+        "nameKr": "테일즈 월계관 주머니 1개",
+        "nameTh": "ถุงมงกุฎลอเรลเทลส์ 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 85547,
+        "nameKr": "소울 스톤 1개",
+        "nameTh": "หินวิญญาณ 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 85072,
+        "nameKr": "성주신의 보패 주머니 1개",
+        "nameTh": "ถุงสมบัติของเทพปกครองเมือง 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 84554,
+        "nameKr": "빈센트 주머니 1개",
+        "nameTh": "ถุงวินเซนต์ 1 ชิ้น",
+        "probability": 0.0075
+      },
+      {
+        "itemId": 83817,
+        "nameKr": "타락한 천사의 주머니 1개",
+        "nameTh": "ถุงแองเจิลเสื่อมทราม 1 ชิ้น",
+        "probability": 0.0075
+      }
+    ]
+  },
+  {
+    "decoyId": 128927,
+    "nameKr": "애니빌 지렁이",
+    "hidden": true,
+    "items": [
+      {
+        "itemId": 128965,
+        "nameKr": "밀덕이는 낚시 중 내구도",
+        "probability": 0.02
+      },
+      {
+        "itemId": 128963,
+        "nameKr": "쌀덕이는 낚시 중 내구도",
+        "probability": 0.02
+      },
+      {
+        "itemId": 128961,
+        "nameKr": "낚시왕 밀덕이 내구도",
+        "probability": 0.02
+      },
+      {
+        "itemId": 128959,
+        "nameKr": "낚시왕 쌀덕이 내구도",
+        "probability": 0.02
+      },
+      {
+        "itemId": 128957,
+        "nameKr": "밀덕이는 명상 중 내구도",
+        "probability": 0.02
+      },
+      {
+        "itemId": 128955,
+        "nameKr": "쌀덕이는 명상 중 내구도",
+        "probability": 0.02
+      },
+      {
+        "itemId": 128946,
+        "nameKr": "낚시왕 덕이 증표 1개",
+        "probability": 1.0
+      },
+      {
+        "itemId": 128825,
+        "nameKr": "애니멀 빌리지 코인 15개",
+        "probability": 32.6
+      },
+      {
+        "itemId": 128796,
+        "nameKr": "애니멀 빌리지 코인 20개",
+        "probability": 4.0
+      },
+      {
+        "itemId": 128778,
+        "nameKr": "애니멀 빌리지 코인 100개",
+        "probability": 0.4
+      },
+      {
+        "itemId": 128773,
+        "nameKr": "애니멀 빌리지 코인 50개",
+        "probability": 1.0
+      },
+      {
+        "itemId": 128772,
+        "nameKr": "애니멀 빌리지 코인 30개",
+        "probability": 2.0
+      },
+      {
+        "itemId": 128188,
+        "nameKr": "희미한 꼬리별 2개",
+        "probability": 2.4
+      },
+      {
+        "itemId": 128187,
+        "nameKr": "희미한 꼬리별 1개",
+        "probability": 10.0
+      },
+      {
+        "itemId": 128181,
+        "nameKr": "빛나는 꼬리별 1개",
+        "probability": 0.6
+      },
+      {
+        "itemId": 128169,
+        "nameKr": "일리피아의 상자 1개",
+        "probability": 0.2
+      },
+      {
+        "itemId": 128110,
+        "nameKr": "애니멀 빌리지 상자 5개",
+        "probability": 0.8
+      },
+      {
+        "itemId": 128109,
+        "nameKr": "애니멀 빌리지 상자 3개",
+        "probability": 1.6
+      },
+      {
+        "itemId": 128108,
+        "nameKr": "애니멀 빌리지 상자 2개",
+        "probability": 3.0
+      },
+      {
+        "itemId": 128107,
+        "nameKr": "애니멀 빌리지 상자 1개",
+        "probability": 33.28
+      },
+      {
+        "itemId": 128092,
+        "nameKr": "애니멀 빌리지 열쇠 5개",
+        "probability": 1.0
+      },
+      {
+        "itemId": 128091,
+        "nameKr": "애니멀 빌리지 열쇠 3개",
+        "probability": 2.0
+      },
+      {
+        "itemId": 128090,
+        "nameKr": "애니멀 빌리지 열쇠 2개",
+        "probability": 4.0
+      }
+    ]
+  },
+  {
+    "decoyId": 128917,
+    "nameKr": "다이아 갯지렁이",
+    "hidden": true,
+    "items": [
+      {
+        "itemId": 112712,
+        "nameKr": "2nd 브론즈 체스트 1개",
+        "nameTh": "กล่องทองแดง 2nd 1 ชิ้น",
+        "probability": 0.2091
+      },
+      {
+        "itemId": 112706,
+        "nameKr": "2nd 실버 체스트 1개",
+        "nameTh": "กล่องเงิน 2nd 1 ชิ้น",
+        "probability": 0.0984
+      },
+      {
+        "itemId": 112700,
+        "nameKr": "2nd 골드 체스트 1개",
+        "nameTh": "กล่องทอง 2nd 1 ชิ้น",
+        "probability": 0.0492
+      },
+      {
+        "itemId": 112694,
+        "nameKr": "2nd 다이아 체스트 1개",
+        "nameTh": "กล่องเพชร 2nd 1 ชิ้น",
+        "probability": 0.0123
+      },
+      {
+        "itemId": 81541,
+        "nameKr": "요리사 블루탱",
+        "nameTh": "บลูแทงค์เชฟ",
+        "probability": 12.3001
+      },
+      {
+        "itemId": 81539,
+        "nameKr": "애교쟁이 키싱구라미",
+        "nameTh": "ปลาโกรามิแอ๊บแบ๊ว",
+        "probability": 4.92
+      },
+      {
+        "itemId": 81537,
+        "nameKr": "무리쉬 아이돌 스타",
+        "nameTh": "ปลาไอดอลโนรีครีบยาว",
+        "probability": 3.69
+      },
+      {
+        "itemId": 81535,
+        "nameKr": "박치기왕 플라워 혼",
+        "nameTh": "ปลาหมอสีหัวปูด",
+        "probability": 9.8401
+      },
+      {
+        "itemId": 81533,
+        "nameKr": "점박이 트리커 피쉬",
+        "nameTh": "ปลาวัวไททันหลายจุด",
+        "probability": 18.4502
+      },
+      {
+        "itemId": 81531,
+        "nameKr": "무지갯빛 베타",
+        "nameTh": "ปลากัดหลากสี",
+        "probability": 1.23
+      },
+      {
+        "itemId": 77701,
+        "nameKr": "물먹은 깡통 1개",
+        "nameTh": "กระป๋องน้ำเต็ม 1 ชิ้น",
+        "probability": 12.3001
+      },
+      {
+        "itemId": 77699,
+        "nameKr": "찢어진 그물 1개",
+        "nameTh": "เศษตาข่าย 1 ชิ้น",
+        "probability": 12.3001
+      },
+      {
+        "itemId": 77697,
+        "nameKr": "구멍난 양말 1개",
+        "nameTh": "ถุงเท้าขาด 1 ชิ้น",
+        "probability": 12.3001
+      },
+      {
+        "itemId": 77695,
+        "nameKr": "비닐 봉투 1개",
+        "nameTh": "เศษถุงดำ 1 ชิ้น",
+        "probability": 12.3001
+      }
+    ]
+  },
+  {
+    "decoyId": 127429,
+    "nameKr": "무지개 왕관 지렁이",
+    "hidden": true,
+    "items": [
+      {
+        "itemId": 127424,
+        "nameKr": "무지개 파편 1개",
+        "probability": 0.2
+      },
+      {
+        "itemId": 127422,
+        "nameKr": "루미안 블랙 크라운 팩 1개",
+        "probability": 0.01
+      },
+      {
+        "itemId": 127420,
+        "nameKr": "루미안 퍼플 크라운 팩 1개",
+        "probability": 0.01
+      },
+      {
+        "itemId": 127418,
+        "nameKr": "루미안 다크블루 크라운 팩 1개",
+        "probability": 0.01
+      },
+      {
+        "itemId": 127416,
+        "nameKr": "루미안 블루 크라운 팩 1개",
+        "probability": 0.01
+      },
+      {
+        "itemId": 127414,
+        "nameKr": "루미안 그린 크라운 팩 1개",
+        "probability": 0.01
+      },
+      {
+        "itemId": 127412,
+        "nameKr": "루미안 옐로우 크라운 팩 1개",
+        "probability": 0.01
+      },
+      {
+        "itemId": 127410,
+        "nameKr": "루미안 오렌지 크라운 팩 1개",
+        "probability": 0.01
+      },
+      {
+        "itemId": 127408,
+        "nameKr": "루미안 레드 크라운 팩 1개",
+        "probability": 0.01
+      },
+      {
+        "itemId": 81541,
+        "nameKr": "요리사 블루탱",
+        "nameTh": "บลูแทงค์เชฟ",
+        "probability": 24.0
+      },
+      {
+        "itemId": 81539,
+        "nameKr": "애교쟁이 키싱구라미",
+        "nameTh": "ปลาโกรามิแอ๊บแบ๊ว",
+        "probability": 11.0
+      },
+      {
+        "itemId": 81537,
+        "nameKr": "무리쉬 아이돌 스타",
+        "nameTh": "ปลาไอดอลโนรีครีบยาว",
+        "probability": 7.0
+      },
+      {
+        "itemId": 81535,
+        "nameKr": "박치기왕 플라워 혼",
+        "nameTh": "ปลาหมอสีหัวปูด",
+        "probability": 22.0
+      },
+      {
+        "itemId": 81533,
+        "nameKr": "점박이 트리커 피쉬",
+        "nameTh": "ปลาวัวไททันหลายจุด",
+        "probability": 32.72
+      },
+      {
+        "itemId": 81531,
+        "nameKr": "무지갯빛 베타",
+        "nameTh": "ปลากัดหลากสี",
+        "probability": 3.0
+      }
+    ]
+  },
+  {
+    "decoyId": 123647,
+    "nameKr": "라스트 카오스 지렁이",
+    "nameTh": "ไส้เดือนลาสต์เคออส",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 123071,
+        "nameKr": "아쥬르 윙 내구도",
+        "nameTh": "ปีกอาชูร์ (ซ่อมแซม)",
+        "probability": 0.1327
+      },
+      {
+        "itemId": 123069,
+        "nameKr": "아쥬르 크라운 내구도",
+        "nameTh": "มงกุฎอาชูร์ (ซ่อมแซม)",
+        "probability": 0.1327
+      },
+      {
+        "itemId": 122954,
+        "nameKr": "라스트 카오스 금화 100개",
+        "nameTh": "เหรียญทองลาสต์เคออส 100 ชิ้น",
+        "probability": 1.1057
+      },
+      {
+        "itemId": 122908,
+        "nameKr": "대천사의 정수 2개",
+        "nameTh": "แกนอาร์คแองเจิล 2 ชิ้น",
+        "probability": 2.2114
+      },
+      {
+        "itemId": 122907,
+        "nameKr": "대천사의 정수 1개",
+        "nameTh": "แกนอาร์คแองเจิล 1 ชิ้น",
+        "probability": 4.4228
+      },
+      {
+        "itemId": 122902,
+        "nameKr": "대악마의 정수 2개",
+        "nameTh": "แกนอาร์คเดวิล 2 ชิ้น",
+        "probability": 2.2114
+      },
+      {
+        "itemId": 122901,
+        "nameKr": "대악마의 정수 1개",
+        "nameTh": "แกนอาร์คเดวิล 1 ชิ้น",
+        "probability": 4.4228
+      },
+      {
+        "itemId": 122892,
+        "nameKr": "해방된 프리마 엔젤 상자 2개",
+        "nameTh": "กล่องพรีมาแองเจิลคลายผนึก 2 ชิ้น",
+        "probability": 1.548
+      },
+      {
+        "itemId": 122891,
+        "nameKr": "해방된 프리마 엔젤 상자 1개",
+        "nameTh": "กล่องพรีมาแองเจิลคลายผนึก 1 ชิ้น",
+        "probability": 3.096
+      },
+      {
+        "itemId": 122880,
+        "nameKr": "해방된 프리마 데빌 상자 2개",
+        "nameTh": "กล่องพรีมาเดวิลคลายผนึก 2 ชิ้น",
+        "probability": 1.548
+      },
+      {
+        "itemId": 122879,
+        "nameKr": "해방된 프리마 데빌 상자 1개",
+        "nameTh": "กล่องพรีมาเดวิลคลายผนึก 1 ชิ้น",
+        "probability": 3.096
+      },
+      {
+        "itemId": 122786,
+        "nameKr": "낮의 쿠리옹 상자 2개",
+        "nameTh": "กล่องคุรีอองอรุณ 2 ชิ้น",
+        "probability": 4.4228
+      },
+      {
+        "itemId": 122785,
+        "nameKr": "낮의 쿠리옹 상자 1개",
+        "nameTh": "กล่องคุรีอองอรุณ 1 ชิ้น",
+        "probability": 8.8456
+      },
+      {
+        "itemId": 122727,
+        "nameKr": "에테르 스톰 체스트 1개",
+        "nameTh": "กล่องเอเธอร์สตรอม 1 ชิ้น",
+        "probability": 0.4423
+      },
+      {
+        "itemId": 122721,
+        "nameKr": "보이드 스톰 체스트 1개",
+        "nameTh": "กล่องวอยด์สตรอม 1 ชิ้น",
+        "probability": 0.4423
+      },
+      {
+        "itemId": 122587,
+        "nameKr": "라스트 카오스 상자 5개",
+        "nameTh": "กล่องลาสต์เคออส 5 ชิ้น",
+        "probability": 2.2114
+      },
+      {
+        "itemId": 122586,
+        "nameKr": "라스트 카오스 상자 3개",
+        "nameTh": "กล่องลาสต์เคออส 3 ชิ้น",
+        "probability": 6.6342
+      },
+      {
+        "itemId": 122584,
+        "nameKr": "라스트 카오스 상자 1개",
+        "nameTh": "กล่องลาสต์เคออส 1 ชิ้น",
+        "probability": 13.2685
+      },
+      {
+        "itemId": 122544,
+        "nameKr": "라스트 카오스 금화 50개",
+        "nameTh": "เหรียญทองลาสต์เคออส 50 ชิ้น",
+        "probability": 4.4228
+      },
+      {
+        "itemId": 122543,
+        "nameKr": "라스트 카오스 금화 30개",
+        "nameTh": "เหรียญทองลาสต์เคออส 30 ชิ้น",
+        "probability": 8.8456
+      },
+      {
+        "itemId": 122542,
+        "nameKr": "라스트 카오스 금화 20개",
+        "nameTh": "เหรียญทองลาสต์เคออส 20 ชิ้น",
+        "probability": 26.5369
+      }
+    ]
+  },
+  {
+    "decoyId": 119281,
+    "nameKr": "해왕강림 지렁이",
+    "nameTh": "ไส้เดือนราชาท้องทะเลจุติ",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 119240,
+        "nameKr": "해원의 수호 상자 1개",
+        "nameTh": "กล่องพิทักษ์การเดินเรือ 1 ชิ้น",
+        "probability": 0.01
+      },
+      {
+        "itemId": 109134,
+        "nameKr": "수룡의 계보 1개",
+        "nameTh": "ลูกหลานมังกรวารี 1 ชิ้น",
+        "probability": 0.1
+      },
+      {
+        "itemId": 81541,
+        "nameKr": "요리사 블루탱",
+        "nameTh": "บลูแทงค์เชฟ",
+        "probability": 24.0
+      },
+      {
+        "itemId": 81539,
+        "nameKr": "애교쟁이 키싱구라미",
+        "nameTh": "ปลาโกรามิแอ๊บแบ๊ว",
+        "probability": 11.0
+      },
+      {
+        "itemId": 81537,
+        "nameKr": "무리쉬 아이돌 스타",
+        "nameTh": "ปลาไอดอลโนรีครีบยาว",
+        "probability": 7.0
+      },
+      {
+        "itemId": 81535,
+        "nameKr": "박치기왕 플라워 혼",
+        "nameTh": "ปลาหมอสีหัวปูด",
+        "probability": 22.0
+      },
+      {
+        "itemId": 81533,
+        "nameKr": "점박이 트리커 피쉬",
+        "nameTh": "ปลาวัวไททันหลายจุด",
+        "probability": 32.89
+      },
+      {
+        "itemId": 81531,
+        "nameKr": "무지갯빛 베타",
+        "nameTh": "ปลากัดหลากสี",
+        "probability": 3.0
+      }
+    ]
+  },
+  {
+    "decoyId": 115297,
+    "nameKr": "황금 갯지렁이",
+    "nameTh": "ไส้เดือนสีทอง",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 115313,
+        "nameKr": "황금 하트 연어",
+        "nameTh": "ปลาแซลมอนฮาร์ตสีทอง",
+        "probability": 25.64
+      },
+      {
+        "itemId": 115311,
+        "nameKr": "황금 핑크 해마",
+        "nameTh": "ม้าน้ำสีทอง",
+        "probability": 15.0
+      },
+      {
+        "itemId": 115309,
+        "nameKr": "황금 블루 해파리",
+        "nameTh": "แมงกะพรุนสีทอง",
+        "probability": 10.0
+      },
+      {
+        "itemId": 115307,
+        "nameKr": "황금 옐로우탱 쉐프",
+        "nameTh": "เยลโล่แทงก์เชฟสีทอง",
+        "probability": 5.0
+      },
+      {
+        "itemId": 115305,
+        "nameKr": "황금 왕꽃아귀",
+        "nameTh": "ปลาแองเกลอร์ยักษ์สีทอง",
+        "probability": 3.0
+      },
+      {
+        "itemId": 115303,
+        "nameKr": "황금 구름 청새치",
+        "nameTh": "ปลากระโทงลายสีทอง",
+        "probability": 1.0
+      },
+      {
+        "itemId": 112712,
+        "nameKr": "2nd 브론즈 체스트 1개",
+        "nameTh": "กล่องทองแดง 2nd 1 ชิ้น",
+        "probability": 0.2
+      },
+      {
+        "itemId": 112706,
+        "nameKr": "2nd 실버 체스트 1개",
+        "nameTh": "กล่องเงิน 2nd 1 ชิ้น",
+        "probability": 0.1
+      },
+      {
+        "itemId": 112700,
+        "nameKr": "2nd 골드 체스트 1개",
+        "nameTh": "กล่องทอง 2nd 1 ชิ้น",
+        "probability": 0.05
+      },
+      {
+        "itemId": 112694,
+        "nameKr": "2nd 다이아 체스트 1개",
+        "nameTh": "กล่องเพชร 2nd 1 ชิ้น",
+        "probability": 0.01
+      },
+      {
+        "itemId": 77701,
+        "nameKr": "물먹은 깡통 1개",
+        "nameTh": "กระป๋องน้ำเต็ม 1 ชิ้น",
+        "probability": 10.0
+      },
+      {
+        "itemId": 77699,
+        "nameKr": "찢어진 그물 1개",
+        "nameTh": "เศษตาข่าย 1 ชิ้น",
+        "probability": 10.0
+      },
+      {
+        "itemId": 77697,
+        "nameKr": "구멍난 양말 1개",
+        "nameTh": "ถุงเท้าขาด 1 ชิ้น",
+        "probability": 10.0
+      },
+      {
+        "itemId": 77695,
+        "nameKr": "비닐 봉투 1개",
+        "nameTh": "เศษถุงดำ 1 ชิ้น",
+        "probability": 10.0
+      }
+    ]
+  },
+  {
+    "decoyId": 113596,
+    "nameKr": "데저트 지렁이",
+    "nameTh": "ไส้เดือนทะเลทราย",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 113595,
+        "nameKr": "페인리스 카타나 내구도",
+        "nameTh": "ดาบคาตานะไร้บาดแผล (ซ่อมแซม)",
+        "probability": 0.25
+      },
+      {
+        "itemId": 113593,
+        "nameKr": "피어리스 카타나 내구도",
+        "nameTh": "ดาบคาตานะไม่หวั่นเกรง (ซ่อมแซม)",
+        "probability": 0.25
+      },
+      {
+        "itemId": 113588,
+        "nameKr": "반짝이는 검신 3개",
+        "nameTh": "ดาบประกาย 3 ชิ้น",
+        "probability": 3.85
+      },
+      {
+        "itemId": 113587,
+        "nameKr": "반짝이는 검신 2개",
+        "nameTh": "ดาบประกาย 2 ชิ้น",
+        "probability": 10.0
+      },
+      {
+        "itemId": 113586,
+        "nameKr": "반짝이는 검신 1개",
+        "nameTh": "ดาบประกาย 1 ชิ้น",
+        "probability": 30.3
+      },
+      {
+        "itemId": 113497,
+        "nameKr": "오시아스 금화 500개",
+        "nameTh": "เหรียญทองโอเซียส 500 ชิ้น",
+        "probability": 0.01
+      },
+      {
+        "itemId": 113470,
+        "nameKr": "오시아스 금화 100개",
+        "nameTh": "เหรียญทองโอเซียส 100 ชิ้น",
+        "probability": 0.03
+      },
+      {
+        "itemId": 113467,
+        "nameKr": "오시아스 금화 50개",
+        "nameTh": "เหรียญทองโอเซียส 50 ชิ้น",
+        "probability": 1.0
+      },
+      {
+        "itemId": 113451,
+        "nameKr": "오시아스 금빛 상자 50개",
+        "nameTh": "กล่องโอเซียสสีทอง 50 ชิ้น",
+        "probability": 0.01
+      },
+      {
+        "itemId": 113415,
+        "nameKr": "불타는 업화의 성배 1개",
+        "nameTh": "จอกศักดิ์สิทธิ์เปลวไฟแผดเผา 1 ชิ้น",
+        "probability": 0.1
+      },
+      {
+        "itemId": 113409,
+        "nameKr": "업화의 성배 1개",
+        "nameTh": "จอกศักดิ์สิทธิ์เปลวไฟ 1 ชิ้น",
+        "probability": 0.3
+      },
+      {
+        "itemId": 113299,
+        "nameKr": "왕족의 상자 5개",
+        "nameTh": "กล่องราชวงศ์ 5 ชิ้น",
+        "probability": 0.3
+      },
+      {
+        "itemId": 113298,
+        "nameKr": "왕족의 상자 3개",
+        "nameTh": "กล่องราชวงศ์ 3 ชิ้น",
+        "probability": 1.0
+      },
+      {
+        "itemId": 113296,
+        "nameKr": "왕족의 상자 1개",
+        "nameTh": "กล่องราชวงศ์ 1 ชิ้น",
+        "probability": 2.0
+      },
+      {
+        "itemId": 113120,
+        "nameKr": "라트리크 소환서 1개",
+        "nameTh": "ม้วนอัญเชิญลาทริก 1 ชิ้น",
+        "probability": 0.1
+      },
+      {
+        "itemId": 113017,
+        "nameKr": "오시아스 은빛 상자 10개",
+        "nameTh": "กล่องโอเซียสสีเงิน 10 ชิ้น",
+        "probability": 0.5
+      },
+      {
+        "itemId": 113016,
+        "nameKr": "오시아스 은빛 상자 5개",
+        "nameTh": "กล่องเงินโอเซียส 5 ชิ้น",
+        "probability": 2.0
+      },
+      {
+        "itemId": 113015,
+        "nameKr": "오시아스 은빛 상자 3개",
+        "nameTh": "กล่องโอเซียสสีเงิน 3 ชิ้น",
+        "probability": 13.5
+      },
+      {
+        "itemId": 113011,
+        "nameKr": "오시아스 금빛 상자 10개",
+        "nameTh": "กล่องทองโอเซียส 10 ชิ้น",
+        "probability": 0.5
+      },
+      {
+        "itemId": 113010,
+        "nameKr": "오시아스 금빛 상자 5개",
+        "nameTh": "กล่องทองโอเซียส 5 ชิ้น",
+        "probability": 1.0
+      },
+      {
+        "itemId": 113007,
+        "nameKr": "오시아스 금빛 상자 1개",
+        "nameTh": "กล่องทองโอเซียส 1 ชิ้น",
+        "probability": 4.5
+      },
+      {
+        "itemId": 112969,
+        "nameKr": "오시아스 금화 10개",
+        "nameTh": "เหรียญทองโอเซียส 10 ชิ้น",
+        "probability": 14.0
+      },
+      {
+        "itemId": 112959,
+        "nameKr": "오시아스 은화 50개",
+        "nameTh": "เหรียญเงินโอเซียส 50 ชิ้น",
+        "probability": 13.4
+      },
+      {
+        "itemId": 112956,
+        "nameKr": "오시아스 은화 500개",
+        "nameTh": "เหรียญเงินโอเซียส 500 ชิ้น",
+        "probability": 0.1
+      },
+      {
+        "itemId": 112954,
+        "nameKr": "오시아스 은화 100개",
+        "nameTh": "เหรียญเงินโอเซียส 100 ชิ้น",
+        "probability": 1.0
+      }
+    ]
+  },
+  {
+    "decoyId": 109419,
+    "nameKr": "바캉스 지렁이",
+    "nameTh": "ไส้เดือนพักร้อน",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 108929,
+        "nameKr": "잠겨진 도리스의 심연 상자 1개",
+        "nameTh": "กล่องห้วงลึกดอริสที่ถูกล็อค 1 ชิ้น",
+        "probability": 0.9955
+      },
+      {
+        "itemId": 108923,
+        "nameKr": "도리스의 심연 상자 1개",
+        "nameTh": "กล่องห้วงลึกดอริส 1 ชิ้น",
+        "probability": 0.1493
+      },
+      {
+        "itemId": 108863,
+        "nameKr": "잠겨진 알록달록 산호 주머니 1개",
+        "nameTh": "ถุงปะการังหลากสีที่ถูกล็อค 1 ชิ้น",
+        "probability": 0.9955
+      },
+      {
+        "itemId": 108857,
+        "nameKr": "알록달록 산호 주머니 1개",
+        "nameTh": "ถุงปะการังหลากสี 1 ชิ้น",
+        "probability": 0.1493
+      },
+      {
+        "itemId": 108764,
+        "nameKr": "잠겨진 데이스타 상자 1개",
+        "nameTh": "กล่องเดย์สตาร์ที่ถูกล็อค 1 ชิ้น",
+        "probability": 0.9955
+      },
+      {
+        "itemId": 108758,
+        "nameKr": "데이스타 상자 1개",
+        "nameTh": "กล่องเดย์สตาร์ 1 ชิ้น",
+        "probability": 0.1493
+      },
+      {
+        "itemId": 108658,
+        "nameKr": "바우나비 카드키 2개",
+        "nameTh": "คีย์การ์ดโบนาวี 2 ชิ้น",
+        "probability": 3.9821
+      },
+      {
+        "itemId": 108657,
+        "nameKr": "바우나비 카드키 1개",
+        "nameTh": "คีย์การ์ดโบนาวี 1 ชิ้น",
+        "probability": 19.9104
+      },
+      {
+        "itemId": 108651,
+        "nameKr": "바우나비 트로피 1개",
+        "nameTh": "ถ้วยรางวัลโบนาวี 1 ชิ้น",
+        "probability": 0.9955
+      },
+      {
+        "itemId": 108608,
+        "nameKr": "잠겨진 바우나비 상자 2개",
+        "nameTh": "กล่องโบนาวีที่ถูกล็อค 2 ชิ้น",
+        "probability": 3.9821
+      },
+      {
+        "itemId": 108607,
+        "nameKr": "잠겨진 바우나비 상자 1개",
+        "nameTh": "กล่องโบนาวีที่ถูกล็อค 1 ชิ้น",
+        "probability": 29.8656
+      },
+      {
+        "itemId": 108601,
+        "nameKr": "바우나비 상자 1개",
+        "nameTh": "กล่องโบนาวี 1 ชิ้น",
+        "probability": 1.991
+      },
+      {
+        "itemId": 108595,
+        "nameKr": "바우나비 메달 1개",
+        "nameTh": "เหรียญรางวัลโบนาวี 1 ชิ้น",
+        "probability": 1.991
+      },
+      {
+        "itemId": 108565,
+        "nameKr": "바우나비 코인 3개",
+        "nameTh": "เหรียญโบนาวี 3 ชิ้น",
+        "probability": 3.9821
+      },
+      {
+        "itemId": 108564,
+        "nameKr": "바우나비 코인 2개",
+        "nameTh": "เหรียญโบนาวี 2 ชิ้น",
+        "probability": 29.8656
+      }
+    ]
+  },
+  {
+    "decoyId": 107100,
+    "nameKr": "선샤인 지렁이",
+    "nameTh": "ไส้เดือนแสงแดด",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 107126,
+        "nameKr": "순수의 기운 10개",
+        "nameTh": "พลังบริสุทธิ์ 10 ชิ้น",
+        "probability": 0.0263
+      },
+      {
+        "itemId": 107109,
+        "nameKr": "선샤인 조각 3개",
+        "nameTh": "ชิ้นส่วนแสงแดด 3 ชิ้น",
+        "probability": 0.6579
+      },
+      {
+        "itemId": 107108,
+        "nameKr": "선샤인 조각 2개",
+        "nameTh": "ชิ้นส่วนแสงแดด 2 ชิ้น",
+        "probability": 1.3158
+      },
+      {
+        "itemId": 107107,
+        "nameKr": "선샤인 조각 1개",
+        "nameTh": "ชิ้นส่วนแสงแดด 1 ชิ้น",
+        "probability": 2.6316
+      },
+      {
+        "itemId": 107099,
+        "nameKr": "스플렌더 부스터 내구도",
+        "nameTh": "บูสเตอร์สเพลนเดอร์ (ซ่อมแซม)",
+        "probability": 0.0263
+      },
+      {
+        "itemId": 107097,
+        "nameKr": "스플렌더 윙 내구도",
+        "nameTh": "ปีกสเพลนเดอร์ (ซ่อมแซม)",
+        "probability": 0.1316
+      },
+      {
+        "itemId": 107095,
+        "nameKr": "스플렌더 크라운 내구도",
+        "nameTh": "มงกุฎสเพลนเดอร์ (ซ่อมแซม)",
+        "probability": 0.1316
+      },
+      {
+        "itemId": 106809,
+        "nameKr": "성실의 기운 10개",
+        "nameTh": "พลังซื่อสัตย์ 10 ชิ้น",
+        "probability": 0.0263
+      },
+      {
+        "itemId": 106807,
+        "nameKr": "친절의 기운 10개",
+        "nameTh": "พลังกรุณา 10 ชิ้น",
+        "probability": 0.0263
+      },
+      {
+        "itemId": 99496,
+        "nameKr": "겸손의 기운 10개",
+        "nameTh": "พลังอ่อนน้อม 10 ชิ้น",
+        "probability": 0.0263
+      },
+      {
+        "itemId": 98474,
+        "nameKr": "절제의 기운 10개",
+        "nameTh": "พลังมัธยัสถ์ 10 ชิ้น",
+        "probability": 0.0263
+      },
+      {
+        "itemId": 97695,
+        "nameKr": "자선의 기운 10개",
+        "nameTh": "พลังเมตตา 10 ชิ้น",
+        "probability": 0.0263
+      },
+      {
+        "itemId": 91610,
+        "nameKr": "천상의 기운 10개",
+        "nameTh": "พลังสวรรค์ 10 ชิ้น",
+        "probability": 0.0263
+      },
+      {
+        "itemId": 81541,
+        "nameKr": "요리사 블루탱",
+        "nameTh": "บลูแทงค์เชฟ",
+        "probability": 23.6842
+      },
+      {
+        "itemId": 81539,
+        "nameKr": "애교쟁이 키싱구라미",
+        "nameTh": "ปลาโกรามิแอ๊บแบ๊ว",
+        "probability": 10.5263
+      },
+      {
+        "itemId": 81537,
+        "nameKr": "무리쉬 아이돌 스타",
+        "nameTh": "ปลาไอดอลโนรีครีบยาว",
+        "probability": 6.5789
+      },
+      {
+        "itemId": 81535,
+        "nameKr": "박치기왕 플라워 혼",
+        "nameTh": "ปลาหมอสีหัวปูด",
+        "probability": 21.0526
+      },
+      {
+        "itemId": 81533,
+        "nameKr": "점박이 트리커 피쉬",
+        "nameTh": "ปลาวัวไททันหลายจุด",
+        "probability": 29.1316
+      },
+      {
+        "itemId": 81531,
+        "nameKr": "무지갯빛 베타",
+        "nameTh": "ปลากัดหลากสี",
+        "probability": 3.9474
+      }
+    ]
+  },
+  {
+    "decoyId": 103573,
+    "nameKr": "우주 여행자 지렁이",
+    "nameTh": "ไส้เดือนนักท่องอวกาศ",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 103592,
+        "nameKr": "다크 릴리 부스터 내구도",
+        "nameTh": "บูสเตอร์ดาร์คลิลลี่ (ซ่อมแซม)",
+        "probability": 1.0
+      },
+      {
+        "itemId": 103590,
+        "nameKr": "샤인 릴리 부스터 내구도",
+        "nameTh": "บูสเตอร์ชายน์ลิลลี่ (ซ่อมแซม)",
+        "probability": 1.0
+      },
+      {
+        "itemId": 103588,
+        "nameKr": "다크 릴리 윙 내구도",
+        "nameTh": "ปีกดาร์คลิลลี่ (ซ่อมแซม)",
+        "probability": 0.3333
+      },
+      {
+        "itemId": 103586,
+        "nameKr": "샤인 릴리 윙 내구도",
+        "nameTh": "ปีกชายน์ลิลลี่ (ซ่อมแซม)",
+        "probability": 0.3333
+      },
+      {
+        "itemId": 103442,
+        "nameKr": "디멘션 코인 100개",
+        "nameTh": "เหรียญไดเมนชั่น 100 ชิ้น",
+        "probability": 0.3333
+      },
+      {
+        "itemId": 103439,
+        "nameKr": "디멘션 코인 50개",
+        "nameTh": "เหรียญไดเมนชั่น 50 ชิ้น",
+        "probability": 1.5
+      },
+      {
+        "itemId": 103272,
+        "nameKr": "잠겨진 신시아의 달빛 상자 1개",
+        "nameTh": "กล่องแสงจันทร์ซินเธียที่ถูกล็อค 1 ชิ้น",
+        "probability": 0.3333
+      },
+      {
+        "itemId": 103141,
+        "nameKr": "잠겨진 차원 주머니 1개",
+        "nameTh": "ถุงมิติที่ถูกล็อค 1 ชิ้น",
+        "probability": 0.1667
+      },
+      {
+        "itemId": 103034,
+        "nameKr": "보안해제 카드 5개",
+        "nameTh": "การ์ดปลดความปลอดภัย 5 ชิ้น",
+        "probability": 1.6667
+      },
+      {
+        "itemId": 103033,
+        "nameKr": "보안해제 카드 3개",
+        "nameTh": "การ์ดปลดความปลอดภัย 3 ชิ้น",
+        "probability": 6.6667
+      },
+      {
+        "itemId": 103031,
+        "nameKr": "보안해제 카드 1개",
+        "nameTh": "การ์ดปลดความปลอดภัย 1 ชิ้น",
+        "probability": 16.6667
+      },
+      {
+        "itemId": 103025,
+        "nameKr": "손상된 차원 파편 1개",
+        "nameTh": "เศษมิติที่ได้รับความเสียหาย 1 ชิ้น",
+        "probability": 5.0
+      },
+      {
+        "itemId": 102953,
+        "nameKr": "손상된 디멘션 상자 5개",
+        "nameTh": "กล่องไดเมนชั่นที่ได้รับความเสียหาย 5 ชิ้น",
+        "probability": 1.6667
+      },
+      {
+        "itemId": 102952,
+        "nameKr": "손상된 디멘션 상자 3개",
+        "nameTh": "กล่องไดเมนชั่นที่ได้รับความเสียหาย 3 ชิ้น",
+        "probability": 6.6667
+      },
+      {
+        "itemId": 102950,
+        "nameKr": "손상된 디멘션 상자 1개",
+        "nameTh": "กล่องไดเมนชั่นที่ได้รับความเสียหาย 1 ชิ้น",
+        "probability": 16.6667
+      },
+      {
+        "itemId": 102946,
+        "nameKr": "디멘션 코인 30개",
+        "nameTh": "เหรียญไดเมนชั่น 30 ชิ้น",
+        "probability": 5.0
+      },
+      {
+        "itemId": 102945,
+        "nameKr": "디멘션 코인 20개",
+        "nameTh": "เหรียญไดเมนชั่น 20 ชิ้น",
+        "probability": 18.3333
+      },
+      {
+        "itemId": 102937,
+        "nameKr": "디멘션 상자 5개",
+        "nameTh": "กล่องไดเมนชั่น 5 ชิ้น",
+        "probability": 1.6667
+      },
+      {
+        "itemId": 102936,
+        "nameKr": "디멘션 상자 3개",
+        "nameTh": "กล่องไดเมนชั่น 3 ชิ้น",
+        "probability": 5.0
+      },
+      {
+        "itemId": 102934,
+        "nameKr": "디멘션 상자 1개",
+        "nameTh": "กล่องไดเมนชั่น 1 ชิ้น",
+        "probability": 10.0
+      }
+    ]
+  },
+  {
+    "decoyId": 100604,
+    "nameKr": "혼이 나간 지렁이",
+    "nameTh": "ไส้เดือนไร้วิญญาณ",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 100613,
+        "nameKr": "흑화월명 내구도",
+        "nameTh": "แสงจันทร์มืด (ซ่อมแซม)",
+        "probability": 0.3215
+      },
+      {
+        "itemId": 100611,
+        "nameKr": "이화월백 내구도",
+        "nameTh": "แสงจันทร์นวลผ่อง (ซ่อมแซม)",
+        "probability": 0.3215
+      },
+      {
+        "itemId": 100437,
+        "nameKr": "저승컴퍼니 코인 20개",
+        "nameTh": "เหรียญบริษัทปรโลก 20 ชิ้น",
+        "probability": 19.2926
+      },
+      {
+        "itemId": 100397,
+        "nameKr": "저승컴퍼니 코인 100개",
+        "nameTh": "เหรียญบริษัทปรโลก 100 ชิ้น",
+        "probability": 0.8039
+      },
+      {
+        "itemId": 100189,
+        "nameKr": "차사의 영혼 주머니 1개",
+        "nameTh": "ถุงวิญญาณยมทูต 1 ชิ้น",
+        "probability": 0.4823
+      },
+      {
+        "itemId": 100038,
+        "nameKr": "망자의 구슬 조각 1개",
+        "nameTh": "เศษลูกแก้วคนตาย 1 ชิ้น",
+        "probability": 4.8232
+      },
+      {
+        "itemId": 100036,
+        "nameKr": "봉인해제 두루마리 5개",
+        "nameTh": "ม้วนกระดาษปลดผนึก 5 ชิ้น",
+        "probability": 1.6077
+      },
+      {
+        "itemId": 100035,
+        "nameKr": "봉인해제 두루마리 3개",
+        "nameTh": "ม้วนกระดาษปลดผนึก 3 ชิ้น",
+        "probability": 6.4309
+      },
+      {
+        "itemId": 100033,
+        "nameKr": "봉인해제 두루마리 1개",
+        "nameTh": "ม้วนกระดาษปลดผนึก 1 ชิ้น",
+        "probability": 16.0772
+      },
+      {
+        "itemId": 99965,
+        "nameKr": "봉인된 저승컴퍼니 상자 5개",
+        "nameTh": "กล่องบริษัทปรโลกถูกผนึก 5 ชิ้น",
+        "probability": 1.6077
+      },
+      {
+        "itemId": 99964,
+        "nameKr": "봉인된 저승컴퍼니 상자 3개",
+        "nameTh": "กล่องบริษัทปรโลกถูกผนึก 3 ชิ้น",
+        "probability": 6.4309
+      },
+      {
+        "itemId": 99962,
+        "nameKr": "봉인된 저승컴퍼니 상자 1개",
+        "nameTh": "กล่องบริษัทปรโลกถูกผนึก 1 ชิ้น",
+        "probability": 16.0772
+      },
+      {
+        "itemId": 99925,
+        "nameKr": "저승컴퍼니 코인 50개",
+        "nameTh": "เหรียญบริษัทปรโลก 50  ชิ้น",
+        "probability": 3.2154
+      },
+      {
+        "itemId": 99775,
+        "nameKr": "저승컴퍼니 코인 30개",
+        "nameTh": "เหรียญบริษัทปรโลก 30  ชิ้น",
+        "probability": 6.4309
+      },
+      {
+        "itemId": 99751,
+        "nameKr": "저승컴퍼니 상자 5개",
+        "nameTh": "กล่องบริษัทปรโลก 5 ชิ้น",
+        "probability": 1.6077
+      },
+      {
+        "itemId": 99750,
+        "nameKr": "저승컴퍼니 상자 3개",
+        "nameTh": "กล่องบริษัทปรโลก 3 ชิ้น",
+        "probability": 4.8232
+      },
+      {
+        "itemId": 99748,
+        "nameKr": "저승컴퍼니 상자 1개",
+        "nameTh": "กล่องบริษัทปรโลก 1 ชิ้น",
+        "probability": 9.6463
+      }
+    ]
+  },
+  {
+    "decoyId": 99227,
+    "nameKr": "레볼루션 지렁이",
+    "nameTh": "ไส้เดือนเรฟเวลูชัน",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 99216,
+        "nameKr": "스페셜 레볼루션 상자 1개",
+        "nameTh": "กล่องเรฟเวลูชันพิเศษ 1 ชิ้น",
+        "probability": 0.9091
+      },
+      {
+        "itemId": 99064,
+        "nameKr": "명예의 파편 5개",
+        "nameTh": "ชิ้นส่วนเกียรติยศ 5 ชิ้น",
+        "probability": 3.6364
+      },
+      {
+        "itemId": 99063,
+        "nameKr": "명예의 파편 3개",
+        "nameTh": "ชิ้นส่วนเกียรติยศ 3 ชิ้น",
+        "probability": 5.4545
+      },
+      {
+        "itemId": 99061,
+        "nameKr": "명예의 파편 1개",
+        "nameTh": "ชิ้นส่วนเกียรติยศ 1 ชิ้น",
+        "probability": 9.0909
+      },
+      {
+        "itemId": 99059,
+        "nameKr": "레볼루션 코인 10개",
+        "nameTh": "เหรียญเรฟเวลูชัน 10 ชิ้น",
+        "probability": 3.6364
+      },
+      {
+        "itemId": 99058,
+        "nameKr": "레볼루션 코인 5개",
+        "nameTh": "เหรียญเรฟเวลูชัน 5 ชิ้น",
+        "probability": 5.4545
+      },
+      {
+        "itemId": 99057,
+        "nameKr": "레볼루션 코인 3개",
+        "nameTh": "เหรียญเรฟเวลูชัน 3 ชิ้น",
+        "probability": 7.2727
+      },
+      {
+        "itemId": 99055,
+        "nameKr": "레볼루션 코인 1개",
+        "nameTh": "เหรียญเรฟเวลูชัน 1 ชิ้น",
+        "probability": 47.6364
+      },
+      {
+        "itemId": 99049,
+        "nameKr": "리그 레볼루션 상자 3개",
+        "nameTh": "กล่องลีกเรฟเวลูชัน 3 ชิ้น",
+        "probability": 1.8182
+      },
+      {
+        "itemId": 99048,
+        "nameKr": "리그 레볼루션 상자 2개",
+        "nameTh": "กล่องลีกเรฟเวลูชัน 2 ชิ้น",
+        "probability": 3.6364
+      },
+      {
+        "itemId": 99047,
+        "nameKr": "리그 레볼루션 상자 1개",
+        "nameTh": "กล่องลีกเรฟเวลูชัน 1 ชิ้น",
+        "probability": 10.9091
+      },
+      {
+        "itemId": 99034,
+        "nameKr": "명예의 레볼루션 트로피 내구도",
+        "nameTh": "ถ้วยรางวัลเรฟเวลูชันเกียรติยศ (ซ่อมแซม)",
+        "probability": 0.1818
+      },
+      {
+        "itemId": 99028,
+        "nameKr": "명예의 레볼루션 윙 내구도",
+        "nameTh": "ปีกเรฟเวลูชันเกียรติยศ (ซ่อมแซม)",
+        "probability": 0.1818
+      },
+      {
+        "itemId": 99022,
+        "nameKr": "명예의 레볼루션 크라운 내구도",
+        "nameTh": "มงกุฎเรฟเวลูชันเกียรติยศ (ซ่อมแซม)",
+        "probability": 0.1818
+      }
+    ]
+  },
+  {
+    "decoyId": 99001,
+    "nameKr": "별빛 지렁이",
+    "nameTh": "ไส้เดือนแสงดาว",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 97805,
+        "nameKr": "별빛 지배자 윙 내구도",
+        "nameTh": "ปีกผู้ปกครองแสงดาว (ซ่อมแซม)",
+        "probability": 0.02
+      },
+      {
+        "itemId": 97803,
+        "nameKr": "별빛 지배자 크라운 내구도",
+        "nameTh": "มงกุฎผู้ปกครองแสงดาว (ซ่อมแซม)",
+        "probability": 0.02
+      },
+      {
+        "itemId": 88728,
+        "nameKr": "교만의 영혼 1개",
+        "nameTh": "จิตจองหอง 1 ชิ้น",
+        "probability": 0.02
+      },
+      {
+        "itemId": 88726,
+        "nameKr": "식탐의 영혼 1개",
+        "nameTh": "จิตตะกละ 1 ชิ้น",
+        "probability": 0.02
+      },
+      {
+        "itemId": 88724,
+        "nameKr": "탐욕의 영혼 1개",
+        "nameTh": "จิตโลภ 1 ชิ้น",
+        "probability": 0.02
+      },
+      {
+        "itemId": 88722,
+        "nameKr": "질투의 영혼 1개",
+        "nameTh": "จิตริษยา 1 ชิ้น",
+        "probability": 0.02
+      },
+      {
+        "itemId": 88720,
+        "nameKr": "나태의 영혼 1개",
+        "nameTh": "จิตเกียจคร้าน 1 ชิ้น",
+        "probability": 0.02
+      },
+      {
+        "itemId": 88718,
+        "nameKr": "분노의 영혼 1개",
+        "nameTh": "จิตโทสะ 1 ชิ้น",
+        "probability": 0.02
+      },
+      {
+        "itemId": 88716,
+        "nameKr": "욕망의 영혼 1개",
+        "nameTh": "จิตราคะ 1 ชิ้น",
+        "probability": 0.02
+      },
+      {
+        "itemId": 81541,
+        "nameKr": "요리사 블루탱",
+        "nameTh": "บลูแทงค์เชฟ",
+        "probability": 24.82
+      },
+      {
+        "itemId": 81539,
+        "nameKr": "애교쟁이 키싱구라미",
+        "nameTh": "ปลาโกรามิแอ๊บแบ๊ว",
+        "probability": 11.0
+      },
+      {
+        "itemId": 81537,
+        "nameKr": "무리쉬 아이돌 스타",
+        "nameTh": "ปลาไอดอลโนรีครีบยาว",
+        "probability": 7.0
+      },
+      {
+        "itemId": 81535,
+        "nameKr": "박치기왕 플라워 혼",
+        "nameTh": "ปลาหมอสีหัวปูด",
+        "probability": 22.0
+      },
+      {
+        "itemId": 81533,
+        "nameKr": "점박이 트리커 피쉬",
+        "nameTh": "ปลาวัวไททันหลายจุด",
+        "probability": 32.0
+      },
+      {
+        "itemId": 81531,
+        "nameKr": "무지갯빛 베타",
+        "nameTh": "ปลากัดหลากสี",
+        "probability": 3.0
+      }
+    ]
+  },
+  {
+    "decoyId": 96195,
+    "nameKr": "어둠에 물든 지렁이",
+    "nameTh": "ไส้เดือนความมืด",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 96644,
+        "nameKr": "이클립스 코인 30개",
+        "nameTh": "เหรียญอิคลิปส์ 30 ชิ้น",
+        "probability": 6.4288
+      },
+      {
+        "itemId": 96634,
+        "nameKr": "이클립스 코인 20개",
+        "nameTh": "เหรียญอิคลิปส์ 20 ชิ้น",
+        "probability": 19.2864
+      },
+      {
+        "itemId": 96632,
+        "nameKr": "이클립스 코인 100개",
+        "nameTh": "เหรียญอิคลิปส์ 100 ชิ้น",
+        "probability": 0.8036
+      },
+      {
+        "itemId": 96631,
+        "nameKr": "이클립스 코인 50개",
+        "nameTh": "เหรียญอิคลิปส์ 50 ชิ้น",
+        "probability": 3.2144
+      },
+      {
+        "itemId": 96259,
+        "nameKr": "타락한 자의 영혼석 1개",
+        "nameTh": "หินวิญญาณผู้เสื่อมโทรม 1 ชิ้น",
+        "probability": 0.0321
+      },
+      {
+        "itemId": 96249,
+        "nameKr": "오염된 동화 페이지 1개",
+        "nameTh": "หน้าหนังสือนิทานที่มอดไหม้ 1 ชิ้น",
+        "probability": 4.8216
+      },
+      {
+        "itemId": 96220,
+        "nameKr": "테일즈 가디언 주머니 1개",
+        "nameTh": "ถุงเทลส์การ์เดียน 1 ชิ้น",
+        "probability": 0.4822
+      },
+      {
+        "itemId": 96186,
+        "nameKr": "이클립스 열쇠 5개",
+        "nameTh": "กุญแจอิคลิปส์ 5 ชิ้น",
+        "probability": 1.6072
+      },
+      {
+        "itemId": 96185,
+        "nameKr": "이클립스 열쇠 3개",
+        "nameTh": "กุญแจอิคลิปส์ 3 ชิ้น",
+        "probability": 6.4288
+      },
+      {
+        "itemId": 96183,
+        "nameKr": "이클립스 열쇠 1개",
+        "nameTh": "กุญแจอิคลิปส์ 1 ชิ้น",
+        "probability": 16.072
+      },
+      {
+        "itemId": 96180,
+        "nameKr": "잠겨진 이클립스 상자 5개",
+        "nameTh": "กล่องอิคลิปส์ที่ถูกล็อค 5 ชิ้น",
+        "probability": 1.6072
+      },
+      {
+        "itemId": 96179,
+        "nameKr": "잠겨진 이클립스 상자 3개",
+        "nameTh": "กล่องอิคลิปส์ที่ถูกล็อค 3 ชิ้น",
+        "probability": 6.4288
+      },
+      {
+        "itemId": 96177,
+        "nameKr": "잠겨진 이클립스 상자 1개",
+        "nameTh": "กล่องอิคลิปส์ที่ถูกล็อค 1 ชิ้น",
+        "probability": 16.072
+      },
+      {
+        "itemId": 96174,
+        "nameKr": "이클립스 상자 5개",
+        "nameTh": "กล่องอิคลิปส์ 5 ชิ้น",
+        "probability": 1.6072
+      },
+      {
+        "itemId": 96173,
+        "nameKr": "이클립스 상자 3개",
+        "nameTh": "กล่องอิคลิปส์ 3 ชิ้น",
+        "probability": 4.8216
+      },
+      {
+        "itemId": 96171,
+        "nameKr": "이클립스 상자 1개",
+        "nameTh": "กล่องอิคลิปส์ 1 ชิ้น",
+        "probability": 9.6432
+      },
+      {
+        "itemId": 96165,
+        "nameKr": "타락한 이클립스 상자 1개",
+        "nameTh": "กล่องอิคลิปส์ที่เสื่อมโทรม 1 ชิ้น",
+        "probability": 0.6429
+      }
+    ]
+  },
+  {
+    "decoyId": 96012,
+    "nameKr": "승리의 지렁이",
+    "nameTh": "ไส้เดือนแห่งชัยชนะ",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 95964,
+        "nameKr": "하얀 새벽의 날개 내구도",
+        "nameTh": "ปีกรุ่งอรุณสีขาว ซ่อมแซม",
+        "probability": 0.02
+      },
+      {
+        "itemId": 95962,
+        "nameKr": "검은 새벽의 날개 내구도",
+        "nameTh": "ปีกรุ่งอรุณสีดำ ซ่อมแซม",
+        "probability": 0.02
+      },
+      {
+        "itemId": 93604,
+        "nameKr": "미스터리 체스트 1개",
+        "nameTh": "กล่องลึกลับ 1 ชิ้น",
+        "probability": 2.0
+      },
+      {
+        "itemId": 92137,
+        "nameKr": "빛나는 황금 미믹 1개",
+        "nameTh": "มีมิกสีทองส่องแสง 1 ชิ้น",
+        "probability": 0.04
+      },
+      {
+        "itemId": 90803,
+        "nameKr": "어둠의 주머니 1개",
+        "nameTh": "ถุงมืดมน 1 ชิ้น",
+        "probability": 0.04
+      },
+      {
+        "itemId": 88095,
+        "nameKr": "테일즈 월계관 주머니 1개",
+        "nameTh": "ถุงมงกุฎลอเรลเทลส์ 1 ชิ้น",
+        "probability": 0.04
+      },
+      {
+        "itemId": 85072,
+        "nameKr": "성주신의 보패 주머니 1개",
+        "nameTh": "ถุงสมบัติของเทพปกครองเมือง 1 ชิ้น",
+        "probability": 0.04
+      },
+      {
+        "itemId": 84554,
+        "nameKr": "빈센트 주머니 1개",
+        "nameTh": "ถุงวินเซนต์ 1 ชิ้น",
+        "probability": 0.04
+      },
+      {
+        "itemId": 83817,
+        "nameKr": "타락한 천사의 주머니 1개",
+        "nameTh": "ถุงแองเจิลเสื่อมทราม 1 ชิ้น",
+        "probability": 0.04
+      },
+      {
+        "itemId": 81541,
+        "nameKr": "요리사 블루탱",
+        "nameTh": "บลูแทงค์เชฟ",
+        "probability": 24.0
+      },
+      {
+        "itemId": 81539,
+        "nameKr": "애교쟁이 키싱구라미",
+        "nameTh": "ปลาโกรามิแอ๊บแบ๊ว",
+        "probability": 11.0
+      },
+      {
+        "itemId": 81537,
+        "nameKr": "무리쉬 아이돌 스타",
+        "nameTh": "ปลาไอดอลโนรีครีบยาว",
+        "probability": 7.0
+      },
+      {
+        "itemId": 81535,
+        "nameKr": "박치기왕 플라워 혼",
+        "nameTh": "ปลาหมอสีหัวปูด",
+        "probability": 22.0
+      },
+      {
+        "itemId": 81533,
+        "nameKr": "점박이 트리커 피쉬",
+        "nameTh": "ปลาวัวไททันหลายจุด",
+        "probability": 30.72
+      },
+      {
+        "itemId": 81531,
+        "nameKr": "무지갯빛 베타",
+        "nameTh": "ปลากัดหลากสี",
+        "probability": 3.0
+      }
+    ]
+  },
+  {
+    "decoyId": 94127,
+    "nameKr": "감수성이 풍부한 지렁이",
+    "nameTh": "ไส้เดือนที่อ่อนไหวง่าย",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 94694,
+        "nameKr": "슬픔의 아스칼론 내구도",
+        "nameTh": "แอสคาลอนแห่งความเศร้า (ซ่อมแซม)",
+        "probability": 0.0963
+      },
+      {
+        "itemId": 94692,
+        "nameKr": "기쁨의 아스칼론 내구도",
+        "nameTh": "แอสคาลอนแห่งความสุข (ซ่อมแซม)",
+        "probability": 0.0963
+      },
+      {
+        "itemId": 94533,
+        "nameKr": "감정의 제도 코인 100개",
+        "nameTh": "เหรียญหมู่เกาะความรู้สึก 100 ชิ้น",
+        "probability": 0.8023
+      },
+      {
+        "itemId": 94154,
+        "nameKr": "빛바랜 진주 1개",
+        "nameTh": "ไข่มุกซีดจาง 1 ชิ้น",
+        "probability": 4.8139
+      },
+      {
+        "itemId": 94110,
+        "nameKr": "감정의 주머니 1개",
+        "nameTh": "ถุงความรู้สึก 1 ชิ้น",
+        "probability": 0.4814
+      },
+      {
+        "itemId": 94057,
+        "nameKr": "감정의 제도 히든 상자 1개",
+        "nameTh": "กล่องลับหมู่เกาะความรู้สึก 1 ชิ้น",
+        "probability": 0.6418
+      },
+      {
+        "itemId": 93802,
+        "nameKr": "감정의 제도 열쇠 5개",
+        "nameTh": "กุญแจหมู่เกาะความรู้สึก 5 ชิ้น",
+        "probability": 1.6046
+      },
+      {
+        "itemId": 93801,
+        "nameKr": "감정의 제도 열쇠 3개",
+        "nameTh": "กุญแจหมู่เกาะความรู้สึก 3 ชิ้น",
+        "probability": 6.4185
+      },
+      {
+        "itemId": 93799,
+        "nameKr": "감정의 제도 열쇠 1개",
+        "nameTh": "กุญแจหมู่เกาะความรู้สึก 1 ชิ้น",
+        "probability": 16.0462
+      },
+      {
+        "itemId": 93796,
+        "nameKr": "잠겨진 감정의 제도 상자 5개",
+        "nameTh": "กล่องหมู่เกาะความรู้สึกที่ถูกล็อค 5 ชิ้น",
+        "probability": 1.6046
+      },
+      {
+        "itemId": 93795,
+        "nameKr": "잠겨진 감정의 제도 상자 3개",
+        "nameTh": "กล่องหมู่เกาะความรู้สึกที่ถูกล็อค 3 ชิ้น",
+        "probability": 6.4185
+      },
+      {
+        "itemId": 93793,
+        "nameKr": "잠겨진 감정의 제도 상자 1개",
+        "nameTh": "กล่องหมู่เกาะความรู้สึกที่ถูกล็อค 1 ชิ้น",
+        "probability": 16.0462
+      },
+      {
+        "itemId": 93790,
+        "nameKr": "감정의 제도 상자 5개",
+        "nameTh": "กล่องหมู่เกาะความรู้สึก 5 ชิ้น",
+        "probability": 1.6046
+      },
+      {
+        "itemId": 93789,
+        "nameKr": "감정의 제도 상자 3개",
+        "nameTh": "กล่องหมู่เกาะความรู้สึก 3 ชิ้น",
+        "probability": 4.8139
+      },
+      {
+        "itemId": 93787,
+        "nameKr": "감정의 제도 상자 1개",
+        "nameTh": "กล่องหมู่เกาะความรู้สึก 1 ชิ้น",
+        "probability": 9.6277
+      },
+      {
+        "itemId": 93494,
+        "nameKr": "감정의 제도 코인 50개",
+        "nameTh": "เหรียญหมู่เกาะความรู้สึก 50 ชิ้น",
+        "probability": 3.2092
+      },
+      {
+        "itemId": 93492,
+        "nameKr": "감정의 제도 코인 30개",
+        "nameTh": "เหรียญหมู่เกาะความรู้สึก 30 ชิ้น",
+        "probability": 6.4185
+      },
+      {
+        "itemId": 93491,
+        "nameKr": "감정의 제도 코인 20개",
+        "nameTh": "เหรียญหมู่เกาะความรู้สึก 20 ชิ้น",
+        "probability": 19.2555
+      }
+    ]
+  },
+  {
+    "decoyId": 90840,
+    "nameKr": "언더월드 지렁이",
+    "nameTh": "ไส้เดือนอันเดอร์เวิลด์",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 90803,
+        "nameKr": "어둠의 주머니 1개",
+        "nameTh": "ถุงมืดมน 1 ชิ้น",
+        "probability": 0.4823
+      },
+      {
+        "itemId": 90793,
+        "nameKr": "샤인 크리스탈 조각 1개",
+        "nameTh": "ชิ้นส่วนคริสตัลชายน์ 1 ชิ้น",
+        "probability": 4.8232
+      },
+      {
+        "itemId": 90641,
+        "nameKr": "언더월드 코인 20개",
+        "nameTh": "เหรียญอันเดอร์เวิลด์ 20 ชิ้น",
+        "probability": 19.2926
+      },
+      {
+        "itemId": 90636,
+        "nameKr": "언더월드 코인 100개",
+        "nameTh": "เหรียญอันเดอร์เวิลด์ 100 ชิ้น",
+        "probability": 0.8039
+      },
+      {
+        "itemId": 90635,
+        "nameKr": "언더월드 코인 50개",
+        "nameTh": "เหรียญอันเดอร์เวิลด์ 50 ชิ้น",
+        "probability": 3.2154
+      },
+      {
+        "itemId": 90634,
+        "nameKr": "언더월드 코인 30개",
+        "nameTh": "เหรียญอันเดอร์เวิลด์ 30 ชิ้น",
+        "probability": 6.4309
+      },
+      {
+        "itemId": 90551,
+        "nameKr": "던전 미믹용 열쇠 5개",
+        "nameTh": "กุญแจมีมิกดันเจี้ยน 5 ชิ้น",
+        "probability": 1.6077
+      },
+      {
+        "itemId": 90550,
+        "nameKr": "던전 미믹용 열쇠 3개",
+        "nameTh": "กุญแจมีมิกดันเจี้ยน 3 ชิ้น",
+        "probability": 6.4309
+      },
+      {
+        "itemId": 90548,
+        "nameKr": "던전 미믹용 열쇠 1개",
+        "nameTh": "กุญแจมีมิกดันเจี้ยน 1 ชิ้น",
+        "probability": 16.0772
+      },
+      {
+        "itemId": 90531,
+        "nameKr": "야생의 던전 미믹 5개",
+        "nameTh": "มีมิกดันเจี้ยนป่า 5 ชิ้น",
+        "probability": 1.6077
+      },
+      {
+        "itemId": 90530,
+        "nameKr": "야생의 던전 미믹 3개",
+        "nameTh": "มีมิกดันเจี้ยนป่า 3 ชิ้น",
+        "probability": 6.4309
+      },
+      {
+        "itemId": 90528,
+        "nameKr": "야생의 던전 미믹 1개",
+        "nameTh": "มีมิกดันเจี้ยนป่า 1 ชิ้น",
+        "probability": 16.0772
+      },
+      {
+        "itemId": 90526,
+        "nameKr": "해제된 던전 미믹 5개",
+        "nameTh": "มีมิกดันเจี้ยนที่ถูกปลดล็อก 5 ชิ้น",
+        "probability": 1.6077
+      },
+      {
+        "itemId": 90525,
+        "nameKr": "해제된 던전 미믹 3개",
+        "nameTh": "มีมิกดันเจี้ยนที่ถูกปลดล็อก 3 ชิ้น",
+        "probability": 4.8232
+      },
+      {
+        "itemId": 90523,
+        "nameKr": "해제된 던전 미믹 1개",
+        "nameTh": "มีมิกดันเจี้ยนที่ถูกปลดล็อก 1 ชิ้น",
+        "probability": 9.6463
+      },
+      {
+        "itemId": 90518,
+        "nameKr": "던전 크리스탈 상자 1개",
+        "nameTh": "กล่องคริสตัลดันเจี้ยน 1 ชิ้น",
+        "probability": 0.6431
+      }
+    ]
+  },
+  {
+    "decoyId": 88124,
+    "nameKr": "페스티벌 지렁이",
+    "nameTh": "ไส้เดือนเฟสติวัล",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 88197,
+        "nameKr": "앙리의 페스티벌 상자 1개",
+        "nameTh": "กล่องเฟสติวัลของเฮนรี่ 1 ชิ้น",
+        "probability": 0.6173
+      },
+      {
+        "itemId": 88194,
+        "nameKr": "페스티벌 보물상자 5개",
+        "nameTh": "กล่องสมบัติเฟสติวัล 5 ชิ้น",
+        "probability": 1.5432
+      },
+      {
+        "itemId": 88193,
+        "nameKr": "페스티벌 보물상자 3개",
+        "nameTh": "กล่องสมบัติเฟสติวัล 3 ชิ้น",
+        "probability": 4.6296
+      },
+      {
+        "itemId": 88191,
+        "nameKr": "페스티벌 보물상자 1개",
+        "nameTh": "กล่องสมบัติเฟสติวัล 1 ชิ้น",
+        "probability": 10.8025
+      },
+      {
+        "itemId": 88188,
+        "nameKr": "잠겨진 페스티벌 보물상자 5개",
+        "nameTh": "กล่องสมบัติเฟสติวัลที่ถูกล็อค 5 ชิ้น",
+        "probability": 1.5432
+      },
+      {
+        "itemId": 88187,
+        "nameKr": "잠겨진 페스티벌 보물상자 3개",
+        "nameTh": "กล่องสมบัติเฟสติวัลที่ถูกล็อค 3 ชิ้น",
+        "probability": 6.1728
+      },
+      {
+        "itemId": 88185,
+        "nameKr": "잠겨진 페스티벌 보물상자 1개",
+        "nameTh": "กล่องสมบัติเฟสติวัลที่ถูกล็อค 1 ชิ้น",
+        "probability": 18.5185
+      },
+      {
+        "itemId": 88182,
+        "nameKr": "페스티벌 보물열쇠 5개",
+        "nameTh": "กุญแจสมบัติเฟสติวัล 5 ชิ้น",
+        "probability": 1.5432
+      },
+      {
+        "itemId": 88181,
+        "nameKr": "페스티벌 보물열쇠 3개",
+        "nameTh": "กุญแจสมบัติเฟสติวัล 3 ชิ้น",
+        "probability": 6.1728
+      },
+      {
+        "itemId": 88179,
+        "nameKr": "페스티벌 보물열쇠 1개",
+        "nameTh": "กุญแจสมบัติเฟสติวัล 1 ชิ้น",
+        "probability": 18.5185
+      },
+      {
+        "itemId": 88095,
+        "nameKr": "테일즈 월계관 주머니 1개",
+        "nameTh": "ถุงมงกุฎลอเรลเทลส์ 1 ชิ้น",
+        "probability": 0.463
+      },
+      {
+        "itemId": 87468,
+        "nameKr": "페스티벌 프리퀀시 1개",
+        "nameTh": "เฟสติวัล พรีควินซี่ 1 ชิ้น",
+        "probability": 0.9259
+      },
+      {
+        "itemId": 87466,
+        "nameKr": "페스티벌 코인 50개",
+        "nameTh": "เหรียญเฟสติวัล 50 ชิ้น",
+        "probability": 3.0864
+      },
+      {
+        "itemId": 87465,
+        "nameKr": "페스티벌 코인 30개",
+        "nameTh": "เหรียญเฟสติวัล 30 ชิ้น",
+        "probability": 6.1728
+      },
+      {
+        "itemId": 87464,
+        "nameKr": "페스티벌 코인 20개",
+        "nameTh": "เหรียญเฟสติวัล 20 ชิ้น",
+        "probability": 18.5185
+      },
+      {
+        "itemId": 87452,
+        "nameKr": "페스티벌 코인 100개",
+        "nameTh": "เหรียญเฟสติวัล 100 ชิ้น",
+        "probability": 0.7716
+      }
+    ]
+  },
+  {
+    "decoyId": 85156,
+    "nameKr": "무당 지렁이",
+    "nameTh": "ไส้เดือนหมอผี",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 85219,
+        "nameKr": "도깨비 두령의 신줏단지 1개",
+        "nameTh": "ไหสมบัติของหัวหน้าก็อบลิน 1 ชิ้น",
+        "probability": 1.5385
+      },
+      {
+        "itemId": 85143,
+        "nameKr": "잠겨진 도깨비 보물상자 5개",
+        "nameTh": "กล่องสมบัติก็อบลินที่ถูกล็อค 5 ชิ้น",
+        "probability": 1.5385
+      },
+      {
+        "itemId": 85142,
+        "nameKr": "잠겨진 도깨비 보물상자 3개",
+        "nameTh": "กล่องสมบัติก็อบลินที่ถูกล็อค 3 ชิ้น",
+        "probability": 6.1538
+      },
+      {
+        "itemId": 85140,
+        "nameKr": "잠겨진 도깨비 보물상자 1개",
+        "nameTh": "กล่องสมบัติก็อบลินที่ถูกล็อค 1 ชิ้น",
+        "probability": 18.4615
+      },
+      {
+        "itemId": 85107,
+        "nameKr": "이매망량 엽전 100개",
+        "nameTh": "เหรียญก็อบลิน 100 ชิ้น",
+        "probability": 0.7692
+      },
+      {
+        "itemId": 85106,
+        "nameKr": "이매망량 엽전 50개",
+        "nameTh": "เหรียญก็อบลิน 50 ชิ้น",
+        "probability": 3.0769
+      },
+      {
+        "itemId": 85072,
+        "nameKr": "성주신의 보패 주머니 1개",
+        "nameTh": "ถุงสมบัติของเทพปกครองเมือง 1 ชิ้น",
+        "probability": 0.7692
+      },
+      {
+        "itemId": 85069,
+        "nameKr": "도깨비 보물상자 5개",
+        "nameTh": "กล่องสมบัติก็อบลิน 5 ชิ้น",
+        "probability": 1.5385
+      },
+      {
+        "itemId": 85068,
+        "nameKr": "도깨비 보물상자 3개",
+        "nameTh": "กล่องสมบัติก็อบลิน 3 ชิ้น",
+        "probability": 4.6154
+      },
+      {
+        "itemId": 85066,
+        "nameKr": "도깨비 보물상자 1개",
+        "nameTh": "กล่องสมบัติก็อบลิน 1 ชิ้น",
+        "probability": 10.7692
+      },
+      {
+        "itemId": 85063,
+        "nameKr": "도깨비 열쇠 5개",
+        "nameTh": "กุญแจก็อบลิน 5 ชิ้น",
+        "probability": 1.5385
+      },
+      {
+        "itemId": 85062,
+        "nameKr": "도깨비 열쇠 3개",
+        "nameTh": "กุญแจก็อบลิน 3 ชิ้น",
+        "probability": 6.1538
+      },
+      {
+        "itemId": 85060,
+        "nameKr": "도깨비 열쇠 1개",
+        "nameTh": "กุญแจก็อบลิน 1 ชิ้น",
+        "probability": 18.4615
+      },
+      {
+        "itemId": 84457,
+        "nameKr": "이매망량 엽전 30개",
+        "nameTh": "เหรียญก็อบลิน 30 ชิ้น",
+        "probability": 6.1538
+      },
+      {
+        "itemId": 84456,
+        "nameKr": "이매망량 엽전 20개",
+        "nameTh": "เหรียญก็อบลิน 20 ชิ้น",
+        "probability": 18.4615
+      }
+    ]
+  },
+  {
+    "decoyId": 84179,
+    "nameKr": "여왕 지렁이",
+    "nameTh": "ไส้เดือนราชินี",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 84131,
+        "nameKr": "에메랄드 라이즈 내구도",
+        "nameTh": "ปีกมรกต (ซ่อมแซม)",
+        "probability": 0.04
+      },
+      {
+        "itemId": 81541,
+        "nameKr": "요리사 블루탱",
+        "nameTh": "บลูแทงค์เชฟ",
+        "probability": 24.0
+      },
+      {
+        "itemId": 81539,
+        "nameKr": "애교쟁이 키싱구라미",
+        "nameTh": "ปลาโกรามิแอ๊บแบ๊ว",
+        "probability": 11.0
+      },
+      {
+        "itemId": 81537,
+        "nameKr": "무리쉬 아이돌 스타",
+        "nameTh": "ปลาไอดอลโนรีครีบยาว",
+        "probability": 7.0
+      },
+      {
+        "itemId": 81535,
+        "nameKr": "박치기왕 플라워 혼",
+        "nameTh": "ปลาหมอสีหัวปูด",
+        "probability": 22.0
+      },
+      {
+        "itemId": 81533,
+        "nameKr": "점박이 트리커 피쉬",
+        "nameTh": "ปลาวัวไททันหลายจุด",
+        "probability": 31.56
+      },
+      {
+        "itemId": 81531,
+        "nameKr": "무지갯빛 베타",
+        "nameTh": "ปลากัดหลากสี",
+        "probability": 3.0
+      },
+      {
+        "itemId": 79885,
+        "nameKr": "삼황의 검갑 1개",
+        "nameTh": "ดาบสามยุค 1 ชิ้น",
+        "probability": 0.04
+      },
+      {
+        "itemId": 79875,
+        "nameKr": "앙리 교장의 비밀금고 1개",
+        "nameTh": "ตู้เซฟลับของผอ.เฮนรี่ 1 ชิ้น",
+        "probability": 0.2
+      },
+      {
+        "itemId": 79870,
+        "nameKr": "이든 교감의 비밀금고 1개",
+        "nameTh": "ตู้เซฟลับของผู้ช่วยผอ.เอเดน 1 ชิ้น",
+        "probability": 0.4
+      },
+      {
+        "itemId": 61833,
+        "nameKr": "블루밍 로즈 히든 박스 1개",
+        "nameTh": "กล่องบลูมิ่งโรสปริศนา 1 ชิ้น",
+        "probability": 0.06
+      },
+      {
+        "itemId": 61224,
+        "nameKr": "히든 탈리아 상자 1개",
+        "nameTh": "กล่องฮิดเด้นทัลเรีย 1 ชิ้น",
+        "probability": 0.04
+      },
+      {
+        "itemId": 58605,
+        "nameKr": "히든 드래곤 상자 1개",
+        "nameTh": "กล่องมังกรปริศนา 1 ชิ้น",
+        "probability": 0.06
+      },
+      {
+        "itemId": 57500,
+        "nameKr": "히든 엠퍼러 박스 1개",
+        "nameTh": "กล่องเอมเพอเรอร์ปริศนา 1 ชิ้น",
+        "probability": 0.1
+      },
+      {
+        "itemId": 56478,
+        "nameKr": "혼돈의 유물상자 1개",
+        "nameTh": "กล่องสมบัติโบราณเคออส  1 ชิ้น",
+        "probability": 0.1
+      },
+      {
+        "itemId": 56215,
+        "nameKr": "히든 플라워 엔젤 박스 1개",
+        "nameTh": "กล่องแองเจิลฟลาวเวอร์ปริศนา 1 ชิ้น",
+        "probability": 0.1
+      },
+      {
+        "itemId": 53360,
+        "nameKr": "히든 코멧 체스트 1개",
+        "nameTh": "กล่องดาวหางปริศนา 1 ชิ้น",
+        "probability": 0.1
+      },
+      {
+        "itemId": 53088,
+        "nameKr": "크로노스의 유물상자 1개",
+        "nameTh": "กล่องสมบัติโบราณของโครนอส 1 ชิ้น",
+        "probability": 0.1
+      },
+      {
+        "itemId": 50841,
+        "nameKr": "히든 컴뱃 체스트 1개",
+        "nameTh": "กล่องฮิดเด้นคอมแบท 1 ชิ้น",
+        "probability": 0.1
+      }
+    ]
+  },
+  {
+    "decoyId": 82714,
+    "nameKr": "탐험가 지렁이",
+    "nameTh": "ไส้เดือนนักผจญภัย",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 82965,
+        "nameKr": "타락한 천사의 숨결 1개",
+        "nameTh": "ลมหายใจแองเจิลเสื่อมทราม 1 ชิ้น",
+        "probability": 0.2976
+      },
+      {
+        "itemId": 82963,
+        "nameKr": "타락한 천사의 결정 1개",
+        "nameTh": "คริสตัลแองเจิลเสื่อมทราม 1 ชิ้น",
+        "probability": 0.2976
+      },
+      {
+        "itemId": 82961,
+        "nameKr": "타락한 천사의 마음 1개",
+        "nameTh": "หัวใจแองเจิลเสื่อมทราม 1 ชิ้น",
+        "probability": 0.2976
+      },
+      {
+        "itemId": 82959,
+        "nameKr": "타락한 천사의 눈물 1개",
+        "nameTh": "น้ำตาแองเจิลเสื่อมทราม 1 ชิ้น",
+        "probability": 0.2976
+      },
+      {
+        "itemId": 82957,
+        "nameKr": "타락한 천사의 깃털 1개",
+        "nameTh": "ขนนกแองเจิลเสื่อมทราม 1 ชิ้น",
+        "probability": 0.2976
+      },
+      {
+        "itemId": 82955,
+        "nameKr": "타락한 천사의 고리 1개",
+        "nameTh": "วงแหวนแองเจิลเสื่อมทราม 1 ชิ้น",
+        "probability": 0.2976
+      },
+      {
+        "itemId": 82788,
+        "nameKr": "잠겨진 프론티어 보물상자 5개",
+        "nameTh": "กล่องช่วยเหลือฟรอนเทียร์ที่ถูกล็อค 5 ชิ้น",
+        "probability": 1.4881
+      },
+      {
+        "itemId": 82787,
+        "nameKr": "잠겨진 프론티어 보물상자 3개",
+        "nameTh": "กล่องช่วยเหลือฟรอนเทียร์ที่ถูกล็อค 3 ชิ้น",
+        "probability": 5.9524
+      },
+      {
+        "itemId": 82785,
+        "nameKr": "잠겨진 프론티어 보물상자 1개",
+        "nameTh": "กล่องช่วยเหลือฟรอนเทียร์ที่ถูกล็อค 1 ชิ้น",
+        "probability": 14.881
+      },
+      {
+        "itemId": 82725,
+        "nameKr": "탐험왕의 보물 1개",
+        "nameTh": "สมบัติราชานักผจญภัย 1 ชิ้น",
+        "probability": 2.9762
+      },
+      {
+        "itemId": 82664,
+        "nameKr": "프론티어 열쇠 5개",
+        "nameTh": "กุญแจฟรอนเทียร์ 5 ชิ้น",
+        "probability": 1.4881
+      },
+      {
+        "itemId": 82663,
+        "nameKr": "프론티어 열쇠 3개",
+        "nameTh": "กุญแจฟรอนเทียร์ 3 ชิ้น",
+        "probability": 5.9524
+      },
+      {
+        "itemId": 82661,
+        "nameKr": "프론티어 열쇠 1개",
+        "nameTh": "กุญแจฟรอนเทียร์ 1 ชิ้น",
+        "probability": 14.881
+      },
+      {
+        "itemId": 82658,
+        "nameKr": "프론티어 보물상자 5개",
+        "nameTh": "กล่องช่วยเหลือฟรอนเทียร์ 5 ชิ้น",
+        "probability": 1.4881
+      },
+      {
+        "itemId": 82657,
+        "nameKr": "프론티어 보물상자 3개",
+        "nameTh": "กล่องช่วยเหลือฟรอนเทียร์ 3 ชิ้น",
+        "probability": 5.9524
+      },
+      {
+        "itemId": 82655,
+        "nameKr": "프론티어 보물상자 1개",
+        "nameTh": "กล่องช่วยเหลือฟรอนเทียร์ 1 ชิ้น",
+        "probability": 14.881
+      },
+      {
+        "itemId": 81314,
+        "nameKr": "프론티어 코인 100개",
+        "nameTh": "เหรียญฟรอนเทียร์ 100 ชิ้น",
+        "probability": 1.4881
+      },
+      {
+        "itemId": 81307,
+        "nameKr": "프론티어 코인 30개",
+        "nameTh": "เหรียญฟรอนเทียร์ 30 ชิ้น",
+        "probability": 8.9286
+      },
+      {
+        "itemId": 81300,
+        "nameKr": "프론티어 코인 20개",
+        "nameTh": "เหรียญฟรอนเทียร์  20 ชิ้น",
+        "probability": 14.881
+      },
+      {
+        "itemId": 81299,
+        "nameKr": "프론티어 코인 50개",
+        "nameTh": "เหรียญฟรอนเทียร์  50 ชิ้น",
+        "probability": 2.9762
+      }
+    ]
+  },
+  {
+    "decoyId": 82216,
+    "nameKr": "장군 지렁이",
+    "nameTh": "ไส้เดือนนายพล",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 81541,
+        "nameKr": "요리사 블루탱",
+        "nameTh": "บลูแทงค์เชฟ",
+        "probability": 23.5664
+      },
+      {
+        "itemId": 81539,
+        "nameKr": "애교쟁이 키싱구라미",
+        "nameTh": "ปลาโกรามิแอ๊บแบ๊ว",
+        "probability": 10.8013
+      },
+      {
+        "itemId": 81537,
+        "nameKr": "무리쉬 아이돌 스타",
+        "nameTh": "ปลาไอดอลโนรีครีบยาว",
+        "probability": 6.8735
+      },
+      {
+        "itemId": 81535,
+        "nameKr": "박치기왕 플라워 혼",
+        "nameTh": "ปลาหมอสีหัวปูด",
+        "probability": 21.6025
+      },
+      {
+        "itemId": 81533,
+        "nameKr": "점박이 트리커 피쉬",
+        "nameTh": "ปลาวัวไททันหลายจุด",
+        "probability": 30.9898
+      },
+      {
+        "itemId": 81531,
+        "nameKr": "무지갯빛 베타",
+        "nameTh": "ปลากัดหลากสี",
+        "probability": 2.9458
+      },
+      {
+        "itemId": 81389,
+        "nameKr": "염왕의 영혼석 1개",
+        "nameTh": "หินวิญญาณราชาแห่งเพลิง 1 ชิ้น",
+        "probability": 0.0196
+      },
+      {
+        "itemId": 81384,
+        "nameKr": "성왕의 영혼석 1개",
+        "nameTh": "หินวิญญาณราชาผู้เป็นธรรม 1 ชิ้น",
+        "probability": 0.0196
+      },
+      {
+        "itemId": 79885,
+        "nameKr": "삼황의 검갑 1개",
+        "nameTh": "ดาบสามยุค 1 ชิ้น",
+        "probability": 0.0393
+      },
+      {
+        "itemId": 79875,
+        "nameKr": "앙리 교장의 비밀금고 1개",
+        "nameTh": "ตู้เซฟลับของผอ.เฮนรี่ 1 ชิ้น",
+        "probability": 1.9639
+      },
+      {
+        "itemId": 79870,
+        "nameKr": "이든 교감의 비밀금고 1개",
+        "nameTh": "ตู้เซฟลับของผู้ช่วยผอ.เอเดน 1 ชิ้น",
+        "probability": 0.3928
+      },
+      {
+        "itemId": 61833,
+        "nameKr": "블루밍 로즈 히든 박스 1개",
+        "nameTh": "กล่องบลูมิ่งโรสปริศนา 1 ชิ้น",
+        "probability": 0.0589
+      },
+      {
+        "itemId": 61224,
+        "nameKr": "히든 탈리아 상자 1개",
+        "nameTh": "กล่องฮิดเด้นทัลเรีย 1 ชิ้น",
+        "probability": 0.0393
+      },
+      {
+        "itemId": 58605,
+        "nameKr": "히든 드래곤 상자 1개",
+        "nameTh": "กล่องมังกรปริศนา 1 ชิ้น",
+        "probability": 0.0982
+      },
+      {
+        "itemId": 57500,
+        "nameKr": "히든 엠퍼러 박스 1개",
+        "nameTh": "กล่องเอมเพอเรอร์ปริศนา 1 ชิ้น",
+        "probability": 0.0982
+      },
+      {
+        "itemId": 56478,
+        "nameKr": "혼돈의 유물상자 1개",
+        "nameTh": "กล่องสมบัติโบราณเคออส  1 ชิ้น",
+        "probability": 0.0982
+      },
+      {
+        "itemId": 56215,
+        "nameKr": "히든 플라워 엔젤 박스 1개",
+        "nameTh": "กล่องแองเจิลฟลาวเวอร์ปริศนา 1 ชิ้น",
+        "probability": 0.0982
+      },
+      {
+        "itemId": 53360,
+        "nameKr": "히든 코멧 체스트 1개",
+        "nameTh": "กล่องดาวหางปริศนา 1 ชิ้น",
+        "probability": 0.0982
+      },
+      {
+        "itemId": 53088,
+        "nameKr": "크로노스의 유물상자 1개",
+        "nameTh": "กล่องสมบัติโบราณของโครนอส 1 ชิ้น",
+        "probability": 0.0982
+      },
+      {
+        "itemId": 50841,
+        "nameKr": "히든 컴뱃 체스트 1개",
+        "nameTh": "กล่องฮิดเด้นคอมแบท 1 ชิ้น",
+        "probability": 0.0982
+      }
+    ]
+  },
+  {
+    "decoyId": 79793,
+    "nameKr": "범생이 지렁이",
+    "nameTh": "ไส้เดือนนักเรียนดีเด่น",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 79875,
+        "nameKr": "앙리 교장의 비밀금고 1개",
+        "nameTh": "ตู้เซฟลับของผอ.เฮนรี่ 1 ชิ้น",
+        "probability": 1.4706
+      },
+      {
+        "itemId": 79870,
+        "nameKr": "이든 교감의 비밀금고 1개",
+        "nameTh": "ตู้เซฟลับของผู้ช่วยผอ.เอเดน 1 ชิ้น",
+        "probability": 1.4706
+      },
+      {
+        "itemId": 79865,
+        "nameKr": "스페셜 아카데미 보급상자 1개",
+        "nameTh": "กล่องช่วยเหลือสเปเชี่ยลอะคาเดมี่ 1 ชิ้น",
+        "probability": 1.4706
+      },
+      {
+        "itemId": 79863,
+        "nameKr": "잠겨진 아카데미 보급상자 5개",
+        "nameTh": "กล่องช่วยเหลืออะคาเดมี่ที่ถูกล็อค 5 ชิ้น",
+        "probability": 1.4706
+      },
+      {
+        "itemId": 79862,
+        "nameKr": "잠겨진 아카데미 보급상자 3개",
+        "nameTh": "กล่องช่วยเหลืออะคาเดมี่ที่ถูกล็อค 3 ชิ้น",
+        "probability": 5.8824
+      },
+      {
+        "itemId": 79860,
+        "nameKr": "잠겨진 아카데미 보급상자 1개",
+        "nameTh": "กล่องช่วยเหลืออะคาเดมี่ที่ถูกล็อค 1 ชิ้น",
+        "probability": 14.7059
+      },
+      {
+        "itemId": 79833,
+        "nameKr": "기쁨의 파편 1개",
+        "nameTh": "เศษแห่งความปิติ 1 ชิ้น",
+        "probability": 1.4706
+      },
+      {
+        "itemId": 79640,
+        "nameKr": "아카데미 열쇠 5개",
+        "nameTh": "กุญแจอะคาเดมี่ 5 ชิ้น",
+        "probability": 1.4706
+      },
+      {
+        "itemId": 79639,
+        "nameKr": "아카데미 열쇠 3개",
+        "nameTh": "กุญแจอะคาเดมี่ 3 ชิ้น",
+        "probability": 5.8824
+      },
+      {
+        "itemId": 79637,
+        "nameKr": "아카데미 열쇠 1개",
+        "nameTh": "กุญแจอะคาเดมี่ 1 ชิ้น",
+        "probability": 14.7059
+      },
+      {
+        "itemId": 79634,
+        "nameKr": "아카데미 보급상자 5개",
+        "nameTh": "กล่องช่วยเหลืออะคาเดมี่ 5 ชิ้น",
+        "probability": 1.4706
+      },
+      {
+        "itemId": 79633,
+        "nameKr": "아카데미 보급상자 3개",
+        "nameTh": "กล่องช่วยเหลืออะคาเดมี่ 3 ชิ้น",
+        "probability": 5.8824
+      },
+      {
+        "itemId": 79631,
+        "nameKr": "아카데미 보급상자 1개",
+        "nameTh": "กล่องช่วยเหลืออะคาเดมี่ 1 ชิ้น",
+        "probability": 14.7059
+      },
+      {
+        "itemId": 62636,
+        "nameKr": "아카데미 코인 20개",
+        "nameTh": "เหรียญอะคาเดมี่ 20 ชิ้น",
+        "probability": 14.7059
+      },
+      {
+        "itemId": 62629,
+        "nameKr": "아카데미 코인 50개",
+        "nameTh": "เหรียญอะคาเดมี่ 50 ชิ้น",
+        "probability": 2.9412
+      },
+      {
+        "itemId": 62624,
+        "nameKr": "아카데미 코인 100개",
+        "nameTh": "เหรียญอะคาเดมี่ 100 ชิ้น",
+        "probability": 1.4706
+      },
+      {
+        "itemId": 62623,
+        "nameKr": "아카데미 코인 30개",
+        "nameTh": "เหรียญอะคาเดมี่ 30 ชิ้น",
+        "probability": 8.8235
+      }
+    ]
+  },
+  {
+    "decoyId": 77689,
+    "nameKr": "혼돈의 지렁이",
+    "nameTh": "ไส้เดือนเคออส",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 77151,
+        "nameKr": "카오스 열쇠 5개",
+        "nameTh": "กุญแจเคออส 5 ชิ้น",
+        "probability": 1.4925
+      },
+      {
+        "itemId": 77150,
+        "nameKr": "카오스 열쇠 3개",
+        "nameTh": "กุญแจเคออส 3 ชิ้น",
+        "probability": 5.9701
+      },
+      {
+        "itemId": 77149,
+        "nameKr": "카오스 열쇠 1개",
+        "nameTh": "กุญแจเคออส 1 ชิ้น",
+        "probability": 14.9254
+      },
+      {
+        "itemId": 77061,
+        "nameKr": "진귀한 카오스 유물상자 1개",
+        "nameTh": "กล่องสมบัติโบราณเคออสหายาก 1 ชิ้น",
+        "probability": 1.4925
+      },
+      {
+        "itemId": 77054,
+        "nameKr": "봉인된 카오스 유물상자 5개",
+        "nameTh": "กล่องสมบัติโบราณเคออสปิดผนึก 5 ชิ้น",
+        "probability": 1.4925
+      },
+      {
+        "itemId": 77053,
+        "nameKr": "봉인된 카오스 유물상자 3개",
+        "nameTh": "กล่องสมบัติโบราณเคออสปิดผนึก 3 ชิ้น",
+        "probability": 5.9701
+      },
+      {
+        "itemId": 77051,
+        "nameKr": "봉인된 카오스 유물상자 1개",
+        "nameTh": "กล่องสมบัติโบราณเคออสปิดผนึก 1 ชิ้น",
+        "probability": 14.9254
+      },
+      {
+        "itemId": 77028,
+        "nameKr": "혼돈의 정수 1개",
+        "nameTh": "แกนเคออส 1 ชิ้น",
+        "probability": 2.9851
+      },
+      {
+        "itemId": 62443,
+        "nameKr": "카오스 유물상자 5개",
+        "nameTh": "กล่องสมบัติโบราณเคออส 5 ชิ้น",
+        "probability": 1.4925
+      },
+      {
+        "itemId": 62442,
+        "nameKr": "카오스 유물상자 3개",
+        "nameTh": "กล่องสมบัติโบราณเคออส 3 ชิ้น",
+        "probability": 5.9701
+      },
+      {
+        "itemId": 62440,
+        "nameKr": "카오스 유물상자 1개",
+        "nameTh": "กล่องสมบัติโบราณเคออส 1 ชิ้น",
+        "probability": 14.9254
+      },
+      {
+        "itemId": 61383,
+        "nameKr": "카오스 코인 20개",
+        "nameTh": "เหรียญเคออส 20 ชิ้น",
+        "probability": 14.9254
+      },
+      {
+        "itemId": 61375,
+        "nameKr": "카오스 코인 100개",
+        "nameTh": "เหรียญเคออส 100 ชิ้น",
+        "probability": 1.4925
+      },
+      {
+        "itemId": 61374,
+        "nameKr": "카오스 코인 50개",
+        "nameTh": "เหรียญเคออส 50 ชิ้น",
+        "probability": 2.9851
+      },
+      {
+        "itemId": 61372,
+        "nameKr": "카오스 코인 30개",
+        "nameTh": "เหรียญเคออส 30 ชิ้น",
+        "probability": 8.9552
+      }
+    ]
+  },
+  {
+    "decoyId": 77684,
+    "nameKr": "황제 지렁이",
+    "nameTh": "ไส้เดือนจักรพรรดิ",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 77748,
+        "nameKr": "엔젤 다랑어",
+        "nameTh": "แองเจิลทูน่า",
+        "probability": 2.0
+      },
+      {
+        "itemId": 77746,
+        "nameKr": "꿀벌 갈치",
+        "nameTh": "ปลาดาบผึ้งมิ้ม",
+        "probability": 6.0
+      },
+      {
+        "itemId": 77744,
+        "nameKr": "하트 두동가리돔",
+        "nameTh": "ปลาโนรีเกล็ดครีบยาวหัวใจ",
+        "probability": 10.0
+      },
+      {
+        "itemId": 77742,
+        "nameKr": "워터메론돔",
+        "nameTh": "ปลาโนรีเกล็ดแตงโม",
+        "probability": 20.0
+      },
+      {
+        "itemId": 77740,
+        "nameKr": "파인애플 가자미",
+        "nameTh": "ปลาตาเดียวสัปปะรด",
+        "probability": 24.0
+      },
+      {
+        "itemId": 77738,
+        "nameKr": "리본 복어",
+        "nameTh": "ปลาปักเป้าริบบิ้น",
+        "probability": 29.62
+      },
+      {
+        "itemId": 76982,
+        "nameKr": "선라이즈 내구도",
+        "nameTh": "ซันไลท์ (ซ่อมแซม)",
+        "probability": 0.02
+      },
+      {
+        "itemId": 61833,
+        "nameKr": "블루밍 로즈 히든 박스 1개",
+        "nameTh": "กล่องบลูมิ่งโรสปริศนา 1 ชิ้น",
+        "probability": 0.06
+      },
+      {
+        "itemId": 61224,
+        "nameKr": "히든 탈리아 상자 1개",
+        "nameTh": "กล่องฮิดเด้นทัลเรีย 1 ชิ้น",
+        "probability": 0.04
+      },
+      {
+        "itemId": 58605,
+        "nameKr": "히든 드래곤 상자 1개",
+        "nameTh": "กล่องมังกรปริศนา 1 ชิ้น",
+        "probability": 0.06
+      },
+      {
+        "itemId": 57500,
+        "nameKr": "히든 엠퍼러 박스 1개",
+        "nameTh": "กล่องเอมเพอเรอร์ปริศนา 1 ชิ้น",
+        "probability": 0.1
+      },
+      {
+        "itemId": 57322,
+        "nameKr": "두근두근 대박 상자 1개",
+        "nameTh": "กล่องแจ็คพ็อตหัวใจพองโต 1 ชิ้น",
+        "probability": 0.2
+      },
+      {
+        "itemId": 56478,
+        "nameKr": "혼돈의 유물상자 1개",
+        "nameTh": "กล่องสมบัติโบราณเคออส  1 ชิ้น",
+        "probability": 0.1
+      },
+      {
+        "itemId": 56215,
+        "nameKr": "히든 플라워 엔젤 박스 1개",
+        "nameTh": "กล่องแองเจิลฟลาวเวอร์ปริศนา 1 ชิ้น",
+        "probability": 0.1
+      },
+      {
+        "itemId": 53360,
+        "nameKr": "히든 코멧 체스트 1개",
+        "nameTh": "กล่องดาวหางปริศนา 1 ชิ้น",
+        "probability": 0.1
+      },
+      {
+        "itemId": 53088,
+        "nameKr": "크로노스의 유물상자 1개",
+        "nameTh": "กล่องสมบัติโบราณของโครนอส 1 ชิ้น",
+        "probability": 0.1
+      },
+      {
+        "itemId": 50841,
+        "nameKr": "히든 컴뱃 체스트 1개",
+        "nameTh": "กล่องฮิดเด้นคอมแบท 1 ชิ้น",
+        "probability": 0.1
+      },
+      {
+        "itemId": 47133,
+        "nameKr": "다이아 체스트 1개",
+        "nameTh": "กล่องเพชร 1 ชิ้น",
+        "probability": 0.4
+      },
+      {
+        "itemId": 47113,
+        "nameKr": "골드 체스트 1개",
+        "nameTh": "กล่องสีทอง 1 ชิ้น",
+        "probability": 1.0
+      },
+      {
+        "itemId": 47093,
+        "nameKr": "실버 체스트 1개",
+        "nameTh": "กล่องสีเงิน 1 ชิ้น",
+        "probability": 2.0
+      },
+      {
+        "itemId": 47073,
+        "nameKr": "브론즈 체스트 1개",
+        "nameTh": "กล่องสีทองแดง 1 ชิ้น",
+        "probability": 4.0
+      }
+    ]
+  },
+  {
+    "decoyId": 77679,
+    "nameKr": "갯지렁이 훈제 구이",
+    "nameTh": "กิ้งกือรมควัน",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 77736,
+        "nameKr": "구름 청새치",
+        "nameTh": "ปลามาร์ลินเมฆ",
+        "probability": 1.0989
+      },
+      {
+        "itemId": 77734,
+        "nameKr": "왕꽃아귀",
+        "nameTh": "ปลาแองเกลอร์ยักษ์",
+        "probability": 3.2967
+      },
+      {
+        "itemId": 77732,
+        "nameKr": "옐로우탱 쉐프",
+        "nameTh": "เยลโล่แทงก์เชฟ",
+        "probability": 5.4945
+      },
+      {
+        "itemId": 77730,
+        "nameKr": "블루 해파리",
+        "nameTh": "แมงกะพรุนสีฟ้า",
+        "probability": 10.989
+      },
+      {
+        "itemId": 77728,
+        "nameKr": "핑크 해마",
+        "nameTh": "ม้าน้ำสีชมพู",
+        "probability": 16.4835
+      },
+      {
+        "itemId": 77726,
+        "nameKr": "하트 연어",
+        "nameTh": "ปลาแซลมอนฮาร์ต",
+        "probability": 21.978
+      },
+      {
+        "itemId": 77701,
+        "nameKr": "물먹은 깡통 1개",
+        "nameTh": "กระป๋องน้ำเต็ม 1 ชิ้น",
+        "probability": 10.0659
+      },
+      {
+        "itemId": 77699,
+        "nameKr": "찢어진 그물 1개",
+        "nameTh": "เศษตาข่าย 1 ชิ้น",
+        "probability": 10.0659
+      },
+      {
+        "itemId": 77697,
+        "nameKr": "구멍난 양말 1개",
+        "nameTh": "ถุงเท้าขาด 1 ชิ้น",
+        "probability": 10.0659
+      },
+      {
+        "itemId": 77695,
+        "nameKr": "비닐 봉투 1개",
+        "nameTh": "เศษถุงดำ 1 ชิ้น",
+        "probability": 10.0549
+      },
+      {
+        "itemId": 57322,
+        "nameKr": "두근두근 대박 상자 1개",
+        "nameTh": "กล่องแจ็คพ็อตหัวใจพองโต 1 ชิ้น",
+        "probability": 0.011
+      },
+      {
+        "itemId": 47133,
+        "nameKr": "다이아 체스트 1개",
+        "nameTh": "กล่องเพชร 1 ชิ้น",
+        "probability": 0.011
+      },
+      {
+        "itemId": 47113,
+        "nameKr": "골드 체스트 1개",
+        "nameTh": "กล่องสีทอง 1 ชิ้น",
+        "probability": 0.0549
+      },
+      {
+        "itemId": 47093,
+        "nameKr": "실버 체스트 1개",
+        "nameTh": "กล่องสีเงิน 1 ชิ้น",
+        "probability": 0.1099
+      },
+      {
+        "itemId": 47073,
+        "nameKr": "브론즈 체스트 1개",
+        "nameTh": "กล่องสีทองแดง 1 ชิ้น",
+        "probability": 0.2198
+      }
+    ]
+  },
+  {
+    "decoyId": 77674,
+    "nameKr": "크릴 새우 필라프",
+    "nameTh": "ข้าวผัดกุ้งแห้ง",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 77724,
+        "nameKr": "클로버 농어",
+        "nameTh": "ปลาเพิร์ชโคลเวอร์",
+        "probability": 1.0989
+      },
+      {
+        "itemId": 77722,
+        "nameKr": "스타 고등어",
+        "nameTh": "ปลาซาบะดาว",
+        "probability": 3.2967
+      },
+      {
+        "itemId": 77720,
+        "nameKr": "세모 대구",
+        "nameTh": "ปลาค็อดสามเหลี่ยม",
+        "probability": 5.4945
+      },
+      {
+        "itemId": 77718,
+        "nameKr": "왕 오징어",
+        "nameTh": "หมึกยักษ์",
+        "probability": 10.989
+      },
+      {
+        "itemId": 77716,
+        "nameKr": "별가사리",
+        "nameTh": "ปลาดาว",
+        "probability": 16.4835
+      },
+      {
+        "itemId": 77714,
+        "nameKr": "날치",
+        "nameTh": "ปลากะทุงเหว",
+        "probability": 21.978
+      },
+      {
+        "itemId": 77701,
+        "nameKr": "물먹은 깡통 1개",
+        "nameTh": "กระป๋องน้ำเต็ม 1 ชิ้น",
+        "probability": 10.0659
+      },
+      {
+        "itemId": 77699,
+        "nameKr": "찢어진 그물 1개",
+        "nameTh": "เศษตาข่าย 1 ชิ้น",
+        "probability": 10.0659
+      },
+      {
+        "itemId": 77697,
+        "nameKr": "구멍난 양말 1개",
+        "nameTh": "ถุงเท้าขาด 1 ชิ้น",
+        "probability": 10.0659
+      },
+      {
+        "itemId": 77695,
+        "nameKr": "비닐 봉투 1개",
+        "nameTh": "เศษถุงดำ 1 ชิ้น",
+        "probability": 10.0659
+      },
+      {
+        "itemId": 47133,
+        "nameKr": "다이아 체스트 1개",
+        "nameTh": "กล่องเพชร 1 ชิ้น",
+        "probability": 0.011
+      },
+      {
+        "itemId": 47113,
+        "nameKr": "골드 체스트 1개",
+        "nameTh": "กล่องสีทอง 1 ชิ้น",
+        "probability": 0.0549
+      },
+      {
+        "itemId": 47093,
+        "nameKr": "실버 체스트 1개",
+        "nameTh": "กล่องสีเงิน 1 ชิ้น",
+        "probability": 0.1099
+      },
+      {
+        "itemId": 47073,
+        "nameKr": "브론즈 체스트 1개",
+        "nameTh": "กล่องสีทองแดง 1 ชิ้น",
+        "probability": 0.2198
+      }
+    ]
+  },
+  {
+    "decoyId": 77669,
+    "nameKr": "삼각 주먹떡밥",
+    "nameTh": "ข้าวปั้นสามเหลี่ยม",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 77712,
+        "nameKr": "홍붕어",
+        "nameTh": "ปลากระพง",
+        "probability": 1.1013
+      },
+      {
+        "itemId": 77710,
+        "nameKr": "꽁치",
+        "nameTh": "ปลาแมกเคอเรล",
+        "probability": 3.304
+      },
+      {
+        "itemId": 77708,
+        "nameKr": "메기",
+        "nameTh": "ปลาดุก",
+        "probability": 5.5066
+      },
+      {
+        "itemId": 77706,
+        "nameKr": "꽃게",
+        "nameTh": "ปูม้า",
+        "probability": 11.0132
+      },
+      {
+        "itemId": 77704,
+        "nameKr": "새우",
+        "nameTh": "กุ้ง",
+        "probability": 16.5198
+      },
+      {
+        "itemId": 77702,
+        "nameKr": "멸치",
+        "nameTh": "ปลาแอนโชวี",
+        "probability": 22.0264
+      },
+      {
+        "itemId": 77701,
+        "nameKr": "물먹은 깡통 1개",
+        "nameTh": "กระป๋องน้ำเต็ม 1 ชิ้น",
+        "probability": 10.0881
+      },
+      {
+        "itemId": 77699,
+        "nameKr": "찢어진 그물 1개",
+        "nameTh": "เศษตาข่าย 1 ชิ้น",
+        "probability": 10.0881
+      },
+      {
+        "itemId": 77697,
+        "nameKr": "구멍난 양말 1개",
+        "nameTh": "ถุงเท้าขาด 1 ชิ้น",
+        "probability": 10.0881
+      },
+      {
+        "itemId": 77695,
+        "nameKr": "비닐 봉투 1개",
+        "nameTh": "เศษถุงดำ 1 ชิ้น",
+        "probability": 10.0881
+      },
+      {
+        "itemId": 47113,
+        "nameKr": "골드 체스트 1개",
+        "nameTh": "กล่องสีทอง 1 ชิ้น",
+        "probability": 0.011
+      },
+      {
+        "itemId": 47093,
+        "nameKr": "실버 체스트 1개",
+        "nameTh": "กล่องสีเงิน 1 ชิ้น",
+        "probability": 0.0551
+      },
+      {
+        "itemId": 47073,
+        "nameKr": "브론즈 체스트 1개",
+        "nameTh": "กล่องสีทองแดง 1 ชิ้น",
+        "probability": 0.1101
+      }
+    ]
+  }
+]
