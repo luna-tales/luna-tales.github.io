@@ -1,0 +1,6313 @@
+[
+  {
+    "nameKr": "노멀 아틀리에 변경권",
+    "groups": [
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 86.3817
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 13.6183
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "레어 아틀리에 변경권",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "유니크 아틀리에 변경권",
+    "groups": [
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "타임 아틀리에 변경권",
+    "groups": [
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 9.5841
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 90.4159
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 1",
+        "sourceTh": "ธรรมดา 1",
+        "outcomes": [
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 9.0909
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 90.9091
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "레전더리 아틀리에 변경권",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "얼티밋 아틀리에 변경권",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "프레스티지",
+            "targetTh": "เพรสทีจ",
+            "probability": 12.5
+          },
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 87.5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.2 다이아 변경권",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 60.8291
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 23.9378
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 9.7927
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 5.4404
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.2 시그니처 변경권",
+    "groups": [
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 0.7732
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 10.3093
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 38.6598
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 29.6392
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 20.6186
+          }
+        ]
+      },
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 0.7712
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 10.3213
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 38.7147
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 29.6272
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 20.5656
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 0.7712
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 10.3085
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 38.6375
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 29.7172
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 20.5656
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.2 ตั๋วเปลี่ยนสัตว์เลี้ยง",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 8.8616
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 59.6455
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 28.4935
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 2.9993
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 5.4533
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 39.1956
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 52.3517
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 2.9993
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 1",
+        "sourceTh": "ธรรมดา 1",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 56.4682
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 34.4969
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 9.0349
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.2 ตั๋วเปลี่ยนเสื้อ, ท่อนล่าง",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.8427
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 48.4994
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 40.5762
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 4.0816
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 3.8415
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 30.4922
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 61.5846
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 4.0816
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.2 ตั๋วเปลี่ยนปีก",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 9.6753
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 57.1239
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 30.9476
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 2.2531
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.3618
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 37.2432
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 54.1418
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 2.2531
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.2 ตั๋วเปลี่ยนกำไล, บูสเตอร์, ลำคอ",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 7.9466
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 54.2276
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 36.0458
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 1.78
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 4.768
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 35.1558
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 58.2962
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 1.78
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.2 ตั๋วเปลี่ยนถุงมือ",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.9319
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 49.1863
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 41.2297
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 2.6522
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 3.918
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 31.1031
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 62.3267
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 2.6522
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.2 ตั๋วเปลี่ยนรองเท้า",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.9528
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 49.5163
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 40.4474
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 3.0834
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 3.9299
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 31.3785
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 61.6082
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 3.0834
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.2 ตั๋วเปลี่ยนผม",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 7.4461
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 57.0216
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 35.0751
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 0.4572
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 4.1803
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 37.4265
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 57.936
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 0.4572
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.2 ตั๋วเปลี่ยนผม",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 7.1562
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 54.2626
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 35.9676
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 2.6136
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 4.0448
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 35.5943
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 57.7474
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 2.6136
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.2 ตั๋วเปลี่ยนใบหน้า",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.6456
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 57.2152
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 33.481
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 2.6582
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 3.481
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 38.2278
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 55.6329
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 2.6582
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.2 ตั๋วเปลี่ยนหายาก",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 56.1404
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 43.8596
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.8276
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 55.1724
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 1",
+        "sourceTh": "ธรรมดา 1",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 50.0
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 50.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.2 ตั๋วเปลี่ยนยูนีค",
+    "groups": [
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.2 ตั๋วเปลี่ยนตำนาน",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.2 ตั๋วเปลี่ยนสัตว์เลี้ยงปริศนา",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "프레스티지",
+            "targetTh": "เพรสทีจ",
+            "probability": 0.005
+          },
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 17.7049
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 82.2902
+          }
+        ]
+      },
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "프레스티지",
+            "targetTh": "เพรสทีจ",
+            "probability": 0.005
+          },
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 17.4991
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 82.4959
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.2 ตั๋วเปลี่ยนท่าโพส",
+    "groups": [
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 1.0526
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 11.5789
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 34.7368
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 52.6316
+          }
+        ]
+      },
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 1.0515
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 11.5825
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 34.7634
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 52.6025
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 1.0515
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 11.5773
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 34.7319
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 52.6393
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.2 ตั๋วเปลี่ยนเพรสทิจี",
+    "groups": [
+      {
+        "sourceKr": "프레스티지",
+        "sourceTh": "เพรสทีจ",
+        "outcomes": [
+          {
+            "targetKr": "프레스티지",
+            "targetTh": "เพรสทีจ",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "21-23 ตั๋วเปลี่ยนเพรสทิจี",
+    "groups": [
+      {
+        "sourceKr": "프레스티지",
+        "sourceTh": "เพรสทีจ",
+        "outcomes": [
+          {
+            "targetKr": "프레스티지",
+            "targetTh": "เพรสทีจ",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "21-23 ตั๋วเปลี่ยนตำนาน",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "21-23 ตั๋วเปลี่ยนยูนีค",
+    "groups": [
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "21-23 ตั๋วเปลี่ยนหายาก",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 90.3226
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 9.6774
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 68.75
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 31.25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.1 ตั๋วเปลี่ยนลับ",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 0.7092
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 17.7305
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 49.6454
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 17.7305
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 14.1844
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 0.7092
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 14.1844
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 28.3688
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 42.5532
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 14.1844
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.1 ตั๋วเปลี่ยนสัตว์เลี้ยง",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 8.589
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 54.6012
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 30.6748
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 6.135
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 2.454
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 17.7914
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 73.6196
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 6.135
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.1 ตั๋วเปลี่ยนเสื้อ, ท่อนล่าง",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.5421
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 46.729
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 42.0561
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 4.6729
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.8692
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 18.6916
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 74.7664
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 4.6729
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.1 ตั๋วเปลี่ยนปีก",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 9.2593
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 46.2963
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 41.6667
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 2.7778
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 4.6296
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 18.5185
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 74.0741
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 2.7778
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.1 ตั๋วเปลี่ยนกำไล, บูสเตอร์, ลำคอ",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 7.5829
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 42.1801
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 47.3934
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 2.8436
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 2.8436
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 13.7441
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 80.5687
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 2.8436
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.1 ตั๋วเปลี่ยนถุงมือ",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.8966
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 43.1034
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 47.4138
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 2.5862
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 2.5862
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 17.2414
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 77.5862
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 2.5862
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.1 ตั๋วเปลี่ยนรองเท้า",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.6372
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 39.823
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 48.6726
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 4.8673
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 2.2124
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 13.2743
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 79.646
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 4.8673
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.1 ตั๋วเปลี่ยนผม",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.7961
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 48.5437
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 43.6893
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 0.9709
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.9417
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 19.4175
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 77.6699
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 0.9709
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.1 ตั๋วเปลี่ยนผม",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.9307
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5545
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 44.5545
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 3.9604
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.9802
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.8515
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 79.2079
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 3.9604
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.1 ตั๋วเปลี่ยนใบหน้า",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.25
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 49.1071
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 40.1786
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 4.4643
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.7857
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 22.3214
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 71.4286
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 4.4643
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.1 ตั๋วเปลี่ยนหายาก",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 66.6667
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 33.3333
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 25.0
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 75.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.1 ตั๋วเปลี่ยนยูนีค",
+    "groups": [
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.1 ตั๋วเปลี่ยนตำนาน",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.1 ตั๋วเปลี่ยนสัตว์เลี้ยงปริศนา",
+    "groups": [
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 5.0
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 95.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.1 ตั๋วเปลี่ยนหายาก II",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 66.6667
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 33.3333
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 25.0
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 75.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.1 ตั๋วเปลี่ยนยูนีค II",
+    "groups": [
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.1 ตั๋วเปลี่ยนตำนาน II",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.1 ตั๋วเปลี่ยนท่าโพส",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 31.8182
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 13.6364
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 22.7273
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 31.8182
+          }
+        ]
+      },
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 11.7647
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 17.6471
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 29.4118
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 41.1765
+          }
+        ]
+      },
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 1.7094
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 15.3846
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 55.5556
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 27.3504
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 1.7094
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 11.1111
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 29.9145
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 57.265
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.1 ตั๋วเปลี่ยนไอเทมเฉพาะ",
+    "groups": [
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 35.7143
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 28.5714
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 21.4286
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 14.2857
+          }
+        ]
+      },
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 27.0833
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 41.6667
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 22.9167
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 8.3333
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 25.0
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 29.1667
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 37.5
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 8.3333
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "New.1 ตั๋วเปลี่ยนเพรสทิจี",
+    "groups": [
+      {
+        "sourceKr": "프레스티지",
+        "sourceTh": "เพรสทีจ",
+        "outcomes": [
+          {
+            "targetKr": "프레스티지",
+            "targetTh": "เพรสทีจ",
+            "probability": 94.1696
+          },
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 5.8304
+          }
+        ]
+      },
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "프레스티지",
+            "targetTh": "เพรสทีจ",
+            "probability": 5.8304
+          },
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 94.1696
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนลับครั้งที่ 5",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 0.7092
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 17.7305
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 49.6454
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 17.7305
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 14.1844
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 0.7092
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 14.1844
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 28.3688
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 42.5532
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 14.1844
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนสัตว์เลี้ยงปริศนาครั้งที่ 5",
+    "groups": [
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 5.0
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 95.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนสัตว์เลี้ยงครั้งที่ 5",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 8.589
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 54.6012
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 30.6748
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 6.135
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 2.454
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 17.7914
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 73.6196
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 6.135
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนผมครั้งที่ 5",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.7961
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 48.5437
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 43.6893
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 0.9709
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.9417
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 19.4175
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 77.6699
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 0.9709
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนเสื้อ, ท่อนล่างครั้งที่ 5",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.5421
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 46.729
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 42.0561
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 4.6729
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.8692
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 18.6916
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 74.7664
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 4.6729
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนปีกครั้งที่ 5",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 9.2593
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 46.2963
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 41.6667
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 2.7778
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 4.6296
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 18.5185
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 74.0741
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 2.7778
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนกำไล, บูสเตอร์, ลำคอครั้งที่ 5",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 7.5829
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 42.1801
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 47.3934
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 2.8436
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 2.8436
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 13.7441
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 80.5687
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 2.8436
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนถุงมือครั้งที่ 5",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.8966
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 43.1034
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 47.4138
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 2.5862
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 2.5862
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 17.2414
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 77.5862
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 2.5862
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนรองเท้าครั้งที่ 5",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.6372
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 39.823
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 48.6726
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 4.8673
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 2.2124
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 13.2743
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 79.646
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 4.8673
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนผมครั้งที่ 5",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.9307
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5545
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 44.5545
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 3.9604
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.9802
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.8515
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 79.2079
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 3.9604
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนใบหน้าครั้งที่ 5",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.25
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 49.1071
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 40.1786
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 4.4643
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.7857
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 22.3214
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 71.4286
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 4.4643
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนหายากครั้งที่ 5",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 66.6667
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 33.3333
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 25.0
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 75.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนยูนีคครั้งที่ 5",
+    "groups": [
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนตำนานครั้งที่ 5",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนหายากครั้งที่ 5 II",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 66.6667
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 33.3333
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 25.0
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 75.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนยูนีคครั้งที่ 5 II",
+    "groups": [
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนตำนานครั้งที่ 5 II",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนเทรดดิ้ง 2020",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 49.0741
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 46.2963
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 4.6296
+          }
+        ]
+      },
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 5.1724
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 86.2069
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 8.6207
+          }
+        ]
+      },
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 0.2836
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 18.9036
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 57.1834
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 23.6295
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 0.2836
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 14.1777
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 28.828
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 56.7108
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนลับครั้งที่ 4",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 0.7092
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 17.7305
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 49.6454
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 17.7305
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 14.1844
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 0.7092
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 14.1844
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 28.3688
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 42.5532
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 14.1844
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนสัตว์เลี้ยงปริศนาครั้งที่ 4",
+    "groups": [
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 6.0
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 94.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนสัตว์เลี้ยงหายากครั้งที่ 4",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 70.5882
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 29.4118
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 33.3333
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 66.6667
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนสัตว์เลี้ยงครั้งที่ 4",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 8.9219
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 55.1425
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 30.9789
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 4.9566
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 2.7261
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 17.9678
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 74.3494
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 4.9566
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนผมครั้งที่ 4",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.7227
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 46.2185
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 46.2185
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 0.8403
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 2.521
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 21.0084
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 75.6303
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 0.8403
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนเครื่องประดับครั้งที่ 4",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 7.3394
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 46.789
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 41.2844
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 4.5872
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 2.7523
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 19.2661
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 73.3945
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 4.5872
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": " ตั๋วเปลี่ยนท่อนบนล่างครั้งที่ 4",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.6079
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.0529
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 43.1718
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 6.1674
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 2.2026
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 17.6211
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 74.0088
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 6.1674
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนปีกครั้งที่ 4",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 9.1743
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 45.8716
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 41.2844
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 3.6697
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 4.5872
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 18.3486
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 73.3945
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 3.6697
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนกำไล, บูสเตอร์, ลำคอครั้งที่ 4",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 7.5829
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 42.1801
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 47.3934
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 2.8436
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 2.8436
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 13.7441
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 80.5687
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 2.8436
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนถุงมือครั้งที่ 4",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.7797
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 42.3729
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 46.6102
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 4.2373
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 2.5424
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 16.9492
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 76.2712
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 4.2373
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนรองเท้าครั้งที่ 4",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.6079
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 39.6476
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 48.4581
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 5.2863
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 2.2026
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 13.2159
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 79.2952
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 5.2863
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนผมครั้งที่ 4",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.9307
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5545
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 44.5545
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 3.9604
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.9802
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.8515
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 79.2079
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 3.9604
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนใบหน้าครั้งที่ 4",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 7.0175
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 48.2456
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 39.4737
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 5.2632
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 2.6316
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 21.9298
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 70.1754
+          },
+          {
+            "targetKr": "일반 1",
+            "targetTh": "ธรรมดา 1",
+            "probability": 5.2632
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนหายากครั้งที่ 4",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 66.6667
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 33.3333
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 25.0
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 75.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนยูนีคครั้งที่ 4",
+    "groups": [
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนตำนานครั้งที่ 4",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนโกลด์ครั้งที่ 4",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 59.5
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 35.0
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 3.0
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 2.5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนแพทตินั่มครั้งที่ 4",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 68.0
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 24.0
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 4.0
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 4.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนไดมอนด์ครั้งที่ 4",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 78.0
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 12.0
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 6.0
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 4.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "2019 트레이딩 변경권3",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 48.2143
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 45.5357
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 6.25
+          }
+        ]
+      },
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 6.4516
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 82.2581
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 11.2903
+          }
+        ]
+      },
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 0.3766
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 18.9266
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 57.1563
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 23.5405
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 0.3766
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 14.2185
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 28.9077
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 56.4972
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนเทรดดิ้ง 2019 2",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 47.3214
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 45.5357
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 7.1429
+          }
+        ]
+      },
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 4.8387
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 82.2581
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 12.9032
+          }
+        ]
+      },
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 0.2825
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 18.9266
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 57.2505
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 23.5405
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 0.2825
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 14.2185
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 29.0019
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 56.4972
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนเทรดดิ้ง 2019 3",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 48.2143
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 45.5357
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 6.25
+          }
+        ]
+      },
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 6.4516
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 82.2581
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 11.2903
+          }
+        ]
+      },
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 0.3766
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 18.9266
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 57.1563
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 23.5405
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 0.3766
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 14.2185
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 28.9077
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 56.4972
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนเทรดดิ้ง 2019 2",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 47.3214
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 45.5357
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 7.1429
+          }
+        ]
+      },
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 4.8387
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 82.2581
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 12.9032
+          }
+        ]
+      },
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 0.2825
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 18.9266
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 57.2505
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 23.5405
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 0.2825
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 14.2185
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 29.0019
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 56.4972
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเทรด 2020",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 46.4286
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 44.6429
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 8.9286
+          }
+        ]
+      },
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 3.2258
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 80.6452
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 16.129
+          }
+        ]
+      },
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 0.1883
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 18.8324
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 57.4388
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 23.5405
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 0.1883
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 14.1243
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 29.1902
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 56.4972
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนท่อนล่างครั้งที่ 3",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 36.8421
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 63.1579
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 5.0
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 95.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนสัตว์เลี้ยงปริศนาครั้งที่ 3",
+    "groups": [
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 5.0
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 95.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนสัตว์เลี้ยงหายากครั้งที่ 3",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 41.1765
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 58.8235
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 5.5556
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 94.4444
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนสัตว์เลี้ยงครั้งที่ 3",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.012
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5892
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 49.3988
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.002
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.5291
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 84.4689
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนผมครั้งที่ 3",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 7.767
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 67.9612
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 24.2718
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 2.9126
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 38.835
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 58.2524
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนเครื่องประดับครั้งที่ 3",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 7.0
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 51.0
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 42.0
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 2.0
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 21.0
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 77.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนท่อนบนครั้งที่ 3",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.5
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 49.0
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.5
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.5
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 84.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนปีกครั้งที่ 3",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.0
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.0
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 50.0
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.0
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.0
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 85.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนบูสเตอร์, กำไลครั้งที่ 3",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.012
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5892
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 49.3988
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.002
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.5291
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 84.4689
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนผ้าพันคอครั้งที่ 3",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.012
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5892
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 49.3988
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.002
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.5291
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 84.4689
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนถุงมือครั้งที่ 3",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.0
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 45.0
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 49.0
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.0
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 15.0
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 84.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนรองเท้าครั้งที่ 3",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.012
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5892
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 49.3988
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.002
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.5291
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 84.4689
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนผมครั้งที่ 3",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.0
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 45.0
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 49.0
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.0
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 15.0
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 84.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนใบหน้าครั้งที่ 3",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.0
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 46.0
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 48.0
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.0
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 16.0
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 83.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนหายากครั้งที่ 3",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 70.5882
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 29.4118
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 33.3333
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 66.6667
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนยูนีคครั้งที่ 3",
+    "groups": [
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนตำนานครั้งที่ 3",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเทรด 2019",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 46.4286
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 44.6429
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 8.9286
+          }
+        ]
+      },
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 3.2258
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 80.6452
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 16.129
+          }
+        ]
+      },
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 0.1883
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 18.8324
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 57.4388
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 23.5405
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 0.1883
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 14.1243
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 29.1902
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 56.4972
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนท่อนล่างครั้งที่ 2",
+    "groups": [
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 5.0
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 95.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนถุงมือครั้งที่ 2",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.012
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5892
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 49.3988
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.002
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.5291
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 84.4689
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนสัตว์เลี้ยงปริศนาครั้งที่ 2",
+    "groups": [
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 5.0
+          },
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 95.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนสัตว์เลี้ยงหายากครั้งที่ 2",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 41.1765
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 58.8235
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 5.5556
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 94.4444
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนสัตว์เลี้ยงครั้งที่ 2",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.012
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5892
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 49.3988
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.002
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.5291
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 84.4689
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนผมครั้งที่ 2",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 7.767
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 67.9612
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 24.2718
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 2.9126
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 38.835
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 58.2524
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนเครื่องประดับครั้งที่ 2",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.7961
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 49.5146
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 43.6893
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.9417
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 20.3883
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 77.6699
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนท่อนบนครั้งที่ 2",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.5
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 49.0
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.5
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.5
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 84.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนปีกครั้งที่ 2",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.012
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5892
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 49.3988
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.002
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.5291
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 84.4689
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนบูสเตอร์, กำไลครั้งที่ 2",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.012
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5892
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 49.3988
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.002
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.5291
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 84.4689
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนผ้าพันคอครั้งที่ 2",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.012
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5892
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 49.3988
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.002
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.5291
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 84.4689
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนรองเท้าครั้งที่ 2",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.012
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5892
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 49.3988
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.002
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.5291
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 84.4689
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนผมครั้งที่ 2",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.012
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5892
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 49.3988
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.002
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.5291
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 84.4689
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนใบหน้าครั้งที่ 2",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.012
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5892
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 49.3988
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.002
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.5291
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 84.4689
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนหายากครั้งที่ 2",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 70.5882
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 29.4118
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 33.3333
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 66.6667
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนยูนีคครั้งที่ 2",
+    "groups": [
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนตำนานครั้งที่ 2",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนตำนานครั้งที่ 1",
+    "groups": [
+      {
+        "sourceKr": "레전더리",
+        "sourceTh": "ตำนาน",
+        "outcomes": [
+          {
+            "targetKr": "레전더리",
+            "targetTh": "ตำนาน",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนยูนีคครั้งที่ 1",
+    "groups": [
+      {
+        "sourceKr": "유니크",
+        "sourceTh": "ยูนีค",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนหายากครั้งที่ 1",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 70.5882
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 29.4118
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 33.3333
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 66.6667
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนใบหน้าครั้งที่ 1",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.012
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5892
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 49.3988
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.002
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.5291
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 84.4689
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนผมครั้งที่ 1",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.012
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5892
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 49.3988
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.002
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.5291
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 84.4689
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนรองเท้าครั้งที่ 1",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.012
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5892
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 49.3988
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.002
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.5291
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 84.4689
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนถุงมือครั้งที่ 1",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.012
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5892
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 49.3988
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.002
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.5291
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 84.4689
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนผ้าพันคอครั้งที่ 1",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.012
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5892
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 49.3988
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.002
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.5291
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 84.4689
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนบูสเตอร์, กำไลครั้งที่ 1",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.012
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5892
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 49.3988
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.002
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.5291
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 84.4689
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนปีกครั้งที่ 1",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.012
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5892
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 49.3988
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.002
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.5291
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 84.4689
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนท่อนบนครั้งที่ 1",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.5
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 44.5
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 49.0
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.5
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 14.5
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 84.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนศีรษะหายาก",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 5.5556
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 38.8889
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 55.5556
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 5.5556
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 94.4444
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนเครื่องประดับครั้งที่ 1",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 6.7961
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 49.5146
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 43.6893
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 1.9417
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 20.3883
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 77.6699
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนท่อนล่างครั้งที่ 1",
+    "groups": [
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 5.0
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 95.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nameKr": "ตั๋วเปลี่ยนผมครั้งที่ 1",
+    "groups": [
+      {
+        "sourceKr": "레어",
+        "sourceTh": "แรร์",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 7.767
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 67.9612
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 24.2718
+          }
+        ]
+      },
+      {
+        "sourceKr": "일반 2",
+        "sourceTh": "ธรรมดา 2",
+        "outcomes": [
+          {
+            "targetKr": "유니크",
+            "targetTh": "ยูนีค",
+            "probability": 2.9126
+          },
+          {
+            "targetKr": "레어",
+            "targetTh": "แรร์",
+            "probability": 38.835
+          },
+          {
+            "targetKr": "일반 2",
+            "targetTh": "ธรรมดา 2",
+            "probability": 58.2524
+          }
+        ]
+      }
+    ]
+  }
+]
