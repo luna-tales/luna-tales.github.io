@@ -214,12 +214,14 @@
       {
         "itemId": 125247,
         "nameKr": "보솜보솜 토끼 상자 1개",
+        "nameTh": "กล่องกระต่ายนุ่มนิ่ม 1 ชิ้น",
         "probability": 4.7619,
         "probabilityPer100K": 4.707
       },
       {
         "itemId": 125003,
         "nameKr": "러브 딜리버리 상자 1개",
+        "nameTh": "กล่องเลิฟเดลิเวอร์รี่ 1 ชิ้น",
         "probability": 4.7619,
         "probabilityPer100K": 4.632
       },
@@ -33995,7 +33997,7 @@
       {
         "itemId": 80178,
         "nameKr": "I am Narcissus 내구도",
-        "nameTh": "I am Narcissus (ซ่อมแซม)",
+        "nameTh": "I am เนสสึ (ซ่อมแซม)",
         "probability": 0.0855,
         "probabilityPer100K": 0.074
       },
@@ -43747,119 +43749,139 @@
   {
     "boxId": 125444,
     "nameKr": "코믹 액세서리 박스",
-    "hidden": true,
+    "nameTh": "กล่องเครื่องประดับการ์ตูน",
+    "hidden": false,
     "items": [
       {
         "itemId": 125486,
         "nameKr": "코믹 액세서리 티켓 2개",
+        "nameTh": "ตั๋วเครื่องประดับการ์ตูน 2 ชิ้น",
         "probability": 8.5714,
         "probabilityPer100K": 8.711
       },
       {
         "itemId": 125485,
         "nameKr": "코믹 액세서리 티켓 1개",
+        "nameTh": "ตั๋วเครื่องประดับการ์ตูน 1 ชิ้น",
         "probability": 42.8571,
         "probabilityPer100K": 42.838
       },
       {
         "itemId": 125483,
         "nameKr": "토끼 머리쿵 팩 1개",
+        "nameTh": "แพ็กเครื่องหัวโดนัทกระต่าย 1 ชิ้น",
         "probability": 2.8571,
         "probabilityPer100K": 2.941
       },
       {
         "itemId": 125481,
         "nameKr": "거북이 머리쿵 팩 1개",
+        "nameTh": "แพ็กเครื่องหัวโดนัทเต่า 1 ชิ้น",
         "probability": 2.8571,
         "probabilityPer100K": 2.879
       },
       {
         "itemId": 125479,
         "nameKr": "호랑이 머리쿵 팩 1개",
+        "nameTh": "แพ็กเครื่องหัวโดนัทเสือ 1 ชิ้น",
         "probability": 2.8571,
         "probabilityPer100K": 2.795
       },
       {
         "itemId": 125477,
         "nameKr": "꿀벌 머리쿵 팩 1개",
+        "nameTh": "แพ็กเครื่องหัวโดนัทผึ้ง 1 ชิ้น",
         "probability": 2.8571,
         "probabilityPer100K": 2.814
       },
       {
         "itemId": 125475,
         "nameKr": "근손실 베어 팩 1개",
+        "nameTh": "แพ็กหมีเก้งก้าง 1 ชิ้น",
         "probability": 2.8571,
         "probabilityPer100K": 2.906
       },
       {
         "itemId": 125473,
         "nameKr": "코주부 안경 팩 1개",
+        "nameTh": "แพ็กแว่นตาตลก 1 ชิ้น",
         "probability": 2.8571,
         "probabilityPer100K": 2.798
       },
       {
         "itemId": 125471,
         "nameKr": "왕눈이 안경 팩 1개",
+        "nameTh": "แพ็กแว่นตาไข่ห่าน 1 ชิ้น",
         "probability": 2.8571,
         "probabilityPer100K": 2.851
       },
       {
         "itemId": 125469,
         "nameKr": "크다크다 안경 팩 1개",
+        "nameTh": "แพ็กแว่นตาใหญ่โต 1 ชิ้น",
         "probability": 2.8571,
         "probabilityPer100K": 2.895
       },
       {
         "itemId": 125467,
         "nameKr": "작아작아 안경 팩 1개",
+        "nameTh": "แพ็กแว่นตาจิ๋ว 1 ชิ้น",
         "probability": 2.8571,
         "probabilityPer100K": 2.875
       },
       {
         "itemId": 125465,
         "nameKr": "엣헴! 수염 팩 1개",
+        "nameTh": "แพ็กหนวดอะแฮ่ม! 1 ชิ้น",
         "probability": 2.8571,
         "probabilityPer100K": 2.908
       },
       {
         "itemId": 125463,
         "nameKr": "젠틀맨 수염 팩 1개",
+        "nameTh": "แพ็กหนวดสุภาพบุรุษ 1 ชิ้น",
         "probability": 2.8571,
         "probabilityPer100K": 2.841
       },
       {
         "itemId": 125461,
         "nameKr": "삐죽 머리 장식 팩 1개",
+        "nameTh": "แพ็กเครื่องหัวบึ้งตึง 1 ชิ้น",
         "probability": 2.8571,
         "probabilityPer100K": 2.795
       },
       {
         "itemId": 125459,
         "nameKr": "트위스트 머리 장식 팩 1개",
+        "nameTh": "แพ็กเครื่องหัวทวิสต์ 1 ชิ้น",
         "probability": 2.8571,
         "probabilityPer100K": 2.867
       },
       {
         "itemId": 125457,
         "nameKr": "내 머리에 오목이 팩 1개",
+        "nameTh": "แพ็กโอมกบนหัว 1 ชิ้น",
         "probability": 2.8571,
         "probabilityPer100K": 2.85
       },
       {
         "itemId": 125455,
         "nameKr": "내 머리에 병아리 팩 1개",
+        "nameTh": "แพ็กลูกเจี๊ยบบนหัว 1 ชิ้น",
         "probability": 2.8571,
         "probabilityPer100K": 2.846
       },
       {
         "itemId": 125453,
         "nameKr": "내 머리에 삼색냥 팩 1개",
+        "nameTh": "แพ็กแมวสามสีบนหัว 1 ชิ้น",
         "probability": 2.8571,
         "probabilityPer100K": 2.783
       },
       {
         "itemId": 125451,
         "nameKr": "내 머리에 모카냥 팩 1개",
+        "nameTh": "แพ็กแมวมอคค่าบนหัว 1 ชิ้น",
         "probability": 2.8571,
         "probabilityPer100K": 2.807
       }
@@ -43996,89 +44018,104 @@
   {
     "boxId": 125246,
     "nameKr": "보솜보솜 토끼 상자",
-    "hidden": true,
+    "nameTh": "กล่องกระต่ายนุ่มนิ่ม",
+    "hidden": false,
     "items": [
       {
         "itemId": 125263,
         "nameKr": "보솜보솜 토끼 쿠폰 3개",
+        "nameTh": "ตั๋วกระต่ายนุ่มนิ่ม 3 ชิ้น",
         "probability": 5.0,
         "probabilityPer100K": 4.967
       },
       {
         "itemId": 125262,
         "nameKr": "보솜보솜 토끼 쿠폰 2개",
+        "nameTh": "ตั๋วกระต่ายนุ่มนิ่ม 2 ชิ้น",
         "probability": 12.0,
         "probabilityPer100K": 12.0305
       },
       {
         "itemId": 125261,
         "nameKr": "보솜보솜 토끼 쿠폰 1개",
+        "nameTh": "ตั๋วกระต่ายนุ่มนิ่ม 1 ชิ้น",
         "probability": 79.7,
         "probabilityPer100K": 79.7025
       },
       {
         "itemId": 125236,
         "nameKr": "보솜보솜 토끼 리스 내구도",
+        "nameTh": "พวงกระต่ายนุ่มนิ่ม (ซ่อมแซม)",
         "probability": 0.3,
         "probabilityPer100K": 0.3
       },
       {
         "itemId": 125234,
         "nameKr": "보솜보솜 토끼 윙 내구도",
+        "nameTh": "ปีกกระต่ายนุ่มนิ่ม (ซ่อมแซม)",
         "probability": 0.3,
         "probabilityPer100K": 0.3115
       },
       {
         "itemId": 125232,
         "nameKr": "보솜보솜 토끼 발그레 내구도",
+        "nameTh": "แก้มแดงกระต่ายนุ่มนิ่ม (ซ่อมแซม)",
         "probability": 0.3,
         "probabilityPer100K": 0.29
       },
       {
         "itemId": 125230,
         "nameKr": "보솜보솜 토끼 모자 (여) 내구도",
+        "nameTh": "หมวกกระต่ายนุ่มนิ่ม (ญ) (ซ่อมแซม)",
         "probability": 0.3,
         "probabilityPer100K": 0.2815
       },
       {
         "itemId": 125228,
         "nameKr": "보솜보솜 토끼 모자 (남) 내구도",
+        "nameTh": "หมวกกระต่ายนุ่มนิ่ม (ช) (ซ่อมแซม)",
         "probability": 0.3,
         "probabilityPer100K": 0.3115
       },
       {
         "itemId": 125226,
         "nameKr": "보솜보솜 토끼 신발 (여) 내구도",
+        "nameTh": "รองเท้ากระต่ายนุ่มนิ่ม (ญ) (ซ่อมแซม)",
         "probability": 0.3,
         "probabilityPer100K": 0.2825
       },
       {
         "itemId": 125224,
         "nameKr": "보솜보솜 토끼 신발 (남) 내구도",
+        "nameTh": "รองเท้ากระต่ายนุ่มนิ่ม (ช) (ซ่อมแซม)",
         "probability": 0.3,
         "probabilityPer100K": 0.297
       },
       {
         "itemId": 125222,
         "nameKr": "보솜보솜 토끼 복장 (여) 내구도",
+        "nameTh": "ชุดกระต่ายนุ่มนิ่ม (ญ) (ซ่อมแซม)",
         "probability": 0.3,
         "probabilityPer100K": 0.305
       },
       {
         "itemId": 125220,
         "nameKr": "보솜보솜 토끼 복장 (남) 내구도",
+        "nameTh": "ชุดกระต่ายนุ่มนิ่ม (ช) (ซ่อมแซม)",
         "probability": 0.3,
         "probabilityPer100K": 0.302
       },
       {
         "itemId": 125218,
         "nameKr": "보솜보솜 토끼 헤어 (여) 내구도",
+        "nameTh": "ผมกระต่ายนุ่มนิ่ม (ญ) (ซ่อมแซม)",
         "probability": 0.3,
         "probabilityPer100K": 0.314
       },
       {
         "itemId": 125216,
         "nameKr": "보솜보솜 토끼 헤어 (남) 내구도",
+        "nameTh": "ผมกระต่ายนุ่มนิ่ม (ช) (ซ่อมแซม)",
         "probability": 0.3,
         "probabilityPer100K": 0.305
       }
@@ -44087,89 +44124,104 @@
   {
     "boxId": 125078,
     "nameKr": "25 변신캠페인 캡슐 주머니",
-    "hidden": true,
+    "nameTh": "ถุงไข่แปลงร่าง 2026",
+    "hidden": false,
     "items": [
       {
         "itemId": 125092,
         "nameKr": "25 변신캠페인 캡슐 코인 2개",
+        "nameTh": "เหรียญไข่แปลงร่าง 2026 2 ชิ้น",
         "probability": 27.4725,
         "probabilityPer100K": 27.4025
       },
       {
         "itemId": 125091,
         "nameKr": "25 변신캠페인 캡슐 코인 1개",
+        "nameTh": "เหรียญไข่แปลงร่าง 2026 1 ชิ้น",
         "probability": 68.6813,
         "probabilityPer100K": 68.731
       },
       {
         "itemId": 125049,
         "nameKr": "토끼곰돌이 포토존 내구도",
+        "nameTh": "โซนถ่ายรูปหมีกระต่าย (ซ่อมแซม)",
         "probability": 0.3434,
         "probabilityPer100K": 0.335
       },
       {
         "itemId": 125045,
         "nameKr": "토끼곰돌이 커플 포카 내구도",
+        "nameTh": "โฟโต้การ์ดคู่รักหมีกระต่าย (ซ่อมแซม)",
         "probability": 0.3434,
         "probabilityPer100K": 0.352
       },
       {
         "itemId": 125043,
         "nameKr": "토끼곰돌이 커플 스트랩 내구도",
+        "nameTh": "สายรัดคู่รักหมีกระต่าย (ซ่อมแซม)",
         "probability": 0.3434,
         "probabilityPer100K": 0.338
       },
       {
         "itemId": 125041,
         "nameKr": "토끼곰돌이 커플 모자 (여) 내구도",
+        "nameTh": "หมวกคู่รักหมีกระต่าย (ญ) (ซ่อมแซม)",
         "probability": 0.3434,
         "probabilityPer100K": 0.3495
       },
       {
         "itemId": 125039,
         "nameKr": "토끼곰돌이 커플 모자 (남) 내구도",
+        "nameTh": "หมวกคู่รักหมีกระต่าย (ช) (ซ่อมแซม)",
         "probability": 0.3434,
         "probabilityPer100K": 0.359
       },
       {
         "itemId": 125037,
         "nameKr": "토끼곰돌이 커플 슈즈 (여) 내구도",
+        "nameTh": "รองเท้าคู่รักหมีกระต่าย (ญ) (ซ่อมแซม)",
         "probability": 0.3434,
         "probabilityPer100K": 0.355
       },
       {
         "itemId": 125035,
         "nameKr": "토끼곰돌이 커플 슈즈 (남) 내구도",
+        "nameTh": "รองเท้าคู่รักหมีกระต่าย (ช) (ซ่อมแซม)",
         "probability": 0.3434,
         "probabilityPer100K": 0.3335
       },
       {
         "itemId": 125033,
         "nameKr": "토끼곰돌이 커플룩 (여) 내구도",
+        "nameTh": "ชุดคู่รักหมีกระต่าย (ญ) (ซ่อมแซม)",
         "probability": 0.3434,
         "probabilityPer100K": 0.3515
       },
       {
         "itemId": 125031,
         "nameKr": "토끼곰돌이 커플룩 (남) 내구도",
+        "nameTh": "ชุดคู่รักหมีกระต่าย (ช) (ซ่อมแซม)",
         "probability": 0.3434,
         "probabilityPer100K": 0.3395
       },
       {
         "itemId": 125029,
         "nameKr": "토끼곰돌이 헤어 (여) 내구도",
+        "nameTh": "ผมหมีกระต่าย (ญ) (ซ่อมแซม)",
         "probability": 0.3434,
         "probabilityPer100K": 0.361
       },
       {
         "itemId": 125027,
         "nameKr": "토끼곰돌이 헤어 (남) 내구도",
+        "nameTh": "ผมหมีกระต่าย (ช) (ซ่อมแซม)",
         "probability": 0.3434,
         "probabilityPer100K": 0.333
       },
       {
         "itemId": 124897,
         "nameKr": "만발한 설화 크라운 내구도",
+        "nameTh": "มงกุฎซอลฮวาสะพรั่ง (ซ่อมแซม)",
         "probability": 0.0687,
         "probabilityPer100K": 0.0595
       }
@@ -44178,89 +44230,104 @@
   {
     "boxId": 125002,
     "nameKr": "러브 딜리버리 상자",
-    "hidden": true,
+    "nameTh": "กล่องเลิฟเดลิเวอร์รี่",
+    "hidden": false,
     "items": [
       {
         "itemId": 125019,
         "nameKr": "러브 딜리버리 쿠폰 3개",
+        "nameTh": "ตั๋วเลิฟเดลิเวอร์รี่ 3 ชิ้น",
         "probability": 5.0,
         "probabilityPer100K": 4.991
       },
       {
         "itemId": 125018,
         "nameKr": "러브 딜리버리 쿠폰 2개",
+        "nameTh": "ตั๋วเลิฟเดลิเวอร์รี่ 2 ชิ้น",
         "probability": 12.0,
         "probabilityPer100K": 12.032
       },
       {
         "itemId": 125017,
         "nameKr": "러브 딜리버리 쿠폰 1개",
+        "nameTh": "ตั๋วเลิฟเดลิเวอร์รี่ 1 ชิ้น",
         "probability": 79.7,
         "probabilityPer100K": 79.6555
       },
       {
         "itemId": 124992,
         "nameKr": "러브 딜리버리 펫 내구도",
+        "nameTh": "เลิฟเดลิเวอร์รี่ (ซ่อมแซม)",
         "probability": 0.3,
         "probabilityPer100K": 0.2955
       },
       {
         "itemId": 124990,
         "nameKr": "러브 딜리버리 윙 내구도",
+        "nameTh": "ปีกเลิฟเดลิเวอร์รี่ (ซ่อมแซม)",
         "probability": 0.3,
         "probabilityPer100K": 0.301
       },
       {
         "itemId": 124988,
         "nameKr": "러브 딜리버리 볼터치 내구도",
+        "nameTh": "แตะแก้มเลิฟเดลิเวอร์รี่ (ซ่อมแซม)",
         "probability": 0.3,
         "probabilityPer100K": 0.313
       },
       {
         "itemId": 124986,
         "nameKr": "러브 딜리버리 모자 (여) 내구도",
+        "nameTh": "หมวกเลิฟเดลิเวอร์รี่ (ญ) (ซ่อมแซม)",
         "probability": 0.3,
         "probabilityPer100K": 0.288
       },
       {
         "itemId": 124984,
         "nameKr": "러브 딜리버리 모자 (남) 내구도",
+        "nameTh": "หมวกเลิฟเดลิเวอร์รี่ (ช) (ซ่อมแซม)",
         "probability": 0.3,
         "probabilityPer100K": 0.3005
       },
       {
         "itemId": 124982,
         "nameKr": "러브 딜리버리 신발 (여) 내구도",
+        "nameTh": "รองเท้าเลิฟเดลิเวอร์รี่ (ญ) (ซ่อมแซม)",
         "probability": 0.3,
         "probabilityPer100K": 0.3105
       },
       {
         "itemId": 124980,
         "nameKr": "러브 딜리버리 신발 (남) 내구도",
+        "nameTh": "รองเท้าเลิฟเดลิเวอร์รี่ (ช) (ซ่อมแซม)",
         "probability": 0.3,
         "probabilityPer100K": 0.295
       },
       {
         "itemId": 124978,
         "nameKr": "러브 딜리버리 복장 (여) 내구도",
+        "nameTh": "ชุดเลิฟเดลิเวอร์รี่ (ญ) (ซ่อมแซม)",
         "probability": 0.3,
         "probabilityPer100K": 0.2865
       },
       {
         "itemId": 124976,
         "nameKr": "러브 딜리버리 복장 (남) 내구도",
+        "nameTh": "ชุดเลิฟเดลิเวอร์รี่ (ช) (ซ่อมแซม)",
         "probability": 0.3,
         "probabilityPer100K": 0.298
       },
       {
         "itemId": 124974,
         "nameKr": "러브 딜리버리 헤어 (여) 내구도",
+        "nameTh": "ผมเลิฟเดลิเวอร์รี่ (ญ) (ซ่อมแซม)",
         "probability": 0.3,
         "probabilityPer100K": 0.323
       },
       {
         "itemId": 124972,
         "nameKr": "러브 딜리버리 헤어 (남) 내구도",
+        "nameTh": "ผมเลิฟเดลิเวอร์รี่ (ช) (ซ่อมแซม)",
         "probability": 0.3,
         "probabilityPer100K": 0.3105
       }
@@ -44269,47 +44336,55 @@
   {
     "boxId": 124911,
     "nameKr": "만발한 설화 상자",
-    "hidden": true,
+    "nameTh": "กล่องซอลฮวาสะพรั่ง",
+    "hidden": false,
     "items": [
       {
         "itemId": 124960,
         "nameKr": "서릿빛 숨결 1개",
+        "nameTh": "ลมหายใจแสงเหมันต์ 1 ชิ้น",
         "probability": 16.5,
         "probabilityPer100K": 16.43
       },
       {
         "itemId": 124954,
         "nameKr": "서릿빛 기운 1개",
+        "nameTh": "พลังแสงเหมันต์ 1 ชิ้น",
         "probability": 16.5,
         "probabilityPer100K": 16.483
       },
       {
         "itemId": 124948,
         "nameKr": "서릿빛 나비 1개",
+        "nameTh": "ผีเสื้อแสงเหมันต์ 1 ชิ้น",
         "probability": 16.5,
         "probabilityPer100K": 16.444
       },
       {
         "itemId": 124942,
         "nameKr": "서릿빛 결정 1개",
+        "nameTh": "คริสตัลแสงเหมันต์ 1 ชิ้น",
         "probability": 16.5,
         "probabilityPer100K": 16.766
       },
       {
         "itemId": 124936,
         "nameKr": "서릿빛 잎사귀 1개",
+        "nameTh": "ใบแสงเหมันต์ 1 ชิ้น",
         "probability": 16.5,
         "probabilityPer100K": 16.345
       },
       {
         "itemId": 124930,
         "nameKr": "서릿빛 꽃 1개",
+        "nameTh": "ดอกไม้แสงเหมันต์ 1 ชิ้น",
         "probability": 16.5,
         "probabilityPer100K": 16.529
       },
       {
         "itemId": 124918,
         "nameKr": "만발한 설화 선택권 1개",
+        "nameTh": "ตั๋วเลือกซอลฮวาสะพรั่ง 1 ชิ้น",
         "probability": 1.0,
         "probabilityPer100K": 1.003
       }
@@ -44318,41 +44393,48 @@
   {
     "boxId": 124871,
     "nameKr": "만개한 벚나무 상자",
-    "hidden": true,
+    "nameTh": "กล่องต้นซากุระบานสะพรั่ง",
+    "hidden": false,
     "items": [
       {
         "itemId": 125123,
         "nameKr": "만개한 벚꽃 뱅글 팩 1개",
+        "nameTh": "กำไลแพ็กปีกซากุระบานสะพรั่ง 1 ชิ้น",
         "probability": 0.3,
         "probabilityPer100K": 0.2835
       },
       {
         "itemId": 125121,
         "nameKr": "만개한 벚꽃 윙 팩 1개",
+        "nameTh": "แพ็กปีกซากุระบานสะพรั่ง 1 ชิ้น",
         "probability": 0.3,
         "probabilityPer100K": 0.297
       },
       {
         "itemId": 125119,
         "nameKr": "만개한 벚꽃 크라운 팩 1개",
+        "nameTh": "แพ็กมงกุฎซากุระบานสะพรั่ง 1 ชิ้น",
         "probability": 0.3,
         "probabilityPer100K": 0.3205
       },
       {
         "itemId": 124887,
         "nameKr": "만개한 벚꽃 5개",
+        "nameTh": "ซากุระบานสะพรั่ง 5 ชิ้น",
         "probability": 5.0,
         "probabilityPer100K": 5.0865
       },
       {
         "itemId": 124885,
         "nameKr": "만개한 벚꽃 2개",
+        "nameTh": "ซากุระบานสะพรั่ง 2 ชิ้น",
         "probability": 25.0,
         "probabilityPer100K": 24.882
       },
       {
         "itemId": 124884,
         "nameKr": "만개한 벚꽃 1개",
+        "nameTh": "ซากุระบานสะพรั่ง 1 ชิ้น",
         "probability": 69.1,
         "probabilityPer100K": 69.1305
       }
@@ -44361,47 +44443,55 @@
   {
     "boxId": 124838,
     "nameKr": "레드 삐에로의 상자",
-    "hidden": true,
+    "nameTh": "กล่องปิเอโร่สีแดง",
+    "hidden": false,
     "items": [
       {
         "itemId": 125129,
         "nameKr": "25 변신캠페인 코인 100개",
+        "nameTh": "เหรียญแปลงร่าง 2026 100 ชิ้น",
         "probability": 5.0,
         "probabilityPer100K": 5.084
       },
       {
         "itemId": 125127,
         "nameKr": "25 변신캠페인 코인 30개",
+        "nameTh": "เหรียญแปลงร่าง 2026 30 ชิ้น",
         "probability": 65.0,
         "probabilityPer100K": 64.896
       },
       {
         "itemId": 125117,
         "nameKr": "25 변신캠페인 코인 50개",
+        "nameTh": "เหรียญแปลงร่าง 2026 50 ชิ้น",
         "probability": 26.0,
         "probabilityPer100K": 26.012
       },
       {
         "itemId": 124924,
         "nameKr": "눈꽃송이 1개",
+        "nameTh": "เกล็ดหิมะ 1 ชิ้น",
         "probability": 1.5,
         "probabilityPer100K": 1.465
       },
       {
         "itemId": 124912,
         "nameKr": "만발한 설화 상자 1개",
+        "nameTh": "กล่องซอลฮวาสะพรั่ง 1 ชิ้น",
         "probability": 0.5,
         "probabilityPer100K": 0.484
       },
       {
         "itemId": 124878,
         "nameKr": "꽃봉오리 1개",
+        "nameTh": "ดอกไม้ตูม 1 ชิ้น",
         "probability": 1.5,
         "probabilityPer100K": 1.521
       },
       {
         "itemId": 124872,
         "nameKr": "만개한 벚나무 상자 1개",
+        "nameTh": "กล่องต้นซากุระบานสะพรั่ง 1 ชิ้น",
         "probability": 0.5,
         "probabilityPer100K": 0.538
       }
@@ -44410,39 +44500,41 @@
   {
     "boxId": 124832,
     "nameKr": "낡은 레드 삐에로의 상자",
-    "hidden": true,
+    "nameTh": "กล่องปิเอโร่สีแดงเก่าแก่",
+    "hidden": false,
     "items": [
       {
         "itemId": 125124,
         "nameKr": "25 변신캠페인 코인 4개",
+        "nameTh": "เหรียญแปลงร่าง 2026 4 ชิ้น",
         "probability": 4.0,
         "probabilityPer100K": 4.068
       },
       {
         "itemId": 124791,
         "nameKr": "25 변신캠페인 코인 5개",
-        "nameTh": "เหรียญที่ระลึกแคมเปญแปลงร่าง 5 ชิ้น",
+        "nameTh": "เหรียญแปลงร่าง 2026 5 ชิ้น",
         "probability": 2.0,
         "probabilityPer100K": 1.961
       },
       {
         "itemId": 124790,
         "nameKr": "25 변신캠페인 코인 3개",
-        "nameTh": "เหรียญที่ระลึกแคมเปญแปลงร่าง 3 ชิ้น",
+        "nameTh": "เหรียญแปลงร่าง 2026 3 ชิ้น",
         "probability": 6.0,
         "probabilityPer100K": 6.027
       },
       {
         "itemId": 124789,
         "nameKr": "25 변신캠페인 코인 2개",
-        "nameTh": "เหรียญที่ระลึกแคมเปญแปลงร่าง 2 ชิ้น",
+        "nameTh": "เหรียญแปลงร่าง 2026 2 ชิ้น",
         "probability": 10.0,
         "probabilityPer100K": 9.941
       },
       {
         "itemId": 124788,
         "nameKr": "25 변신캠페인 코인 1개",
-        "nameTh": "เหรียญที่ระลึกแคมเปญแปลงร่าง 1 ชิ้น",
+        "nameTh": "เหรียญแปลงร่าง 2026 1 ชิ้น",
         "probability": 78.0,
         "probabilityPer100K": 78.003
       }
@@ -44451,61 +44543,69 @@
   {
     "boxId": 124814,
     "nameKr": "25 변신캠페인 상자",
-    "hidden": true,
+    "nameTh": "กล่องแปลงร่าง 2026",
+    "hidden": false,
     "items": [
       {
         "itemId": 125126,
         "nameKr": "25 변신캠페인 코인 25개",
+        "nameTh": "เหรียญแปลงร่าง 2026 25 ชิ้น",
         "probability": 1.0,
         "probabilityPer100K": 0.9785
       },
       {
         "itemId": 125125,
         "nameKr": "25 변신캠페인 코인 15개",
+        "nameTh": "เหรียญแปลงร่าง 2026 15 ชิ้น",
         "probability": 2.0,
         "probabilityPer100K": 2.006
       },
       {
         "itemId": 125117,
         "nameKr": "25 변신캠페인 코인 50개",
+        "nameTh": "เหรียญแปลงร่าง 2026 50 ชิ้น",
         "probability": 0.4,
         "probabilityPer100K": 0.4055
       },
       {
         "itemId": 124924,
         "nameKr": "눈꽃송이 1개",
+        "nameTh": "เกล็ดหิมะ 1 ชิ้น",
         "probability": 0.3,
         "probabilityPer100K": 0.306
       },
       {
         "itemId": 124912,
         "nameKr": "만발한 설화 상자 1개",
+        "nameTh": "กล่องซอลฮวาสะพรั่ง 1 ชิ้น",
         "probability": 0.1,
         "probabilityPer100K": 0.107
       },
       {
         "itemId": 124878,
         "nameKr": "꽃봉오리 1개",
+        "nameTh": "ดอกไม้ตูม 1 ชิ้น",
         "probability": 0.3,
         "probabilityPer100K": 0.2985
       },
       {
         "itemId": 124872,
         "nameKr": "만개한 벚나무 상자 1개",
+        "nameTh": "กล่องต้นซากุระบานสะพรั่ง 1 ชิ้น",
         "probability": 0.1,
         "probabilityPer100K": 0.096
       },
       {
         "itemId": 124792,
         "nameKr": "25 변신캠페인 코인 10개",
-        "nameTh": "เหรียญที่ระลึกแคมเปญแปลงร่าง 10 ชิ้น",
+        "nameTh": "เหรียญแปลงร่าง 2026 10 ชิ้น",
         "probability": 5.0,
         "probabilityPer100K": 4.9965
       },
       {
         "itemId": 124791,
         "nameKr": "25 변신캠페인 코인 5개",
-        "nameTh": "เหรียญที่ระลึกแคมเปญแปลงร่าง 5 ชิ้น",
+        "nameTh": "เหรียญแปลงร่าง 2026 5 ชิ้น",
         "probability": 90.8,
         "probabilityPer100K": 90.806
       }
@@ -44514,47 +44614,55 @@
   {
     "boxId": 124808,
     "nameKr": "25 변신캠페인 코인 주머니",
-    "hidden": true,
+    "nameTh": "ถุงเหรียญแปลงร่าง 2026",
+    "hidden": false,
     "items": [
       {
         "itemId": 125131,
         "nameKr": "25 변신캠페인 코인 300개",
+        "nameTh": "เหรียญแปลงร่าง 2026 300 ชิ้น",
         "probability": 0.2,
         "probabilityPer100K": 0.2045
       },
       {
         "itemId": 125130,
         "nameKr": "25 변신캠페인 코인 200개",
+        "nameTh": "เหรียญแปลงร่าง 2026 200 ชิ้น",
         "probability": 0.4,
         "probabilityPer100K": 0.394
       },
       {
         "itemId": 125129,
         "nameKr": "25 변신캠페인 코인 100개",
+        "nameTh": "เหรียญแปลงร่าง 2026 100 ชิ้น",
         "probability": 1.0,
         "probabilityPer100K": 0.9705
       },
       {
         "itemId": 125128,
         "nameKr": "25 변신캠페인 코인 80개",
+        "nameTh": "เหรียญแปลงร่าง 2026 80 ชิ้น",
         "probability": 3.0,
         "probabilityPer100K": 3.054
       },
       {
         "itemId": 125127,
         "nameKr": "25 변신캠페인 코인 30개",
+        "nameTh": "เหรียญแปลงร่าง 2026 30 ชิ้น",
         "probability": 20.0,
         "probabilityPer100K": 20.057
       },
       {
         "itemId": 125125,
         "nameKr": "25 변신캠페인 코인 15개",
+        "nameTh": "เหรียญแปลงร่าง 2026 15 ชิ้น",
         "probability": 64.4,
         "probabilityPer100K": 64.32
       },
       {
         "itemId": 125117,
         "nameKr": "25 변신캠페인 코인 50개",
+        "nameTh": "เหรียญแปลงร่าง 2026 50 ชิ้น",
         "probability": 11.0,
         "probabilityPer100K": 11.0
       }
@@ -50014,7 +50122,7 @@
       {
         "itemId": 107394,
         "nameKr": "우주묘 슈 패키지 1개",
-        "nameTh": "แพ็กเกจแมวหง่าวอวกาศชู 1 ชิ้น",
+        "nameTh": "แพ็กเกจกระต่ายอวกาศชู 1 ชิ้น",
         "probability": 0.06,
         "probabilityPer100K": 0.0595
       },
@@ -65978,7 +66086,7 @@
       {
         "itemId": 80178,
         "nameKr": "I am Narcissus 내구도",
-        "nameTh": "I am Narcissus (ซ่อมแซม)",
+        "nameTh": "I am เนสสึ (ซ่อมแซม)",
         "probability": 0.1068,
         "probabilityPer100K": 0.104
       },
@@ -115734,7 +115842,7 @@
       {
         "itemId": 80178,
         "nameKr": "I am Narcissus 내구도",
-        "nameTh": "I am Narcissus (ซ่อมแซม)",
+        "nameTh": "I am เนสสึ (ซ่อมแซม)",
         "probability": 0.1104,
         "probabilityPer100K": 0.106
       },

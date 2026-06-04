@@ -1,6 +1,6 @@
 [
   {
-    "nameKr": "노멀 아틀리에 변경권",
+    "nameKr": "Normal Atelier Change Ticket",
     "groups": [
       {
         "sourceKr": "일반 2",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "nameKr": "레어 아틀리에 변경권",
+    "nameKr": "Rare Atelier Change Ticket",
     "groups": [
       {
         "sourceKr": "레어",
@@ -37,7 +37,7 @@
     ]
   },
   {
-    "nameKr": "유니크 아틀리에 변경권",
+    "nameKr": "Unique Atelier Change Ticket",
     "groups": [
       {
         "sourceKr": "유니크",
@@ -53,7 +53,7 @@
     ]
   },
   {
-    "nameKr": "타임 아틀리에 변경권",
+    "nameKr": "Time Atelier Change Ticket",
     "groups": [
       {
         "sourceKr": "일반 2",
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "nameKr": "레전더리 아틀리에 변경권",
+    "nameKr": "Legendary Atelier Change Ticket",
     "groups": [
       {
         "sourceKr": "레전더리",
@@ -106,7 +106,7 @@
     ]
   },
   {
-    "nameKr": "얼티밋 아틀리에 변경권",
+    "nameKr": "Ultimate Atelier Change Ticket",
     "groups": [
       {
         "sourceKr": "레전더리",
@@ -127,7 +127,7 @@
     ]
   },
   {
-    "nameKr": "New.2 다이아 변경권",
+    "nameKr": "New.2 ตั๋วเปลี่ยนไดมอนด์",
     "groups": [
       {
         "sourceKr": "레전더리",
@@ -158,7 +158,7 @@
     ]
   },
   {
-    "nameKr": "New.2 시그니처 변경권",
+    "nameKr": "New.2 ตั๋วเปลี่ยนซิกเนเจอร์",
     "groups": [
       {
         "sourceKr": "유니크",

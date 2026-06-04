@@ -1,5 +1,1204 @@
 [
   {
+    "boxId": 125444,
+    "nameKr": "",
+    "nameTh": "กล่องเครื่องประดับการ์ตูน",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 125486,
+        "nameKr": "",
+        "nameTh": "ตั๋วเครื่องประดับการ์ตูน 2 ชิ้น",
+        "probability": 8.571428571428571,
+        "probabilityPer100K": 8571.42857142857
+      },
+      {
+        "itemId": 125485,
+        "nameKr": "",
+        "nameTh": "ตั๋วเครื่องประดับการ์ตูน 1 ชิ้น",
+        "probability": 42.857142857142854,
+        "probabilityPer100K": 42857.142857142855
+      },
+      {
+        "itemId": 125483,
+        "nameKr": "",
+        "nameTh": "แพ็กเครื่องหัวโดนัทกระต่าย 1 ชิ้น",
+        "probability": 2.857142857142857,
+        "probabilityPer100K": 2857.142857142857
+      },
+      {
+        "itemId": 125481,
+        "nameKr": "",
+        "nameTh": "แพ็กเครื่องหัวโดนัทเต่า 1 ชิ้น",
+        "probability": 2.857142857142857,
+        "probabilityPer100K": 2857.142857142857
+      },
+      {
+        "itemId": 125479,
+        "nameKr": "",
+        "nameTh": "แพ็กเครื่องหัวโดนัทเสือ 1 ชิ้น",
+        "probability": 2.857142857142857,
+        "probabilityPer100K": 2857.142857142857
+      },
+      {
+        "itemId": 125477,
+        "nameKr": "",
+        "nameTh": "แพ็กเครื่องหัวโดนัทผึ้ง 1 ชิ้น",
+        "probability": 2.857142857142857,
+        "probabilityPer100K": 2857.142857142857
+      },
+      {
+        "itemId": 125475,
+        "nameKr": "",
+        "nameTh": "แพ็กหมีเก้งก้าง 1 ชิ้น",
+        "probability": 2.857142857142857,
+        "probabilityPer100K": 2857.142857142857
+      },
+      {
+        "itemId": 125473,
+        "nameKr": "",
+        "nameTh": "แพ็กแว่นตาตลก 1 ชิ้น",
+        "probability": 2.857142857142857,
+        "probabilityPer100K": 2857.142857142857
+      },
+      {
+        "itemId": 125471,
+        "nameKr": "",
+        "nameTh": "แพ็กแว่นตาไข่ห่าน 1 ชิ้น",
+        "probability": 2.857142857142857,
+        "probabilityPer100K": 2857.142857142857
+      },
+      {
+        "itemId": 125469,
+        "nameKr": "",
+        "nameTh": "แพ็กแว่นตาใหญ่โต 1 ชิ้น",
+        "probability": 2.857142857142857,
+        "probabilityPer100K": 2857.142857142857
+      },
+      {
+        "itemId": 125467,
+        "nameKr": "",
+        "nameTh": "แพ็กแว่นตาจิ๋ว 1 ชิ้น",
+        "probability": 2.857142857142857,
+        "probabilityPer100K": 2857.142857142857
+      },
+      {
+        "itemId": 125465,
+        "nameKr": "",
+        "nameTh": "แพ็กหนวดอะแฮ่ม! 1 ชิ้น",
+        "probability": 2.857142857142857,
+        "probabilityPer100K": 2857.142857142857
+      },
+      {
+        "itemId": 125463,
+        "nameKr": "",
+        "nameTh": "แพ็กหนวดสุภาพบุรุษ 1 ชิ้น",
+        "probability": 2.857142857142857,
+        "probabilityPer100K": 2857.142857142857
+      },
+      {
+        "itemId": 125461,
+        "nameKr": "",
+        "nameTh": "แพ็กเครื่องหัวบึ้งตึง 1 ชิ้น",
+        "probability": 2.857142857142857,
+        "probabilityPer100K": 2857.142857142857
+      },
+      {
+        "itemId": 125459,
+        "nameKr": "",
+        "nameTh": "แพ็กเครื่องหัวทวิสต์ 1 ชิ้น",
+        "probability": 2.857142857142857,
+        "probabilityPer100K": 2857.142857142857
+      },
+      {
+        "itemId": 125457,
+        "nameKr": "",
+        "nameTh": "แพ็กโอมกบนหัว 1 ชิ้น",
+        "probability": 2.857142857142857,
+        "probabilityPer100K": 2857.142857142857
+      },
+      {
+        "itemId": 125455,
+        "nameKr": "",
+        "nameTh": "แพ็กลูกเจี๊ยบบนหัว 1 ชิ้น",
+        "probability": 2.857142857142857,
+        "probabilityPer100K": 2857.142857142857
+      },
+      {
+        "itemId": 125453,
+        "nameKr": "",
+        "nameTh": "แพ็กแมวสามสีบนหัว 1 ชิ้น",
+        "probability": 2.857142857142857,
+        "probabilityPer100K": 2857.142857142857
+      },
+      {
+        "itemId": 125451,
+        "nameKr": "",
+        "nameTh": "แพ็กแมวมอคค่าบนหัว 1 ชิ้น",
+        "probability": 2.857142857142857,
+        "probabilityPer100K": 2857.142857142857
+      }
+    ]
+  },
+  {
+    "boxId": 125246,
+    "nameKr": "",
+    "nameTh": "กล่องกระต่ายนุ่มนิ่ม",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 125263,
+        "nameKr": "",
+        "nameTh": "ตั๋วกระต่ายนุ่มนิ่ม 3 ชิ้น",
+        "probability": 5.0,
+        "probabilityPer100K": 5000.0
+      },
+      {
+        "itemId": 125262,
+        "nameKr": "",
+        "nameTh": "ตั๋วกระต่ายนุ่มนิ่ม 2 ชิ้น",
+        "probability": 12.0,
+        "probabilityPer100K": 12000.0
+      },
+      {
+        "itemId": 125261,
+        "nameKr": "",
+        "nameTh": "ตั๋วกระต่ายนุ่มนิ่ม 1 ชิ้น",
+        "probability": 79.7,
+        "probabilityPer100K": 79700.0
+      },
+      {
+        "itemId": 125236,
+        "nameKr": "",
+        "nameTh": "พวงกระต่ายนุ่มนิ่ม (ซ่อมแซม)",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 125234,
+        "nameKr": "",
+        "nameTh": "ปีกกระต่ายนุ่มนิ่ม (ซ่อมแซม)",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 125232,
+        "nameKr": "",
+        "nameTh": "แก้มแดงกระต่ายนุ่มนิ่ม (ซ่อมแซม)",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 125230,
+        "nameKr": "",
+        "nameTh": "หมวกกระต่ายนุ่มนิ่ม (ญ) (ซ่อมแซม)",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 125228,
+        "nameKr": "",
+        "nameTh": "หมวกกระต่ายนุ่มนิ่ม (ช) (ซ่อมแซม)",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 125226,
+        "nameKr": "",
+        "nameTh": "รองเท้ากระต่ายนุ่มนิ่ม (ญ) (ซ่อมแซม)",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 125224,
+        "nameKr": "",
+        "nameTh": "รองเท้ากระต่ายนุ่มนิ่ม (ช) (ซ่อมแซม)",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 125222,
+        "nameKr": "",
+        "nameTh": "ชุดกระต่ายนุ่มนิ่ม (ญ) (ซ่อมแซม)",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 125220,
+        "nameKr": "",
+        "nameTh": "ชุดกระต่ายนุ่มนิ่ม (ช) (ซ่อมแซม)",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 125218,
+        "nameKr": "",
+        "nameTh": "ผมกระต่ายนุ่มนิ่ม (ญ) (ซ่อมแซม)",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 125216,
+        "nameKr": "",
+        "nameTh": "ผมกระต่ายนุ่มนิ่ม (ช) (ซ่อมแซม)",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      }
+    ]
+  },
+  {
+    "boxId": 125158,
+    "nameKr": "",
+    "nameTh": "แพ็คเกจปิเอโร่เรมินิส",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 125156,
+        "nameKr": "",
+        "nameTh": "ปิเอโร่สีแดง 100 วัน",
+        "probability": 16.666666666666664,
+        "probabilityPer100K": 16666.666666666664
+      },
+      {
+        "itemId": 125152,
+        "nameKr": "",
+        "nameTh": "ปีกปิเอโร่เรมินิส 100 วัน",
+        "probability": 16.666666666666664,
+        "probabilityPer100K": 16666.666666666664
+      },
+      {
+        "itemId": 125148,
+        "nameKr": "",
+        "nameTh": "หน้ากากปิเอโร่เรมินิส 100 วัน",
+        "probability": 16.666666666666664,
+        "probabilityPer100K": 16666.666666666664
+      },
+      {
+        "itemId": 125144,
+        "nameKr": "",
+        "nameTh": "หมวกปิเอโร่เรมินิส 100 วัน",
+        "probability": 16.666666666666664,
+        "probabilityPer100K": 16666.666666666664
+      },
+      {
+        "itemId": 125140,
+        "nameKr": "",
+        "nameTh": "รองเท้าปิเอโร่เรมินิส 100 วัน",
+        "probability": 16.666666666666664,
+        "probabilityPer100K": 16666.666666666664
+      },
+      {
+        "itemId": 125136,
+        "nameKr": "",
+        "nameTh": "ชุดปิเอโร่เรมินิส 100 วัน",
+        "probability": 16.666666666666664,
+        "probabilityPer100K": 16666.666666666664
+      }
+    ]
+  },
+  {
+    "boxId": 125078,
+    "nameKr": "",
+    "nameTh": "ถุงไข่แปลงร่าง 2026",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 125092,
+        "nameKr": "",
+        "nameTh": "เหรียญไข่แปลงร่าง 2026 2 ชิ้น",
+        "probability": 27.472527472527474,
+        "probabilityPer100K": 27472.527472527476
+      },
+      {
+        "itemId": 125091,
+        "nameKr": "",
+        "nameTh": "เหรียญไข่แปลงร่าง 2026 1 ชิ้น",
+        "probability": 68.68131868131869,
+        "probabilityPer100K": 68681.31868131868
+      },
+      {
+        "itemId": 125049,
+        "nameKr": "",
+        "nameTh": "โซนถ่ายรูปหมีกระต่าย (ซ่อมแซม)",
+        "probability": 0.3434065934065934,
+        "probabilityPer100K": 343.4065934065934
+      },
+      {
+        "itemId": 125045,
+        "nameKr": "",
+        "nameTh": "โฟโต้การ์ดคู่รักหมีกระต่าย (ซ่อมแซม)",
+        "probability": 0.3434065934065934,
+        "probabilityPer100K": 343.4065934065934
+      },
+      {
+        "itemId": 125043,
+        "nameKr": "",
+        "nameTh": "สายรัดคู่รักหมีกระต่าย (ซ่อมแซม)",
+        "probability": 0.3434065934065934,
+        "probabilityPer100K": 343.4065934065934
+      },
+      {
+        "itemId": 125041,
+        "nameKr": "",
+        "nameTh": "หมวกคู่รักหมีกระต่าย (ญ) (ซ่อมแซม)",
+        "probability": 0.3434065934065934,
+        "probabilityPer100K": 343.4065934065934
+      },
+      {
+        "itemId": 125039,
+        "nameKr": "",
+        "nameTh": "หมวกคู่รักหมีกระต่าย (ช) (ซ่อมแซม)",
+        "probability": 0.3434065934065934,
+        "probabilityPer100K": 343.4065934065934
+      },
+      {
+        "itemId": 125037,
+        "nameKr": "",
+        "nameTh": "รองเท้าคู่รักหมีกระต่าย (ญ) (ซ่อมแซม)",
+        "probability": 0.3434065934065934,
+        "probabilityPer100K": 343.4065934065934
+      },
+      {
+        "itemId": 125035,
+        "nameKr": "",
+        "nameTh": "รองเท้าคู่รักหมีกระต่าย (ช) (ซ่อมแซม)",
+        "probability": 0.3434065934065934,
+        "probabilityPer100K": 343.4065934065934
+      },
+      {
+        "itemId": 125033,
+        "nameKr": "",
+        "nameTh": "ชุดคู่รักหมีกระต่าย (ญ) (ซ่อมแซม)",
+        "probability": 0.3434065934065934,
+        "probabilityPer100K": 343.4065934065934
+      },
+      {
+        "itemId": 125031,
+        "nameKr": "",
+        "nameTh": "ชุดคู่รักหมีกระต่าย (ช) (ซ่อมแซม)",
+        "probability": 0.3434065934065934,
+        "probabilityPer100K": 343.4065934065934
+      },
+      {
+        "itemId": 125029,
+        "nameKr": "",
+        "nameTh": "ผมหมีกระต่าย (ญ) (ซ่อมแซม)",
+        "probability": 0.3434065934065934,
+        "probabilityPer100K": 343.4065934065934
+      },
+      {
+        "itemId": 125027,
+        "nameKr": "",
+        "nameTh": "ผมหมีกระต่าย (ช) (ซ่อมแซม)",
+        "probability": 0.3434065934065934,
+        "probabilityPer100K": 343.4065934065934
+      },
+      {
+        "itemId": 124897,
+        "nameKr": "",
+        "nameTh": "มงกุฎซอลฮวาสะพรั่ง (ซ่อมแซม)",
+        "probability": 0.06868131868131869,
+        "probabilityPer100K": 68.68131868131869
+      }
+    ]
+  },
+  {
+    "boxId": 125072,
+    "nameKr": "",
+    "nameTh": "กล่องหมีกระต่าย",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 125087,
+        "nameKr": "",
+        "nameTh": "หมีกระต่าย 3 ชิ้น",
+        "probability": 10.0,
+        "probabilityPer100K": 10000.0
+      },
+      {
+        "itemId": 125086,
+        "nameKr": "",
+        "nameTh": "หมีกระต่าย 2 ชิ้น",
+        "probability": 25.0,
+        "probabilityPer100K": 25000.0
+      },
+      {
+        "itemId": 125085,
+        "nameKr": "",
+        "nameTh": "หมีกระต่าย 1 ชิ้น",
+        "probability": 60.3,
+        "probabilityPer100K": 60300.0
+      },
+      {
+        "itemId": 125071,
+        "nameKr": "",
+        "nameTh": "แพ็กโซนถ่ายรูปหมีกระต่าย 1 ชิ้น",
+        "probability": 0.1,
+        "probabilityPer100K": 100.0
+      },
+      {
+        "itemId": 125069,
+        "nameKr": "",
+        "nameTh": "แพ็กโฟโต้การ์ดคู่รักหมีกระต่าย 1 ชิ้น",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 125067,
+        "nameKr": "",
+        "nameTh": "แพ็กสายรัดคู่รักหมีกระต่าย 1 ชิ้น",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 125065,
+        "nameKr": "",
+        "nameTh": "แพ็กหมวกคู่รักหมีกระต่าย (ญ) 1 ชิ้น",
+        "probability": 0.5,
+        "probabilityPer100K": 500.0
+      },
+      {
+        "itemId": 125063,
+        "nameKr": "",
+        "nameTh": "แพ็กหมวกคู่รักหมีกระต่าย (ช) 1 ชิ้น",
+        "probability": 0.5,
+        "probabilityPer100K": 500.0
+      },
+      {
+        "itemId": 125061,
+        "nameKr": "",
+        "nameTh": "แพ็กรองเท้าคู่รักหมีกระต่าย (ญ) 1 ชิ้น",
+        "probability": 0.5,
+        "probabilityPer100K": 500.0
+      },
+      {
+        "itemId": 125059,
+        "nameKr": "",
+        "nameTh": "แพ็กรองเท้าคู่รักหมีกระต่าย (ช) 1 ชิ้น",
+        "probability": 0.5,
+        "probabilityPer100K": 500.0
+      },
+      {
+        "itemId": 125057,
+        "nameKr": "",
+        "nameTh": "แพ็กชุดคู่รักหมีกระต่าย (ญ) 1 ชิ้น",
+        "probability": 0.5,
+        "probabilityPer100K": 500.0
+      },
+      {
+        "itemId": 125055,
+        "nameKr": "",
+        "nameTh": "แพ็กชุดคู่รักหมีกระต่าย (ช) 1 ชิ้น",
+        "probability": 0.5,
+        "probabilityPer100K": 500.0
+      },
+      {
+        "itemId": 125053,
+        "nameKr": "",
+        "nameTh": "แพ็กผมหมีกระต่าย (ญ) 1 ชิ้น",
+        "probability": 0.5,
+        "probabilityPer100K": 500.0
+      },
+      {
+        "itemId": 125051,
+        "nameKr": "",
+        "nameTh": "แพ็กผมหมีกระต่าย (ช) 1 ชิ้น",
+        "probability": 0.5,
+        "probabilityPer100K": 500.0
+      }
+    ]
+  },
+  {
+    "boxId": 125002,
+    "nameKr": "",
+    "nameTh": "กล่องเลิฟเดลิเวอร์รี่",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 125019,
+        "nameKr": "",
+        "nameTh": "ตั๋วเลิฟเดลิเวอร์รี่ 3 ชิ้น",
+        "probability": 5.0,
+        "probabilityPer100K": 5000.0
+      },
+      {
+        "itemId": 125018,
+        "nameKr": "",
+        "nameTh": "ตั๋วเลิฟเดลิเวอร์รี่ 2 ชิ้น",
+        "probability": 12.0,
+        "probabilityPer100K": 12000.0
+      },
+      {
+        "itemId": 125017,
+        "nameKr": "",
+        "nameTh": "ตั๋วเลิฟเดลิเวอร์รี่ 1 ชิ้น",
+        "probability": 79.7,
+        "probabilityPer100K": 79700.0
+      },
+      {
+        "itemId": 124992,
+        "nameKr": "",
+        "nameTh": "เลิฟเดลิเวอร์รี่ (ซ่อมแซม)",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 124990,
+        "nameKr": "",
+        "nameTh": "ปีกเลิฟเดลิเวอร์รี่ (ซ่อมแซม)",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 124988,
+        "nameKr": "",
+        "nameTh": "แตะแก้มเลิฟเดลิเวอร์รี่ (ซ่อมแซม)",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 124986,
+        "nameKr": "",
+        "nameTh": "หมวกเลิฟเดลิเวอร์รี่ (ญ) (ซ่อมแซม)",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 124984,
+        "nameKr": "",
+        "nameTh": "หมวกเลิฟเดลิเวอร์รี่ (ช) (ซ่อมแซม)",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 124982,
+        "nameKr": "",
+        "nameTh": "รองเท้าเลิฟเดลิเวอร์รี่ (ญ) (ซ่อมแซม)",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 124980,
+        "nameKr": "",
+        "nameTh": "รองเท้าเลิฟเดลิเวอร์รี่ (ช) (ซ่อมแซม)",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 124978,
+        "nameKr": "",
+        "nameTh": "ชุดเลิฟเดลิเวอร์รี่ (ญ) (ซ่อมแซม)",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 124976,
+        "nameKr": "",
+        "nameTh": "ชุดเลิฟเดลิเวอร์รี่ (ช) (ซ่อมแซม)",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 124974,
+        "nameKr": "",
+        "nameTh": "ผมเลิฟเดลิเวอร์รี่ (ญ) (ซ่อมแซม)",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 124972,
+        "nameKr": "",
+        "nameTh": "ผมเลิฟเดลิเวอร์รี่ (ช) (ซ่อมแซม)",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      }
+    ]
+  },
+  {
+    "boxId": 124911,
+    "nameKr": "",
+    "nameTh": "กล่องซอลฮวาสะพรั่ง",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 124960,
+        "nameKr": "",
+        "nameTh": "ลมหายใจแสงเหมันต์ 1 ชิ้น",
+        "probability": 16.5,
+        "probabilityPer100K": 16500.0
+      },
+      {
+        "itemId": 124954,
+        "nameKr": "",
+        "nameTh": "พลังแสงเหมันต์ 1 ชิ้น",
+        "probability": 16.5,
+        "probabilityPer100K": 16500.0
+      },
+      {
+        "itemId": 124948,
+        "nameKr": "",
+        "nameTh": "ผีเสื้อแสงเหมันต์ 1 ชิ้น",
+        "probability": 16.5,
+        "probabilityPer100K": 16500.0
+      },
+      {
+        "itemId": 124942,
+        "nameKr": "",
+        "nameTh": "คริสตัลแสงเหมันต์ 1 ชิ้น",
+        "probability": 16.5,
+        "probabilityPer100K": 16500.0
+      },
+      {
+        "itemId": 124936,
+        "nameKr": "",
+        "nameTh": "ใบแสงเหมันต์ 1 ชิ้น",
+        "probability": 16.5,
+        "probabilityPer100K": 16500.0
+      },
+      {
+        "itemId": 124930,
+        "nameKr": "",
+        "nameTh": "ดอกไม้แสงเหมันต์ 1 ชิ้น",
+        "probability": 16.5,
+        "probabilityPer100K": 16500.0
+      },
+      {
+        "itemId": 124918,
+        "nameKr": "",
+        "nameTh": "ตั๋วเลือกซอลฮวาสะพรั่ง 1 ชิ้น",
+        "probability": 1.0,
+        "probabilityPer100K": 1000.0
+      }
+    ]
+  },
+  {
+    "boxId": 124871,
+    "nameKr": "",
+    "nameTh": "กล่องต้นซากุระบานสะพรั่ง",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 125123,
+        "nameKr": "",
+        "nameTh": "กำไลแพ็กปีกซากุระบานสะพรั่ง 1 ชิ้น",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 125121,
+        "nameKr": "",
+        "nameTh": "แพ็กปีกซากุระบานสะพรั่ง 1 ชิ้น",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 125119,
+        "nameKr": "",
+        "nameTh": "แพ็กมงกุฎซากุระบานสะพรั่ง 1 ชิ้น",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 124887,
+        "nameKr": "",
+        "nameTh": "ซากุระบานสะพรั่ง 5 ชิ้น",
+        "probability": 5.0,
+        "probabilityPer100K": 5000.0
+      },
+      {
+        "itemId": 124885,
+        "nameKr": "",
+        "nameTh": "ซากุระบานสะพรั่ง 2 ชิ้น",
+        "probability": 25.0,
+        "probabilityPer100K": 25000.0
+      },
+      {
+        "itemId": 124884,
+        "nameKr": "",
+        "nameTh": "ซากุระบานสะพรั่ง 1 ชิ้น",
+        "probability": 69.1,
+        "probabilityPer100K": 69100.0
+      }
+    ]
+  },
+  {
+    "boxId": 124844,
+    "nameKr": "",
+    "nameTh": "กล่องพาสแปลงร่าง 2026",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 125132,
+        "nameKr": "",
+        "nameTh": "พาสแปลงร่าง 2026 6",
+        "probability": 16.666666666666664,
+        "probabilityPer100K": 16666.666666666664
+      },
+      {
+        "itemId": 124785,
+        "nameKr": "",
+        "nameTh": "พาสแปลงร่าง 2026 5",
+        "probability": 16.666666666666664,
+        "probabilityPer100K": 16666.666666666664
+      },
+      {
+        "itemId": 124784,
+        "nameKr": "",
+        "nameTh": "พาสแปลงร่าง 2026 4",
+        "probability": 16.666666666666664,
+        "probabilityPer100K": 16666.666666666664
+      },
+      {
+        "itemId": 124783,
+        "nameKr": "",
+        "nameTh": "พาสแปลงร่าง 2026 3",
+        "probability": 16.666666666666664,
+        "probabilityPer100K": 16666.666666666664
+      },
+      {
+        "itemId": 124782,
+        "nameKr": "",
+        "nameTh": "พาสแปลงร่าง 2026 2",
+        "probability": 16.666666666666664,
+        "probabilityPer100K": 16666.666666666664
+      },
+      {
+        "itemId": 124781,
+        "nameKr": "",
+        "nameTh": "พาสแปลงร่าง 2026 1",
+        "probability": 16.666666666666664,
+        "probabilityPer100K": 16666.666666666664
+      }
+    ]
+  },
+  {
+    "boxId": 124838,
+    "nameKr": "",
+    "nameTh": "กล่องปิเอโร่สีแดง",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 125129,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 100 ชิ้น",
+        "probability": 5.0,
+        "probabilityPer100K": 5000.0
+      },
+      {
+        "itemId": 125127,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 30 ชิ้น",
+        "probability": 65.0,
+        "probabilityPer100K": 65000.0
+      },
+      {
+        "itemId": 125117,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 50 ชิ้น",
+        "probability": 26.0,
+        "probabilityPer100K": 26000.0
+      },
+      {
+        "itemId": 124924,
+        "nameKr": "",
+        "nameTh": "เกล็ดหิมะ 1 ชิ้น",
+        "probability": 1.5,
+        "probabilityPer100K": 1500.0
+      },
+      {
+        "itemId": 124912,
+        "nameKr": "",
+        "nameTh": "กล่องซอลฮวาสะพรั่ง 1 ชิ้น",
+        "probability": 0.5,
+        "probabilityPer100K": 500.0
+      },
+      {
+        "itemId": 124878,
+        "nameKr": "",
+        "nameTh": "ดอกไม้ตูม 1 ชิ้น",
+        "probability": 1.5,
+        "probabilityPer100K": 1500.0
+      },
+      {
+        "itemId": 124872,
+        "nameKr": "",
+        "nameTh": "กล่องต้นซากุระบานสะพรั่ง 1 ชิ้น",
+        "probability": 0.5,
+        "probabilityPer100K": 500.0
+      }
+    ]
+  },
+  {
+    "boxId": 124832,
+    "nameKr": "",
+    "nameTh": "กล่องปิเอโร่สีแดงเก่าแก่",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 125124,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 4 ชิ้น",
+        "probability": 4.0,
+        "probabilityPer100K": 4000.0
+      },
+      {
+        "itemId": 124791,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 5 ชิ้น",
+        "probability": 2.0,
+        "probabilityPer100K": 2000.0
+      },
+      {
+        "itemId": 124790,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 3 ชิ้น",
+        "probability": 6.0,
+        "probabilityPer100K": 6000.0
+      },
+      {
+        "itemId": 124789,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 2 ชิ้น",
+        "probability": 10.0,
+        "probabilityPer100K": 10000.0
+      },
+      {
+        "itemId": 124788,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 1 ชิ้น",
+        "probability": 78.0,
+        "probabilityPer100K": 78000.0
+      }
+    ]
+  },
+  {
+    "boxId": 124826,
+    "nameKr": "",
+    "nameTh": "กล่องแปลงร่างขั้น 2",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 124924,
+        "nameKr": "",
+        "nameTh": "เกล็ดหิมะ 1 ชิ้น",
+        "probability": 0.2,
+        "probabilityPer100K": 200.0
+      },
+      {
+        "itemId": 124912,
+        "nameKr": "",
+        "nameTh": "กล่องซอลฮวาสะพรั่ง 1 ชิ้น",
+        "probability": 0.06,
+        "probabilityPer100K": 59.99999999999999
+      },
+      {
+        "itemId": 124878,
+        "nameKr": "",
+        "nameTh": "ดอกไม้ตูม 1 ชิ้น",
+        "probability": 0.2,
+        "probabilityPer100K": 200.0
+      },
+      {
+        "itemId": 124872,
+        "nameKr": "",
+        "nameTh": "กล่องต้นซากุระบานสะพรั่ง 1 ชิ้น",
+        "probability": 0.06,
+        "probabilityPer100K": 59.99999999999999
+      },
+      {
+        "itemId": 124815,
+        "nameKr": "",
+        "nameTh": "กล่องแปลงร่าง 2026 1 ชิ้น",
+        "probability": 10.0,
+        "probabilityPer100K": 10000.0
+      },
+      {
+        "itemId": 124791,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 5 ชิ้น",
+        "probability": 30.0,
+        "probabilityPer100K": 30000.0
+      },
+      {
+        "itemId": 124790,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 3 ชิ้น",
+        "probability": 59.48,
+        "probabilityPer100K": 59480.0
+      }
+    ]
+  },
+  {
+    "boxId": 124820,
+    "nameKr": "",
+    "nameTh": "กล่องแปลงร่างขั้น 1",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 124924,
+        "nameKr": "",
+        "nameTh": "เกล็ดหิมะ 1 ชิ้น",
+        "probability": 0.13999999999999999,
+        "probabilityPer100K": 140.0
+      },
+      {
+        "itemId": 124878,
+        "nameKr": "",
+        "nameTh": "ดอกไม้ตูม 1 ชิ้น",
+        "probability": 0.13999999999999999,
+        "probabilityPer100K": 140.0
+      },
+      {
+        "itemId": 124791,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 5 ชิ้น",
+        "probability": 4.0,
+        "probabilityPer100K": 4000.0
+      },
+      {
+        "itemId": 124790,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 3 ชิ้น",
+        "probability": 20.0,
+        "probabilityPer100K": 20000.0
+      },
+      {
+        "itemId": 124789,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 2 ชิ้น",
+        "probability": 75.72,
+        "probabilityPer100K": 75720.0
+      }
+    ]
+  },
+  {
+    "boxId": 124814,
+    "nameKr": "",
+    "nameTh": "กล่องแปลงร่าง 2026",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 125126,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 25 ชิ้น",
+        "probability": 1.0,
+        "probabilityPer100K": 1000.0
+      },
+      {
+        "itemId": 125125,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 15 ชิ้น",
+        "probability": 2.0,
+        "probabilityPer100K": 2000.0
+      },
+      {
+        "itemId": 125117,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 50 ชิ้น",
+        "probability": 0.4,
+        "probabilityPer100K": 400.0
+      },
+      {
+        "itemId": 124924,
+        "nameKr": "",
+        "nameTh": "เกล็ดหิมะ 1 ชิ้น",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 124912,
+        "nameKr": "",
+        "nameTh": "กล่องซอลฮวาสะพรั่ง 1 ชิ้น",
+        "probability": 0.1,
+        "probabilityPer100K": 100.0
+      },
+      {
+        "itemId": 124878,
+        "nameKr": "",
+        "nameTh": "ดอกไม้ตูม 1 ชิ้น",
+        "probability": 0.3,
+        "probabilityPer100K": 300.0
+      },
+      {
+        "itemId": 124872,
+        "nameKr": "",
+        "nameTh": "กล่องต้นซากุระบานสะพรั่ง 1 ชิ้น",
+        "probability": 0.1,
+        "probabilityPer100K": 100.0
+      },
+      {
+        "itemId": 124792,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 10 ชิ้น",
+        "probability": 5.0,
+        "probabilityPer100K": 5000.0
+      },
+      {
+        "itemId": 124791,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 5 ชิ้น",
+        "probability": 90.8,
+        "probabilityPer100K": 90800.0
+      }
+    ]
+  },
+  {
+    "boxId": 124808,
+    "nameKr": "",
+    "nameTh": "ถุงเหรียญแปลงร่าง 2026",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 125131,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 300 ชิ้น",
+        "probability": 0.2,
+        "probabilityPer100K": 200.0
+      },
+      {
+        "itemId": 125130,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 200 ชิ้น",
+        "probability": 0.4,
+        "probabilityPer100K": 400.0
+      },
+      {
+        "itemId": 125129,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 100 ชิ้น",
+        "probability": 1.0,
+        "probabilityPer100K": 1000.0
+      },
+      {
+        "itemId": 125128,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 80 ชิ้น",
+        "probability": 3.0,
+        "probabilityPer100K": 3000.0
+      },
+      {
+        "itemId": 125127,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 30 ชิ้น",
+        "probability": 20.0,
+        "probabilityPer100K": 20000.0
+      },
+      {
+        "itemId": 125125,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 15 ชิ้น",
+        "probability": 64.4,
+        "probabilityPer100K": 64400.0
+      },
+      {
+        "itemId": 125117,
+        "nameKr": "",
+        "nameTh": "เหรียญแปลงร่าง 2026 50 ชิ้น",
+        "probability": 11.0,
+        "probabilityPer100K": 11000.0
+      }
+    ]
+  },
+  {
+    "boxId": 124740,
+    "nameKr": "",
+    "nameTh": "กล่องลาสต์เคออสเอนดิ้ง",
+    "hidden": false,
+    "items": [
+      {
+        "itemId": 124753,
+        "nameKr": "",
+        "nameTh": "แต้มพาสเคออส 300 แต้ม",
+        "probability": 2.4,
+        "probabilityPer100K": 2400.0
+      },
+      {
+        "itemId": 124752,
+        "nameKr": "",
+        "nameTh": "แต้มพาสเคออส 100 แต้ม",
+        "probability": 7.000000000000001,
+        "probabilityPer100K": 7000.000000000001
+      },
+      {
+        "itemId": 122907,
+        "nameKr": "",
+        "nameTh": "แกนอาร์คแองเจิล 1 ชิ้น",
+        "probability": 1.6,
+        "probabilityPer100K": 1600.0
+      },
+      {
+        "itemId": 122901,
+        "nameKr": "",
+        "nameTh": "แกนอาร์คเดวิล 1 ชิ้น",
+        "probability": 1.6,
+        "probabilityPer100K": 1600.0
+      },
+      {
+        "itemId": 122885,
+        "nameKr": "",
+        "nameTh": "กล่องพรีมาแองเจิลปิดผนึก 1 ชิ้น",
+        "probability": 2.4,
+        "probabilityPer100K": 2400.0
+      },
+      {
+        "itemId": 122873,
+        "nameKr": "",
+        "nameTh": "กล่องพรีมาเดวิลปิดผนึก 1 ชิ้น",
+        "probability": 2.4,
+        "probabilityPer100K": 2400.0
+      },
+      {
+        "itemId": 122785,
+        "nameKr": "",
+        "nameTh": "กล่องคุรีอองอรุณ 1 ชิ้น",
+        "probability": 0.6,
+        "probabilityPer100K": 600.0
+      },
+      {
+        "itemId": 122727,
+        "nameKr": "",
+        "nameTh": "กล่องเอเธอร์สตรอม 1 ชิ้น",
+        "probability": 0.1,
+        "probabilityPer100K": 100.0
+      },
+      {
+        "itemId": 122721,
+        "nameKr": "",
+        "nameTh": "กล่องวอยด์สตรอม 1 ชิ้น",
+        "probability": 0.1,
+        "probabilityPer100K": 100.0
+      },
+      {
+        "itemId": 121943,
+        "nameKr": "",
+        "nameTh": "เหรียญทองลาสต์เคออส 5 ชิ้น",
+        "probability": 9.0,
+        "probabilityPer100K": 9000.0
+      },
+      {
+        "itemId": 84702,
+        "nameKr": "",
+        "nameTh": "EXP 4000 UP",
+        "probability": 32.4,
+        "probabilityPer100K": 32400.0
+      },
+      {
+        "itemId": 61049,
+        "nameKr": "",
+        "nameTh": "200 มาอู",
+        "probability": 8.0,
+        "probabilityPer100K": 8000.0
+      },
+      {
+        "itemId": 43313,
+        "nameKr": "",
+        "nameTh": "TR 4000 UP",
+        "probability": 32.4,
+        "probabilityPer100K": 32400.0
+      }
+    ]
+  },
+  {
     "boxId": 124712,
     "nameKr": "",
     "nameTh": "กล่องติ่มซำ",
@@ -8604,7 +9803,7 @@
       {
         "itemId": 107394,
         "nameKr": "",
-        "nameTh": "แพ็กเกจแมวหง่าวอวกาศชู 1 ชิ้น",
+        "nameTh": "แพ็กเกจกระต่ายอวกาศชู 1 ชิ้น",
         "probability": 0.06,
         "probabilityPer100K": 59.99999999999999
       },
@@ -34802,7 +36001,7 @@
       {
         "itemId": 80178,
         "nameKr": "",
-        "nameTh": "I am Narcissus (ซ่อมแซม)",
+        "nameTh": "I am เนสสึ (ซ่อมแซม)",
         "probability": 0.10683760683760685,
         "probabilityPer100K": 106.83760683760684
       },
@@ -66128,7 +67327,7 @@
   {
     "boxId": 107393,
     "nameKr": "",
-    "nameTh": "แพ็กเกจแมวหง่าวอวกาศชู",
+    "nameTh": "แพ็กเกจกระต่ายอวกาศชู",
     "hidden": false,
     "items": [
       {
@@ -105403,7 +106602,7 @@
       {
         "itemId": 80178,
         "nameKr": "",
-        "nameTh": "I am Narcissus (ซ่อมแซม)",
+        "nameTh": "I am เนสสึ (ซ่อมแซม)",
         "probability": 0.11037527593818984,
         "probabilityPer100K": 110.37527593818984
       },
@@ -176439,7 +177638,7 @@
       {
         "itemId": 80178,
         "nameKr": "",
-        "nameTh": "I am Narcissus (ซ่อมแซม)",
+        "nameTh": "I am เนสสึ (ซ่อมแซม)",
         "probability": 0.13192612137203166,
         "probabilityPer100K": 131.92612137203164
       },
